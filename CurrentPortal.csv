@@ -1,0 +1,1554 @@
+﻿season,firstName,lastName,position,origin,destination,transferDate,rating,stars,eligibility
+2022,CamRon,Jackson,DL,Memphis,Memphis,2022-01-19T12:42:00.000Z,,3,Immediate
+2022,Keelan,Cox,DL,Alabama,,2022-01-28T16:54:00.000Z,,,Immediate
+2022,Jared,Ivey,EDGE,Georgia Tech,,2022-01-28T12:58:00.000Z,,4,Immediate
+2022,Tray,Pettway,WR,UMass,,2022-01-28T11:05:00.000Z,,3,Immediate
+2022,Aidan,Martin,K,Mississippi State,,2022-01-25T09:31:00.000Z,,2,Immediate
+2022,Justin,Redd,IOL,Norfolk State,,2022-01-21T18:38:00.000Z,,,Immediate
+2022,Dino,Tomlin,WR,Maryland,Boston College,2022-01-11T08:45:00.000Z,,3,Immediate
+2022,Cameron,Threatt,CB,Mississippi State,Akron,2021-08-01T00:00:00.000Z,,3,Immediate
+2022,Julius,Bolden,RB,Northern Illinois,,2022-01-27T15:34:00.000Z,,3,Immediate
+2022,Isaiah,Connelly,RB,Coastal Carolina,,2022-01-27T14:47:00.000Z,,3,Immediate
+2022,Elelyon,Noa,RB,Utah State,,2022-01-27T14:26:00.000Z,,3,Immediate
+2022,Daniel,Bushland,WR,Texas A&M,,2022-01-27T14:02:00.000Z,,,Immediate
+2022,Brian,Parish,OT,UMass,,2022-01-27T13:47:00.000Z,,2,Immediate
+2022,Sean,McGonigal,LB,South Carolina,,2022-01-27T13:34:00.000Z,,,Immediate
+2022,Ani,Izuchukwu,EDGE,Mississippi State,,2022-01-27T11:27:00.000Z,,4,Immediate
+2022,Sammy,Faustin,S,Michigan,,2022-01-27T11:05:00.000Z,,3,Immediate
+2022,Dorian,Hardy,DL,East Carolina,,2022-01-27T10:39:00.000Z,,3,Immediate
+2022,Chris,Conti,LB,Rutgers,,2022-01-27T10:04:00.000Z,,3,Immediate
+2022,Marquis,Robinson,DL,Auburn,,2022-01-27T09:40:00.000Z,0.88,3,Immediate
+2022,Matt,Bjorson,TE,Indiana,,2022-01-26T15:18:00.000Z,,3,Immediate
+2022,Wynden,Ho'ohuli,LB,Nebraska,Hawai'i,2022-01-21T23:02:00.000Z,,4,Immediate
+2022,Ramon,Jefferson,RB,Sam Houston State,,2022-01-14T13:22:00.000Z,,,Immediate
+2022,Kody,Sparks,QB,Bowling Green,,2022-01-07T14:06:00.000Z,,2,Immediate
+2022,Reginald,Neely,CB,Tulane,,2022-01-26T16:04:00.000Z,,3,Immediate
+2022,Chris,Cassidy,OT,North Texas,,2022-01-26T15:24:00.000Z,,3,Immediate
+2022,George,Georgopoulos,P,UMass,,2022-01-26T14:14:00.000Z,,2,Immediate
+2022,Tyree,O'Neil,WR,Buffalo,,2022-01-26T14:13:00.000Z,,2,Immediate
+2022,Jeff,Marks,DL,Purdue,,2022-01-26T14:10:00.000Z,,3,Immediate
+2022,Champ,Flemings,WR,Oregon State,,2022-01-26T14:09:00.000Z,,3,Immediate
+2022,Alex,Nobles,ATH,North Carolina,,2022-01-26T13:16:00.000Z,,,Immediate
+2022,Zachary,Dixon,LB,Georgia State,,2022-01-26T13:07:00.000Z,,2,Immediate
+2022,AJ,Mayer,QB,Miami (OH),,2022-01-26T08:07:00.000Z,,3,Immediate
+2022,Luke,Lane,IOL,Indiana,,2022-01-25T13:15:00.000Z,,,Immediate
+2022,Jarett,Garner,WR,Duke,,2022-01-25T12:53:00.000Z,,3,Immediate
+2022,Jarrett,Preston,S,UT San Antonio,,2022-01-25T09:42:00.000Z,,3,Immediate
+2022,Marcel,Walker,WR,Southern Connecticut State,Nevada,2022-01-10T00:00:00.000Z,,,Immediate
+2022,Cole,Feinauer,OT,Colorado State,Nevada,2021-12-08T07:37:00.000Z,,,Immediate
+2022,Dorian,Hinton,IOL,Middle Tennessee,,2022-01-25T18:32:00.000Z,,3,Immediate
+2022,Lance,Robinson,IOL,Middle Tennessee,,2022-01-25T18:29:00.000Z,,3,Immediate
+2022,Nick,Hartnett,IOL,VMI,Buffalo,2022-01-25T15:36:00.000Z,,,Immediate
+2022,Cecil,Singleton,CB,Miami (OH),,2022-01-25T12:57:00.000Z,,3,Immediate
+2022,A.J.,Lytton,CB,Penn State,,2022-01-25T12:47:00.000Z,,4,Immediate
+2022,Jacob,Sykes,DL,Harvard,UCLA,2022-01-25T11:48:00.000Z,0.88,3,Immediate
+2022,RJ,Orebo,DL,Texas A&M,,2022-01-25T11:33:00.000Z,,3,Immediate
+2022,Tyrone,Barber,DL,South Florida,,2022-01-25T10:24:00.000Z,,3,Immediate
+2022,Isaiah,Cromarty,CB,South Florida,,2022-01-25T09:06:00.000Z,,,Immediate
+2022,Alexander,Duke,EDGE,Houston,,2022-01-25T09:06:00.000Z,,3,Immediate
+2022,Keidron,Smith,CB,Ole Miss,,2022-01-24T14:53:00.000Z,0.9,4,Immediate
+2022,CJ,Boone,WR,New Mexico,,2022-01-16T09:34:00.000Z,0.85,3,Immediate
+2022,Jeffery,Johnson,DL,Tulane,Oklahoma,2022-01-07T00:00:00.000Z,0.89,3,TBD
+2022,Sean,Berry,S,UT San Antonio,,2021-12-16T14:20:00.000Z,,3,Immediate
+2022,Billy,Thursland,IOL,Houston,,2021-12-08T14:17:00.000Z,,,Immediate
+2022,Adam,Barry,P,Temple,,2022-01-19T00:27:00.000Z,,,Immediate
+2022,Jack,Abraham,QB,Mississippi State,,2022-01-21T14:24:00.000Z,,3,Immediate
+2022,Dimitri,Stanley,WR,Colorado,,2022-01-21T14:11:00.000Z,,3,Immediate
+2022,Ian,Mathews,DL,Auburn,,2022-01-21T14:06:00.000Z,,3,Immediate
+2022,Ja'Veon,Marlow,RB,Vanderbilt,,2022-01-21T14:04:00.000Z,,3,Immediate
+2022,Steven,Losoya,IOL,Middle Tennessee,Mississippi State,2022-01-21T12:02:00.000Z,,3,Immediate
+2022,KJ,Wallace,CB,Notre Dame,,2022-01-20T13:43:00.000Z,0.87,3,Immediate
+2022,Jonnie,Pitman,CB,Charlotte,,2022-01-20T13:37:00.000Z,,2,Immediate
+2022,Jarrick,Bernard,CB,Oklahoma State,LSU,2022-01-20T09:00:00.000Z,0.9,4,Immediate
+2022,JT,Daniels,QB,Georgia,,2022-01-19T14:37:00.000Z,0.89,3,Immediate
+2022,Omar,Brown,CB,Northern Iowa,Nebraska,2022-01-18T14:19:00.000Z,0.89,3,Immediate
+2022,Evan,Davis,K,Toledo,,2022-01-19T09:23:00.000Z,,2,Immediate
+2022,Jordon,Brookshire,QB,San Diego State,,2022-01-19T09:13:00.000Z,,3,Immediate
+2022,Bobby,Cole,RB,New Mexico,,2022-01-19T09:11:00.000Z,,2,Immediate
+2022,Lwal,Uguak,DL,Connecticut,,2022-01-19T09:08:00.000Z,,3,Immediate
+2022,Andrew,Boyle,K,Washington State,,2022-01-19T09:06:00.000Z,,2,Immediate
+2022,Logan,Kraut,S,Arizona,,2022-01-19T09:05:00.000Z,,3,Immediate
+2022,Tharon,Davis,RB,Memphis,,2022-01-19T09:03:00.000Z,,3,Immediate
+2022,Jehlani,Galloway,WR,Boston College,,2022-01-19T09:02:00.000Z,,3,Immediate
+2022,Lovasea,Carroll,RB,Georgia,South Carolina,2022-01-14T16:11:00.000Z,0.89,3,Immediate
+2022,CJ,Lewis,WR,Boston College,,2022-01-11T11:36:00.000Z,,3,Immediate
+2022,Jaylen,Johnson,WR,Georgia,East Carolina,2022-01-11T11:28:00.000Z,,,Immediate
+2022,Noah,Palmer,DL,Pittsburgh,,2022-01-03T14:53:00.000Z,,3,Immediate
+2022,Kody,Fulp,LB,North Texas,,2021-12-08T14:53:00.000Z,,3,Immediate
+2022,Chris,Smith,DL,Harvard,Minnesota,2021-11-23T10:41:00.000Z,0.87,3,Immediate
+2022,Daniel,Barker,TE,Illinois,,2022-01-18T21:14:00.000Z,,3,Immediate
+2022,Ishmael,Sopsher,DL,USC,,2022-01-18T19:41:00.000Z,0.81,3,SittingOne
+2022,Malik,Wesley,WR,UNLV,,2022-01-18T19:41:00.000Z,,2,Immediate
+2022,Massimo,Biscardi,K,Coastal Carolina,Mississippi State,2022-01-18T19:12:00.000Z,,2,Immediate
+2022,Jalen,McGaughy,WR,Ball State,,2022-01-18T12:37:00.000Z,,3,Immediate
+2022,Deonte,Simpson,WR,North Texas,,2022-01-18T12:17:00.000Z,,3,Immediate
+2022,TJ,Graham,WR,Texas State,,2021-11-29T09:14:00.000Z,0.81,3,Immediate
+2022,Collin,Westfelt,LS,Georgia State,,2021-11-15T12:39:00.000Z,,,Immediate
+2022,Maddox,Kopp,QB,Houston,Colorado,2021-11-15T12:23:00.000Z,0.8,3,Immediate
+2022,Dorian,Wesley,DL,Toledo,,2021-11-15T08:11:00.000Z,0.79,2,Immediate
+2022,Tyler,Baron,EDGE,Tennessee,,2022-01-06T14:05:00.000Z,,4,Immediate
+2022,Alex,Stadthaus,K,USC,,2021-12-06T12:03:00.000Z,,2,Immediate
+2022,Andrew,Faoliu,WDE,Boise State,,2021-08-04T14:54:00.000Z,,3,Immediate
+2022,Kameron,Butler,EDGE,Miami (OH),,2022-01-24T16:33:00.000Z,,3,Immediate
+2022,Jakari,Norwood,RB,Illinois,,2022-01-24T16:32:00.000Z,,3,Immediate
+2022,Semaj,Verner,S,Boise State,,2022-01-24T16:06:00.000Z,,3,Immediate
+2022,Jacob,Isaia,IOL,Michigan State,,2022-01-24T15:45:00.000Z,,3,Immediate
+2022,Xavier,Williams,WR,Alabama,Utah State,2021-11-12T14:06:00.000Z,0.82,3,Immediate
+2022,Kanan,Ray,IOL,Colorado,,2022-01-12T18:35:00.000Z,,,Immediate
+2022,Desmond,Dan,WR,Illinois,,2022-01-11T18:22:00.000Z,,2,Immediate
+2022,Fortune,Woods,LB,Bowling Green,,2022-01-11T18:18:00.000Z,,2,Immediate
+2022,Chaton,Mobley,RB,Middle Tennessee,,2022-01-10T18:15:00.000Z,0.82,3,Immediate
+2022,Justin,Weller,WR,Penn State,,2022-01-10T18:14:00.000Z,,2,Immediate
+2022,Tyler,Guyton,OT,TCU,Oklahoma,2022-01-10T18:06:00.000Z,,3,Immediate
+2022,Tyriq,Hardimon,CB,Wake Forest,,2022-01-10T18:05:00.000Z,,3,Immediate
+2022,Sokoya,McDuffie,DL,Old Dominion,,2022-01-07T18:04:00.000Z,,3,Immediate
+2022,Camden,Price,K,Miami,,2022-01-06T17:57:00.000Z,,,Immediate
+2022,Kai,Arneson,OT,Oregon,Nevada,2022-01-06T17:53:00.000Z,,,Immediate
+2022,Luke,Soto,TE,UTEP,,2022-01-03T17:46:00.000Z,,2,Immediate
+2022,Max,Fisher,WR,NC State,,2022-01-02T17:43:00.000Z,,3,Immediate
+2022,Nick,D'Ambra,ATH,Western Illinois,Fresno State,2022-01-01T19:50:00.000Z,,,Immediate
+2022,Evan,Gregory,OT,Maryland,,2022-01-01T17:40:00.000Z,,3,Immediate
+2022,Paul,Moala,S,Notre Dame,,2022-01-01T14:54:00.000Z,,3,Immediate
+2022,Bruce,Seton,LB,Washington State,,2021-12-30T17:32:00.000Z,,,Immediate
+2022,Khalid,Martin,S,NC State,,2021-12-30T14:54:00.000Z,,3,Immediate
+2022,Rashad,Cheney,DL,Minnesota,South Florida,2021-11-22T10:42:00.000Z,0.8,3,Immediate
+2022,Andrew,Brito,QB,UCF,,2021-12-28T16:52:00.000Z,,3,Immediate
+2022,Tyrin,Smith,WR,UTEP,,2021-12-27T16:47:00.000Z,,,Immediate
+2022,Nickolas,Tshivuadi,WR,South Florida,,2021-12-23T15:37:00.000Z,,3,Immediate
+2022,Cornell,Hendrick,WR,Old Dominion,,2021-12-23T15:37:00.000Z,,2,Immediate
+2022,Eli,Fields,OT,Florida Atlantic,,2021-11-12T13:14:00.000Z,0.79,2,Immediate
+2022,Aaron,Washington,LB,Bowling Green,,2021-11-12T12:24:00.000Z,0.79,2,Immediate
+2022,Zeiqui,Lawton,SDE,Cincinnati,West Virginia,2021-11-11T09:44:00.000Z,0.84,3,Immediate
+2022,Joseph,Boletepeli,DL,Maryland,,2021-11-11T08:21:00.000Z,,3,Immediate
+2022,Nick,Kargman,QB,Western Michigan,Wagner,2021-11-10T20:27:00.000Z,0.79,2,Immediate
+2022,Jarren,Williams,QB,South Florida,Alabama A&M,2021-11-10T15:28:00.000Z,0.8,3,Immediate
+2022,Matthew,Downing,QB,TCU,Louisiana Tech,2021-11-10T15:26:00.000Z,0.81,3,Immediate
+2022,Alefosio,Saipaia,DL,Navy,,2021-11-10T14:57:00.000Z,0.77,2,Immediate
+2022,Zahir,Swann,RB,Central Michigan,,2021-11-10T14:29:00.000Z,,3,Immediate
+2022,Kelsen,Hennessy,DL,Oregon State,,2021-11-09T16:42:00.000Z,0.79,2,Immediate
+2022,Kolby,Phillips,CB,Tulane,,2021-11-09T15:55:00.000Z,0.8,3,Immediate
+2022,Jermaine,McMillian,S,UCF,,2021-11-09T12:29:00.000Z,0.8,3,Immediate
+2022,Seth,Hodges,LB,Georgia Southern,,2021-11-02T13:56:00.000Z,,,Immediate
+2022,Anthony,Price,RB,Arkansas State,,2021-11-09T09:29:00.000Z,0.77,2,Immediate
+2022,Jordan,Brown,ATH,Kansas,Texas Tech,2021-11-08T16:50:00.000Z,0.84,3,Immediate
+2022,Miles,Dickens,EDGE,Georgia State,Northwestern State,2021-11-08T13:44:00.000Z,0.79,2,Immediate
+2022,Tru,Edwards,WR,Hawai'i,,2021-11-08T13:42:00.000Z,0.79,2,Immediate
+2022,Jaylen,Moody,LB,Alabama,,2022-01-13T10:44:00.000Z,0.82,3,Immediate
+2022,Upton,Stout,S,North Texas,Western Kentucky,2021-11-08T09:53:00.000Z,,3,Immediate
+2022,Bryce,Veasley,QB,Duquesne,,2021-11-06T21:26:00.000Z,,3,Immediate
+2022,Jett,Elad,S,Ohio,,2021-11-05T14:22:00.000Z,0.8,3,Immediate
+2022,Cam,Phillips,S,Arizona State,,2021-11-05T10:09:00.000Z,0.8,3,Immediate
+2022,Dylan,Mayginnes,IOL,Washington State,,2021-11-04T18:29:00.000Z,0.8,3,Immediate
+2022,Isaiah,Jacobs,RB,Maryland,,2021-11-04T16:00:00.000Z,0.82,3,Immediate
+2022,Marquez,Beason,CB,Illinois,Alabama A&M,2021-11-04T15:41:00.000Z,0.82,3,Immediate
+2022,Alexandre,Dumais,DL,Fresno State,,2021-11-04T12:00:00.000Z,0.8,3,Immediate
+2022,Matthew,Anderson,OT,Louisiana,,2021-11-03T14:35:00.000Z,0.79,2,Immediate
+2022,Cordarrius,Bailey,DL,Iowa State,Northern Iowa,2021-11-03T12:49:00.000Z,0.8,3,Immediate
+2022,Wendell,Davis,LB,Pittsburgh,Northwestern,2021-11-03T09:51:00.000Z,0.8,3,Immediate
+2022,Rodney,Groce Jr.,LB,Mississippi State,Arizona State,2021-11-02T17:44:00.000Z,0.81,3,Immediate
+2022,Christian,Malloy,RB,Coastal Carolina,,2022-01-24T15:14:00.000Z,,3,Immediate
+2022,Tyler,Stephens,TE,Buffalo,,2022-01-24T13:17:00.000Z,,3,Immediate
+2022,Justin,Rogers,QB,UNLV,,2022-01-24T12:53:00.000Z,,4,Immediate
+2022,Hayes,Crockett,QB,Louisiana Monroe,,2022-01-24T11:48:00.000Z,,3,Immediate
+2022,Frankie,Onate,K,South Alabama,,2022-01-24T11:07:00.000Z,,1,Immediate
+2022,James,Maye,WR,Miami (OH),,2022-01-24T10:40:00.000Z,,2,Immediate
+2022,Shane,Illingworth,QB,Oklahoma State,,2022-01-24T10:29:00.000Z,0.89,3,Immediate
+2022,Chris,Akporoghene,IOL,Tennessee,,2022-01-24T10:27:00.000Z,0.87,3,Immediate
+2022,Casey,Tawa,WR,Rice,,2022-01-24T09:52:00.000Z,,3,Immediate
+2022,Carlos,Sandy,WR,Illinois,,2022-01-24T09:51:00.000Z,,3,Immediate
+2022,Jacques,Hunter,DL,Vanderbilt,,2022-01-24T09:38:00.000Z,,3,Immediate
+2022,Xavier,Smith,WR,Eastern Michigan,,2022-01-24T08:55:00.000Z,,3,Immediate
+2022,Donny,Navarro,WR,Illinois,,2022-01-21T21:01:00.000Z,,,Immediate
+2022,Matt,Hayball,P,Florida Atlantic,Vanderbilt,2022-01-19T14:53:00.000Z,,,Immediate
+2022,Mari,Wingard,CB,Elon,Georgia Southern,2021-11-26T06:22:00.000Z,,,Immediate
+2022,Ty'Ron,Hopper,LB,Florida,Missouri,2022-01-24T11:19:00.000Z,0.9,4,Immediate
+2022,Dashaun,Jerkins,S,Vanderbilt,,2022-01-18T19:02:00.000Z,,3,Immediate
+2022,Wylan,Free,CB,Fresno State,,2022-01-15T18:59:00.000Z,,3,Immediate
+2022,Tynan,Tucker,S,Kent State,,2022-01-15T18:58:00.000Z,,3,Immediate
+2022,Ethan,Rinke,DL,South Alabama,,2022-01-14T18:57:00.000Z,,3,Immediate
+2022,Caylin,Newton,QB,Auburn,,2022-01-14T18:55:00.000Z,,3,Immediate
+2022,Lorenzo,McCaskill,LB,Louisiana,,2022-01-14T18:53:00.000Z,,3,Immediate
+2022,Derrick,Smith,S,Illinois,,2021-11-02T16:44:00.000Z,0.8,3,Immediate
+2022,Kristian,Varner,DL,North Carolina,Georgia Southern,2021-11-02T15:14:00.000Z,0.81,3,Immediate
+2022,Emery,Simmons,WR,North Carolina,Indiana,2021-11-02T15:14:00.000Z,0.82,3,Immediate
+2022,Seaburn,Hines,OT,Georgia Southern,,2021-11-02T14:56:00.000Z,0.78,2,Immediate
+2022,Antwane,Wells,WR,James Madison,South Carolina,2022-01-05T09:23:00.000Z,0.9,4,Immediate
+2022,Ty,Barron,LB,Minnesota,,2022-01-05T09:14:00.000Z,,2,Immediate
+2022,Rod,Green,IOL,Grambling,,2021-11-02T13:51:00.000Z,,,Immediate
+2022,Kobe,Hylton,S,Louisiana,UTEP,2021-12-15T13:21:00.000Z,0.79,2,Immediate
+2022,Donte,Burton,CB,Wisconsin,,2021-10-28T11:22:00.000Z,,3,Immediate
+2022,Kenneth,Dotson,DL,North Texas,,2021-12-23T14:54:00.000Z,,3,Immediate
+2022,Leo,Parker,RB,South Florida,,2021-11-02T10:30:00.000Z,,3,Immediate
+2022,Raylen,Sharpe,WR,Houston,,2021-11-01T19:24:00.000Z,0.79,2,Immediate
+2022,Christian,Galvan,RB,Drake,Drake,2021-11-01T15:26:00.000Z,,3,Immediate
+2022,Noah,Hamlin,S,Toledo,,2021-11-01T15:24:00.000Z,0.78,2,Immediate
+2022,Will,Honas,LB,Nebraska,Kansas State,2022-01-17T10:02:00.000Z,,3,Immediate
+2022,Jay,Bramblett,P,Notre Dame,LSU,2022-01-17T10:01:00.000Z,0.83,3,Immediate
+2022,Kaegun,Williams,RB,San Diego State,,2021-12-24T14:54:00.000Z,0.83,3,Immediate
+2022,Khari,Gee,S,Notre Dame,Georgia Tech,2021-12-22T14:53:00.000Z,0.88,3,Immediate
+2022,Jessie,Parson III,WR,Rutgers,,2021-11-01T15:19:00.000Z,,3,Immediate
+2022,Cornelious,Brown,QB,Georgia State,UT Martin,2021-11-01T10:15:00.000Z,0.81,3,Immediate
+2022,Avarius,Sparrow,RB,West Virginia,,2021-10-29T22:48:00.000Z,,3,Immediate
+2022,Myles,McNeal,CB,Eastern Michigan,,2021-10-29T18:49:00.000Z,0.79,2,Immediate
+2022,Aamaris,Brown,S,Kansas State,South Florida,2021-10-29T16:17:00.000Z,0.8,3,Immediate
+2022,Grant,Hidalgo,TE,Stetson,,2021-10-29T10:54:00.000Z,,,Immediate
+2022,Evan,Henry,OG,Louisiana Monroe,Jackson State,2021-10-29T10:53:00.000Z,0.82,3,Immediate
+2022,Tyler,Gore,CB,Georgia State,UT Martin,2021-10-29T08:42:00.000Z,,2,Immediate
+2022,Steele,Dubar,LB,Colorado,,2021-10-28T13:51:00.000Z,0.75,2,Immediate
+2022,Tylus,Hancock,CB,Florida State,,2021-12-20T09:45:00.000Z,,,Immediate
+2022,Frankie,Burgess,LB,Maryland,,2021-10-28T13:45:00.000Z,,3,Immediate
+2022,Edward,Haralson,DL,Louisiana Monroe,,2021-10-28T13:36:00.000Z,0.75,2,Immediate
+2022,Mychal,Victor,CB,UNLV,,2022-01-06T17:06:00.000Z,,3,Immediate
+2022,Quan,Easterling,ATH,Wisconsin,Duquesne,2021-12-14T11:15:00.000Z,0.79,2,Immediate
+2022,Destin,Coates,RB,Georgia State,Florida A&M,2021-10-27T15:15:00.000Z,0.83,3,Immediate
+2022,Jamel,Thomas,WR,South Alabama,,2021-10-27T13:19:00.000Z,0.79,2,Immediate
+2022,Simi,Moala,OT,Utah,,2021-10-27T12:42:00.000Z,0.82,3,Immediate
+2022,Willie,Reid,S,Central Michigan,Florida Intl,2021-10-27T12:33:00.000Z,0.83,3,Immediate
+2022,Devell,Washington,LB,West Virginia,,2021-10-26T14:10:00.000Z,0.84,3,Immediate
+2022,Saeed,Holt,S,Toledo,,2021-10-26T13:39:00.000Z,0.8,3,Immediate
+2022,Joeseph,Sewell,TE,Middle Tennessee,,2021-10-26T12:25:00.000Z,,2,Immediate
+2022,Tee,Hodge,RB,Tennessee,Indiana State,2021-08-29T12:15:00.000Z,,3,Immediate
+2022,Jojuan,Claiborne,CB,Nevada,,2021-12-29T17:29:00.000Z,,2,Immediate
+2022,Devonta,Lee,WR,LSU,,2022-01-14T18:51:00.000Z,,4,Immediate
+2022,LaMarque,Davis,CB,Southern Mississippi,,2021-10-26T12:23:00.000Z,0.76,2,Immediate
+2022,Nick,Manson,WR,Miami (OH),,2021-10-26T12:15:00.000Z,0.79,2,Immediate
+2022,Tenyeh,Dixon,CB,Virginia,Elizabeth City State,2021-10-25T17:08:00.000Z,0.79,2,Immediate
+2022,Jayce,Medlock,TE,Connecticut,Alabama State,2021-10-25T13:50:00.000Z,0.79,2,Immediate
+2022,Mikel,Barkley,WR,TCU,,2022-01-18T12:50:00.000Z,,3,Immediate
+2022,Lee,Hunter,DL,Auburn,UCF,2022-01-16T16:10:00.000Z,0.9,4,Immediate
+2022,Ben,Dinkel,P,South Dakota State,,2021-12-21T14:49:00.000Z,,,Immediate
+2022,Jerome,Buckner,WR,Ohio,,2021-10-25T12:05:00.000Z,,2,Immediate
+2022,Antoine,Robinson,WR,Southern Mississippi,,2021-10-25T11:42:00.000Z,,3,Immediate
+2022,Conner,Lewis,S,Arizona State,,2021-10-22T22:45:00.000Z,0.75,2,Immediate
+2022,Londyn,Craft,S,Mississippi State,,2021-10-22T16:08:00.000Z,,2,Immediate
+2022,Torrance,Davis,RB,Kentucky,,2021-12-07T10:50:00.000Z,,3,Immediate
+2022,Zareon,Hayes,LB,Appalachian State,Alabama A&M,2021-10-22T12:46:00.000Z,,3,Immediate
+2022,Sebastien,Dolcine,OG,Florida Atlantic,,2021-10-22T12:45:00.000Z,,3,Immediate
+2022,Larry,Robbins,CB,Buffalo,,2021-10-21T12:36:00.000Z,,2,Immediate
+2022,Clyde,Pinder Jr.,DL,North Carolina,South Florida,2021-10-21T10:58:00.000Z,0.82,3,Immediate
+2022,Larry,Tracy III,CB,Indiana,Illinois State,2021-10-20T13:58:00.000Z,0.82,3,Immediate
+2022,Carson,Smith,TE,Washington,,2021-10-20T11:50:00.000Z,0.75,2,Immediate
+2022,Keilon,Brown,QB,Memphis,Georgia State,2021-10-20T10:59:00.000Z,0.79,2,Immediate
+2022,Shakari,Denson,ATH,Ohio,,2021-10-20T10:52:00.000Z,,3,Immediate
+2022,Jay,Maclin,WR,Missouri,North Texas,2021-12-08T14:23:00.000Z,0.81,3,Immediate
+2022,Alec,Ogden,QB,Middle Tennessee,,2021-10-19T15:13:00.000Z,,,Immediate
+2022,Nick,Bags,DL,Temple,South Florida,2021-10-19T11:05:00.000Z,0.83,3,Immediate
+2022,Daniel,Lee,WR,Buffalo,,2021-10-19T10:53:00.000Z,,2,Immediate
+2022,Hugh,Davis,LB,Boston College,Louisiana Tech,2021-11-29T08:33:00.000Z,0.8,3,Immediate
+2022,Zach,Williams,WR,Arizona,,2022-01-13T17:42:00.000Z,,3,Immediate
+2022,Da'Shaun,Brown,WR,Indiana,,2021-10-19T10:52:00.000Z,0.79,2,Immediate
+2022,Tylan,Morton,QB,South Alabama,Southwestern Oklahoma State,2022-01-10T09:32:00.000Z,,3,Immediate
+2022,Caleb,Offord,CB,Notre Dame,Buffalo,2022-01-03T13:40:00.000Z,0.86,3,Immediate
+2022,West,Weeks,ATH,Virginia,LSU,2022-01-15T13:17:00.000Z,0.88,3,Immediate
+2022,Myles,Baker,CB,Coastal Carolina,,2021-12-22T14:54:00.000Z,,2,Immediate
+2022,Rafael,McCoy,WR,Old Dominion,,2021-12-22T14:54:00.000Z,,,Immediate
+2022,Donovan,Georges,LB,Florida Intl,,2021-12-21T15:15:00.000Z,,3,Immediate
+2022,Devin,Chandler,WR,Wisconsin,Virginia,2021-10-18T13:11:00.000Z,0.85,3,Immediate
+2022,Walter,Wilbon III,RB,Ohio,Iowa Central C.C.,2021-12-15T11:12:00.000Z,,3,Immediate
+2022,Trent,Holler,IOL,East Carolina,Marshall,2021-10-18T08:21:00.000Z,0.84,3,Immediate
+2022,Tommy,DeVito,QB,Syracuse,Illinois,2021-10-17T13:07:00.000Z,0.82,3,Immediate
+2022,Jake,Marion,K,Georgia State,Elon,2021-10-15T11:11:00.000Z,,2,Immediate
+2022,Tyler,Owens,S,Texas,Texas Tech,2021-10-15T09:45:00.000Z,0.81,3,Immediate
+2022,Kyron,Cumby,RB,Texas Tech,,2021-10-14T15:24:00.000Z,0.79,2,Immediate
+2022,Gaberiel,Fuster,LB,Liberty,,2021-10-14T14:04:00.000Z,,3,Immediate
+2022,Charlie,Brewer,QB,Utah,Liberty,2021-10-14T13:37:00.000Z,0.82,3,Immediate
+2022,Marquez,Ezzard,WR,Georgia Tech,,2021-10-14T07:18:00.000Z,,4,TBD
+2022,Amir,Howard,CB,Arkansas State,,2021-10-13T11:01:00.000Z,,2,Immediate
+2022,Jeremiah,Lewis,CB,Duke,,2021-12-15T15:43:00.000Z,,3,Immediate
+2022,Noah,Nelson,OT,Oklahoma,Northern Arizona,2021-10-13T09:17:00.000Z,0.83,3,Immediate
+2022,Darel,Middleton,DL,West Virginia,,2021-10-13T09:10:00.000Z,,3,Immediate
+2022,Kerry,Martin,S,West Virginia,Akron,2021-10-13T09:09:00.000Z,0.82,3,Immediate
+2022,Dru,Polidore,CB,Air Force,,2021-10-12T17:10:00.000Z,,3,Immediate
+2022,Zach,Portlock,LB,Southern Mississippi,,2021-10-12T14:09:00.000Z,,,Immediate
+2022,Stacy,Kirby,EDGE,South Florida,,2021-10-12T13:03:00.000Z,0.82,3,Immediate
+2022,Charles,Bell VI,S,Marshall,Alabama A&M,2021-10-12T09:20:00.000Z,,3,Immediate
+2022,Brian,Kilbane Jr,OT,Bowling Green,,2021-10-11T17:07:00.000Z,,3,Immediate
+2022,Matt,Lowe,IOL,Fresno State,,2022-01-04T16:54:00.000Z,,3,Immediate
+2022,Conner,Maynard,P,Miami (OH),,2022-01-05T09:02:00.000Z,,,Immediate
+2022,Zukudo,Igwenagu,EDGE,Rutgers,UMass,2021-10-11T10:23:00.000Z,0.79,2,Immediate
+2022,Bryan,Robinson,WR,Florida State,Marshall,2021-10-11T08:50:00.000Z,0.81,3,Immediate
+2022,Eddie,Watkins,LB,West Virginia,,2021-10-07T19:54:00.000Z,,3,Immediate
+2022,Kendall,Smith,S,Illinois,,2021-11-29T10:28:00.000Z,,3,Immediate
+2022,Marcus,Haskins,CB,Liberty,,2021-10-07T13:35:00.000Z,0.8,3,Immediate
+2022,Marcellus,Moore,RB,Purdue,,2021-10-06T15:06:00.000Z,,3,Immediate
+2022,Devin,Brumfield,RB,Tulane,,2021-10-06T14:57:00.000Z,,3,Immediate
+2022,Victory,Vaka,DL,BYU,,2022-01-15T11:14:00.000Z,,3,Immediate
+2022,Tyrik,McDaniel,ATH,Old Dominion,,2021-12-21T14:54:00.000Z,0.82,3,Immediate
+2022,Zach,Breaux,IOL,Louisiana Monroe,,2022-01-14T18:47:00.000Z,,2,Immediate
+2022,Jamal,Bell,WR,Louisiana,Louisiana,2021-11-22T16:38:00.000Z,0.81,3,Immediate
+2022,Matt,Polk,WR,Oklahoma State,,2022-01-04T17:52:00.000Z,,3,Immediate
+2022,A.J.,Davis,RB,Pittsburgh,James Madison,2021-10-06T13:37:00.000Z,0.8,3,Immediate
+2022,TJ,Steele,WR,TCU,,2021-10-06T13:30:00.000Z,0.84,3,Immediate
+2022,James,Thomas,LB,West Virginia,,2021-10-06T12:36:00.000Z,,3,Immediate
+2022,Eriq,Gilyard,LB,UCF,Kansas,2021-10-06T10:23:00.000Z,0.81,3,Immediate
+2022,Dayton,Wade,WR,Western Kentucky,,2021-10-05T08:06:00.000Z,0.8,3,Immediate
+2022,Chris,Bacon,S,Georgia State,Bowling Green,2021-10-04T15:01:00.000Z,0.8,3,Immediate
+2022,OrTre,Smith,WR,South Carolina,,2021-10-04T12:58:00.000Z,0.8,3,Immediate
+2022,Quavon,Matthews,WR,Iowa,,2021-10-04T11:36:00.000Z,0.81,3,Immediate
+2022,Tim,Baldwin Jr.,RB,Indiana,,2021-10-04T09:09:00.000Z,0.79,2,Immediate
+2022,Justin,Harrington,CB,Oklahoma,,2021-10-01T12:30:00.000Z,0.84,3,Immediate
+2022,Jeremy,Mercier,LB,Utah,,2022-01-06T17:05:00.000Z,,3,Immediate
+2022,Tyrone,Taleni,DL,Kansas State,USC,2022-01-06T16:45:00.000Z,0.86,3,Immediate
+2022,Nolan,Rumler,IOL,Michigan,Kent State,2021-12-15T09:09:00.000Z,0.8,3,Immediate
+2022,Keylin,Roach,CB,Marshall,,2021-09-30T11:41:00.000Z,,3,Immediate
+2022,Re-al,Mitchell,QB,Temple,San Diego,2021-09-29T16:04:00.000Z,0.79,2,Immediate
+2022,Ellison,Hubbard,DL,Colorado State,Sam Houston State,2021-09-29T10:55:00.000Z,0.82,3,Immediate
+2022,Nasir,Clerk,CB,East Carolina,,2021-09-29T08:58:00.000Z,0.8,3,Immediate
+2022,Olivier,Charles-Pierre,DL,Houston,,2021-09-29T08:15:00.000Z,0.79,2,Immediate
+2022,Blayne,Toll,DL,Colorado,Arkansas State,2021-09-28T14:55:00.000Z,0.82,3,Immediate
+2022,Deonte,Sheffield,RB,Florida State,West Florida,2021-09-28T14:42:00.000Z,,3,Immediate
+2022,Xavier,Young,DL,Washington State,,2021-09-28T08:11:00.000Z,0.84,3,Immediate
+2022,Lloyd,Murray Jr.,DL,Colorado,Sam Houston State,2021-09-27T14:49:00.000Z,0.79,2,Immediate
+2022,Jarveon,Howard,RB,Syracuse,Alcorn State,2021-09-27T12:51:00.000Z,0.8,3,Immediate
+2022,K'Vaughan,Pope,LB,Ohio State,,2021-09-27T12:48:00.000Z,0.8,3,Immediate
+2022,Chase,Kline,LB,Michigan State,Eastern Michigan,2021-09-26T12:52:00.000Z,0.81,3,Immediate
+2022,Henry,Parrish,RB,Ole Miss,Miami,2022-01-13T17:20:00.000Z,0.89,3,Immediate
+2022,Alex,Okelo,WDE,Michigan State,,2021-09-25T12:06:00.000Z,,3,Immediate
+2022,Carlin,Fils-aime,RB,Tennessee,,2021-09-24T13:00:00.000Z,,4,Immediate
+2022,Marcel,Lewis,LB,Central Michigan,,2021-09-24T12:05:00.000Z,,3,Immediate
+2022,Jeremiah,Payton,WR,Miami,,2021-09-24T10:42:00.000Z,0.81,3,Immediate
+2022,Justin,Harris,CB,Georgia Southern,,2021-09-23T16:20:00.000Z,,3,Immediate
+2022,Loyal,Crawford,RB,Wisconsin,,2021-09-23T11:11:00.000Z,0.81,3,Immediate
+2022,Dallas,Gant,LB,Ohio State,,2021-09-22T10:21:00.000Z,0.8,3,Immediate
+2022,Daniel,Ogundipe,OT,Old Dominion,,2021-09-21T13:15:00.000Z,0.79,2,Immediate
+2022,Russell,Thompson-Bishop,WR,Syracuse,,2021-09-21T11:58:00.000Z,,3,Immediate
+2022,Weston,Reiman,IOL,Nebraska,,2021-09-21T11:57:00.000Z,,,Immediate
+2022,Jackson,Ray,P,Colorado State,,2021-09-21T11:50:00.000Z,,2,Immediate
+2022,Kai-Leon,Herbert,OT,Miami,,2021-09-21T10:01:00.000Z,0.82,3,Immediate
+2022,Velton,Gardner,RB,Kansas,,2021-09-20T15:08:00.000Z,0.8,3,Immediate
+2022,Devlin,Kirklin,S,New Mexico State,,2021-09-20T11:51:00.000Z,,2,Immediate
+2022,Justus,Woods,RB,Stanford,,2021-09-20T11:50:00.000Z,,3,Immediate
+2022,Nick,Moore,QB,Arizona,,2021-09-20T11:49:00.000Z,,2,Immediate
+2022,Bryson,Smith,WR,Houston,,2021-09-20T11:29:00.000Z,,3,Immediate
+2022,Naricuss,Driver,TE,Southern Mississippi,Grambling,2021-09-20T09:35:00.000Z,0.79,2,Immediate
+2022,Dontae,Lucas,IOL,Florida State,South Alabama,2021-09-16T08:50:00.000Z,0.83,3,Immediate
+2022,Mekhi,Miller,CB,Miami (OH),New Mexico State,2021-12-29T11:24:00.000Z,0.84,3,Immediate
+2022,Dillon,Harris,LB,Connecticut,,2021-09-16T08:31:00.000Z,,3,Immediate
+2022,Xavier,Carlton,EDGE,Utah,California,2022-01-03T12:49:00.000Z,0.9,4,Immediate
+2022,Raiheem,Olalekan,LB,UMass,,2021-09-15T16:39:00.000Z,,2,Immediate
+2022,Jaylen,Larry,IOL,UMass,,2021-09-09T11:40:00.000Z,,2,Immediate
+2022,Taron,Madison,RB,Oregon State,,2021-09-08T12:05:00.000Z,,3,Immediate
+2022,Kyle,Helbig,TE,Colorado State,,2021-09-08T12:04:00.000Z,0.8,3,Immediate
+2022,Tyrone,Brown,S,Baylor,UT San Antonio,2021-09-07T21:05:00.000Z,,3,Immediate
+2022,Jiovanny,Holmes,S,Boston College,,2021-09-07T08:58:00.000Z,,3,Immediate
+2022,James,Phillips,TE,Western Michigan,,2021-09-06T14:28:00.000Z,,3,Immediate
+2022,Marcus,Moore,DL,Louisiana Monroe,,2021-09-02T10:29:00.000Z,,3,Immediate
+2022,James,Ash,DL,Wake Forest,South Florida,2021-09-01T15:27:00.000Z,0.8,3,Immediate
+2022,Khamal,Ellison,CB,Florida,,2021-09-01T11:36:00.000Z,,2,Immediate
+2022,Tanner,Hollens,ATH,Colorado State,,2021-08-31T14:02:00.000Z,,2,Immediate
+2022,Nick,Lewis,OT,Arkansas State,,2021-08-31T13:07:00.000Z,0.79,2,Immediate
+2022,Mahdi,Hazime,IOL,Michigan,,2021-08-31T11:35:00.000Z,,,Immediate
+2022,Da'Veawn,Armstead,S,TCU,,2021-12-15T15:15:00.000Z,,3,Immediate
+2022,Shamel,Lazarus,CB,Connecticut,,2021-08-30T15:40:00.000Z,,3,Immediate
+2022,James,Graham,QB,Georgia Southern,,2021-08-30T12:48:00.000Z,,4,Immediate
+2022,Robert,McWilliams,LB,Purdue,Purdue,2021-08-30T09:46:00.000Z,0.79,2,Immediate
+2022,Malcolm,Terry,RB,Navy,,2021-08-27T13:05:00.000Z,,2,Immediate
+2022,Dreshun,Miller,CB,Auburn,,2022-01-05T08:47:00.000Z,0.86,3,Immediate
+2022,John Paul,Flores,OT,Dartmouth,Virginia,2021-10-07T06:41:00.000Z,,,Immediate
+2022,Cody,Shear,IOL,Syracuse,,2021-08-27T11:31:00.000Z,,3,Immediate
+2022,Khali,Saunders,LB,Purdue,,2022-01-04T16:15:00.000Z,0.84,3,Immediate
+2022,James,Lewis,LB,New Mexico,,2021-08-27T11:29:00.000Z,,3,Immediate
+2022,Dacoda,Weaver,OT,Florida Atlantic,Delta State,2021-08-27T11:19:00.000Z,,2,Immediate
+2022,Alex,Zayed,LB,Louisiana Tech,,2021-08-26T15:55:00.000Z,,2,Immediate
+2022,Matthew,Hightower,LB,Tulane,,2021-08-26T15:08:00.000Z,,2,Immediate
+2022,Donovan,Manuel,OLB,East Tennessee State,Florida Intl,2021-12-16T14:54:00.000Z,0.86,3,Immediate
+2022,Princeton,Pines,OT,Sam Houston State,,2022-01-13T18:00:00.000Z,,3,Immediate
+2022,Stone,Hollenbach,QB,Alabama,Western Michigan,2022-01-12T20:59:00.000Z,,2,Immediate
+2022,Erin,Collins,RB,Northern Illinois,,2021-11-30T11:34:00.000Z,0.81,3,Immediate
+2022,Monterio,Hunt,WR,Rutgers,Alcorn State,2021-08-24T16:18:00.000Z,,3,Immediate
+2022,Brian,Maurer,QB,Tennessee,Stephen F. Austin,2021-08-21T12:58:00.000Z,0.81,3,Immediate
+2022,Bralyn,Oliver,S,Louisville,Syracuse,2021-08-20T10:56:00.000Z,0.8,3,Immediate
+2022,Jordan,Weeks,QB,UT San Antonio,,2021-08-18T08:49:00.000Z,,3,Immediate
+2022,Keithron,Lee,WR,Texas,,2021-08-17T16:30:00.000Z,,3,Immediate
+2022,Ben,Gansallo,DL,New Mexico,,2021-12-21T15:10:00.000Z,,2,Immediate
+2022,Nick,Evans,DL,UT San Antonio,,2021-08-17T14:44:00.000Z,,3,Immediate
+2022,Jordan,Rhodes,OT,South Carolina,Ole Miss,2021-08-13T08:37:00.000Z,,3,Immediate
+2022,Hunter,Kaupiko,LB,San Diego State,,2021-08-12T08:37:00.000Z,0.79,2,Immediate
+2022,Michael,Washington,RB,Buffalo,Buffalo,2021-12-20T09:25:00.000Z,,2,Immediate
+2022,AJ,Beatty,IOL,North Carolina,Albany,2021-08-09T14:37:00.000Z,,3,Immediate
+2022,Ryan,Jacoby,OT,Ohio State,Pittsburgh,2021-08-09T12:45:00.000Z,0.83,3,Immediate
+2022,DeJuan,Ellis,WR,Maryland,,2022-01-06T16:35:00.000Z,,3,Immediate
+2022,Isaac,Garcia,LB,Fresno State,,2021-08-09T10:22:00.000Z,0.8,3,SittingOne
+2022,Chris,Scruggs Jr.,WR,Southern Mississippi,,2021-08-06T13:42:00.000Z,0.79,2,Immediate
+2022,Rico,Frye,RB,Bowling Green,,2021-08-06T09:04:00.000Z,,3,Immediate
+2022,Joey,Carroll,OT,Bowling Green,,2021-08-05T15:32:00.000Z,,3,Immediate
+2022,Crishawn,Long,LB,Purdue,,2021-08-05T10:50:00.000Z,0.82,3,Immediate
+2022,Juan,Harris,DL,Indiana,,2021-08-04T12:01:00.000Z,0.79,2,Immediate
+2022,Jahaziel,Lee,OT,Utah State,,2021-08-02T15:16:00.000Z,0.79,2,SittingOne
+2022,Bobby,Haskins,OT,Virginia,USC,2021-12-06T13:42:00.000Z,0.88,3,Immediate
+2022,Deajaun,McDougle,WR,Maryland,Tulane,2021-12-15T08:37:00.000Z,,3,Immediate
+2022,Daiyan,Henley,LB,Nevada,Washington State,2021-12-20T17:00:00.000Z,0.87,3,Immediate
+2022,Jahmin,Muse,S,Boston College,Buffalo,2021-11-30T10:54:00.000Z,0.84,3,Immediate
+2022,Dee,Wiggins,WR,Miami,Louisville,2021-10-27T12:50:00.000Z,0.84,3,Immediate
+2022,Aaron,Brule,LB,Mississippi State,Michigan State,2021-12-02T15:04:00.000Z,0.89,3,Immediate
+2022,Cade,Beresford,OT,Washington State,Boise State,2021-12-01T16:07:00.000Z,0.89,3,Immediate
+2022,Mike,Ciaffoni,IOL,Colorado State,Rutgers,2022-01-11T12:56:00.000Z,0.84,3,Immediate
+2022,Frank,Ladson,WR,Clemson,Miami,2021-12-03T14:56:00.000Z,0.87,3,Immediate
+2022,Willie,Tyler,OT,Louisiana Monroe,Rutgers,2021-11-30T10:06:00.000Z,0.87,3,Immediate
+2022,Michael,Lantz,K,Minnesota,,2021-12-15T14:54:00.000Z,,3,Immediate
+2022,Damian,Lopez,IOL,USC,,2021-12-15T13:00:00.000Z,,,Immediate
+2022,Jack,Plummer,QB,Purdue,California,2021-11-30T09:47:00.000Z,0.86,3,Immediate
+2022,Brendan,Bordner,IOL,Rutgers,Florida Atlantic,2021-12-01T08:34:00.000Z,0.85,3,Immediate
+2022,Shauntavis,Vardaman,OT,UAB,,2021-12-07T10:48:00.000Z,,,Immediate
+2022,Michael,Penix Jr.,QB,Indiana,Washington,2021-12-05T19:15:00.000Z,0.85,3,Immediate
+2022,Max,Johnson,QB,LSU,Texas A&M,2021-12-08T17:07:00.000Z,0.91,4,Immediate
+2022,Curtis,Dunlap,IOL,Minnesota,Rutgers,2021-10-12T00:00:00.000Z,0.87,3,Immediate
+2022,Anthony,Watts,DL,Purdue,,2021-11-17T14:39:00.000Z,0.84,3,Immediate
+2022,Quinn,Ewers,QB,Ohio State,Texas,2021-12-03T19:45:00.000Z,1,5,Immediate
+2022,Eli,Ricks,CB,LSU,Alabama,2021-11-23T20:54:00.000Z,0.99,5,Immediate
+2022,Kingsley,Suamataia,OT,Oregon,BYU,2021-10-26T18:56:00.000Z,0.96,4,Immediate
+2022,Jahmyr,Gibbs,RB,Georgia Tech,Alabama,2021-11-29T13:13:00.000Z,0.95,4,Immediate
+2022,Zach,Evans,RB,TCU,Ole Miss,2021-11-29T16:55:00.000Z,0.94,4,Immediate
+2022,Dillon,Gabriel,QB,UCF,Oklahoma,2021-11-27T01:07:00.000Z,0.92,4,Immediate
+2022,Isaac,Owusu-Appiah,OT,Coastal Carolina,,2021-12-29T17:31:00.000Z,,2,Immediate
+2022,Jake,Haener,QB,Fresno State,Fresno State,2021-11-30T18:52:00.000Z,,3,Immediate
+2022,Romello,Height,LB,Auburn,USC,2022-01-13T16:40:00.000Z,0.89,3,Immediate
+2022,Shemar,Thornton,ATH,Florida Intl,Northern Illinois,2021-12-15T00:10:00.000Z,,2,Immediate
+2022,Cam,Johnson,WR,Vanderbilt,,2021-11-30T08:55:00.000Z,0.87,3,Immediate
+2022,Jaquon,Griffin,DL,Georgia Tech,,2021-12-09T13:34:00.000Z,,3,Immediate
+2022,Sharod,Johnson,WR,Syracuse,Florida Intl,2021-12-09T11:56:00.000Z,,3,Immediate
+2022,Hunter,Sellers,CB,Pittsburgh,,2021-12-09T11:33:00.000Z,,3,Immediate
+2022,Shawn,Asbury II,S,Boston College,Old Dominion,2021-12-09T09:07:00.000Z,,3,Immediate
+2022,D'Marcus,Adams,WR,Florida Atlantic,,2021-12-08T16:02:00.000Z,,3,Immediate
+2022,TJ,Banks,TE,West Virginia,Akron,2021-12-08T16:02:00.000Z,0.84,3,Immediate
+2022,Quinn,Potts,S,New Mexico,,2021-12-08T15:52:00.000Z,,3,Immediate
+2022,Tyrell,Robinson,RB,Army,,2022-01-07T14:48:00.000Z,,,Immediate
+2022,Clyde,Price,RB,Kansas State,,2022-01-07T13:17:00.000Z,,3,Immediate
+2022,Lamin,Touray,LB,Nevada,,2021-12-08T15:50:00.000Z,,3,Immediate
+2022,Elijah,Cooks,WR,Nevada,San José State,2021-12-08T15:49:00.000Z,0.87,3,Immediate
+2022,Nick,Okeke,LB,Louisville,,2021-12-08T15:45:00.000Z,,2,Immediate
+2022,Mason,Brooks,OT,Western Kentucky,Ole Miss,2021-12-08T15:41:00.000Z,0.9,4,Immediate
+2022,Aric,Horne,LB,Iowa State,Florida A&M,2021-12-13T16:13:00.000Z,,3,Immediate
+2022,Isheem,Young,S,Iowa State,Ole Miss,2021-12-13T16:10:00.000Z,0.89,3,Immediate
+2022,Kym-Mani,King,CB,Iowa State,,2021-12-13T16:08:00.000Z,,3,Immediate
+2022,Braxton,Burmeister,QB,Virginia Tech,San Diego State,2022-01-17T08:48:00.000Z,0.87,3,Immediate
+2022,Tre'mond,Shorts,IOL,East Tennessee State,LSU,2022-01-18T10:05:00.000Z,0.89,3,Immediate
+2022,Mateo,Sudipo,S,Coastal Carolina,,2021-12-13T14:57:00.000Z,,2,Immediate
+2022,Ezeriah,Anderson,WR,Iowa State,,2021-12-13T14:54:00.000Z,,3,Immediate
+2022,Bo,Nix,QB,Auburn,Oregon,2021-12-13T14:53:00.000Z,0.88,3,Immediate
+2022,Vincent,Murphy,IOL,South Carolina,Western Kentucky,2021-12-13T13:58:00.000Z,,3,Immediate
+2022,Chayden,Peery,QB,Georgia Tech,,2021-12-15T12:14:00.000Z,0.86,3,Immediate
+2022,Keveon,Mullins,TE,South Carolina,Jackson State,2021-12-15T11:00:00.000Z,0.83,3,Immediate
+2022,David,Watson,OT,Arizona,,2021-12-15T10:57:00.000Z,,3,Immediate
+2022,T.D.,Roof,LB,Appalachian State,Oklahoma,2022-01-04T21:07:00.000Z,0.86,3,Immediate
+2022,Cammon,Cooper,QB,Washington State,Hawai'i,2021-11-29T23:10:00.000Z,0.8,3,Immediate
+2022,Mario,Williams,WR,Oklahoma,USC,2022-01-04T16:10:00.000Z,0.94,4,Immediate
+2022,Grayson,Cook,LB,Air Force,,2021-09-07T11:40:00.000Z,,,Immediate
+2022,Jordan,Rucker,CB,North Texas,,2021-12-16T12:55:00.000Z,,3,Immediate
+2022,Trey,Palmer,WR,LSU,Nebraska,2021-12-16T12:33:00.000Z,0.87,3,Immediate
+2022,Justin,Lynch,QB,Temple,Northern Illinois,2021-12-03T22:03:00.000Z,,3,PendingAppeal
+2022,Anthony,Torres,TE,Western Michigan,Toledo,2021-12-15T16:53:00.000Z,,3,Immediate
+2022,Iverson,Clement,RB,Temple,Temple,2021-10-13T13:24:00.000Z,0.79,2,Immediate
+2022,E.J.,Porter,LB,Coastal Carolina,,2021-12-20T08:51:00.000Z,,2,Immediate
+2022,Leke,Asenuga,IOL,New Mexico,North Texas,2022-01-10T13:32:00.000Z,,3,Immediate
+2022,George,Douglas,LB,Central Michigan,Southern Illinois,2022-01-09T14:53:00.000Z,0.82,3,Immediate
+2022,Mike,Smith,CB,Appalachian State,,2021-11-30T10:45:00.000Z,0.82,3,Immediate
+2022,Luke,Akers,P,UCLA,Northwestern,2021-11-30T10:43:00.000Z,0.84,3,Immediate
+2022,Cinque,Williams,S,North Texas,,2021-12-01T11:43:00.000Z,,3,Immediate
+2022,Adrian,Hope,LB,Furman,Coastal Carolina,2021-11-23T12:17:00.000Z,,2,Immediate
+2022,Cameron,Williams,LB,Indiana,,2021-12-11T09:35:00.000Z,,4,Immediate
+2022,Ryan,Watts,CB,Ohio State,Texas,2021-12-10T18:58:00.000Z,0.89,3,Immediate
+2022,Trenton,Gillison,TE,Michigan State,,2021-12-10T14:02:00.000Z,,4,Immediate
+2022,Akeem,Hayes,WR,Arkansas State,,2021-11-22T16:37:00.000Z,0.8,3,Immediate
+2022,Jason,Whittaker,TE,Northwestern,,2021-11-22T13:38:00.000Z,0.79,2,Immediate
+2022,Chris,Childers,RB,Indiana,,2021-12-10T12:45:00.000Z,,,Immediate
+2022,Mohamoud,Diabate,LB,Florida,Utah,2022-01-04T20:57:00.000Z,0.91,4,Immediate
+2022,James,Ohonba,IOL,Michigan State,,2021-12-10T11:40:00.000Z,,3,Immediate
+2022,John,Ward,DL,UCLA,,2021-12-10T11:08:00.000Z,,3,Immediate
+2022,Clay,Millen,QB,Nevada,Colorado State,2021-12-10T11:06:00.000Z,0.85,3,Immediate
+2022,B.J.,Foster,S,Texas,,2021-12-10T09:38:00.000Z,,5,Immediate
+2022,Chris,Adimora,S,Texas,,2021-12-10T09:37:00.000Z,0.87,3,Immediate
+2022,Malik,Jackson,TE,Maryland,,2022-01-06T15:45:00.000Z,,3,Immediate
+2022,Darin,Turner,WR,Arkansas,Alabama A&M,2021-12-16T09:24:00.000Z,,4,Immediate
+2022,Joshua,Rawlings,TE,Virginia,,2021-12-16T09:23:00.000Z,,3,Immediate
+2022,Navy,Shuler,QB,Appalachian State,Tennessee,2021-12-10T08:08:00.000Z,0.81,3,Immediate
+2022,Joachim,Bangda,RB,Kent State,,2021-12-10T07:59:00.000Z,0.84,3,Immediate
+2022,Jalen,Curry,WR,Arizona,Buffalo,2021-12-10T00:00:00.000Z,0.85,3,TBD
+2022,Nikko,Remigio,WR,California,Fresno State,2021-12-09T17:53:00.000Z,0.88,3,Immediate
+2022,Isaiah,Gibson,DL,Kentucky,Marshall,2021-12-09T16:56:00.000Z,0.85,3,Immediate
+2022,DJ,James,CB,Oregon,Auburn,2021-12-09T16:48:00.000Z,0.89,3,Immediate
+2022,Melquan,Stovall,WR,Nevada,Colorado State,2021-12-15T16:29:00.000Z,,3,Immediate
+2022,Raymond,Scott,LB,USC,,2021-12-09T16:26:00.000Z,,4,Immediate
+2022,Justin,Lockhart,WR,Nevada,San José State,2021-12-09T16:13:00.000Z,,,Immediate
+2022,Jacob,Copeland,WR,Florida,Maryland,2021-12-09T13:34:00.000Z,0.9,4,Immediate
+2022,Quentin,Bivens,DL,Ole Miss,Southern Mississippi,2021-12-14T16:16:00.000Z,0.86,3,Immediate
+2022,Sincere,David,DL,Ole Miss,,2021-12-14T16:16:00.000Z,,3,Immediate
+2022,Hunter,Green,S,Virginia Tech,,2021-12-14T16:12:00.000Z,,,Immediate
+2022,Donavann,Collins,CB,TCU,,2021-12-14T14:29:00.000Z,0.85,3,Immediate
+2022,Donte,Small,CB,Appalachian State,,2022-01-11T12:07:00.000Z,,,Immediate
+2022,Asher,King,K,Indiana,,2021-12-14T14:54:00.000Z,,,Immediate
+2022,Will,Bowers,DUAL,Liberty,,2021-12-14T14:53:00.000Z,,2,Immediate
+2022,Kyjuan,Herndon,ATH,Colorado State,Colorado State,2021-12-14T10:56:00.000Z,,3,Immediate
+2022,Jamal,Morris,LB,Oklahoma,Houston,2021-12-14T10:50:00.000Z,,4,Immediate
+2022,Dominick,Hill,CB,South Carolina,Temple,2021-12-08T15:18:00.000Z,,3,Immediate
+2022,Evan,Lovell,OT,Rhode Island,Texas State,2021-12-02T11:58:00.000Z,0.83,3,Immediate
+2022,George,Tarlas,DL,Weber State,Boise State,2021-11-24T12:31:00.000Z,0.87,3,Immediate
+2022,Robbie,Mangas,TE,Dartmouth,Buffalo,2021-11-22T12:30:00.000Z,0.84,3,Immediate
+2022,Richard,West,IOL,Texas A&M Commerce,Texas State,2021-11-18T12:11:00.000Z,0.81,3,Immediate
+2022,David,Chapeau,P,Air Force,East Carolina,2021-08-01T20:06:00.000Z,,,Immediate
+2022,RJ,Rosales,QB,Army,,2021-12-14T08:46:00.000Z,,2,Immediate
+2022,Armondous,Cooley,DL,Mississippi State,Southern Mississippi,2021-12-29T17:29:00.000Z,0.85,3,Immediate
+2022,Bence,Polgar,OG,Buffalo,Missouri,2021-12-29T14:26:00.000Z,0.85,3,Immediate
+2022,Cameron,Bright,LB,Pittsburgh,Washington,2022-01-24T11:05:00.000Z,0.89,3,Immediate
+2022,Aaron,Pierre,S,Liberty,,2022-01-03T10:59:00.000Z,,2,Immediate
+2022,Branden,Coleman,CB,Colorado State,,2022-01-03T10:34:00.000Z,,3,Immediate
+2022,Christian,Beal-Smith,RB,Wake Forest,South Carolina,2022-01-03T10:29:00.000Z,0.88,3,Immediate
+2022,Elijah,Ball,CB,Purdue,,2022-01-03T10:25:00.000Z,,3,Immediate
+2022,Carter,Bradley,QB,Toledo,South Alabama,2021-11-29T08:18:00.000Z,0.8,3,Immediate
+2022,Joe,Sparacio,LB,Boston College,Eastern Michigan,2021-12-15T08:11:00.000Z,0.81,3,Immediate
+2022,Nick,Turner,CB,Arkansas,,2022-01-03T10:21:00.000Z,,3,Immediate
+2022,Lloyd,Summerall,EDGE,Florida,Florida,2021-12-02T13:10:00.000Z,0.84,3,Immediate
+2022,Cody,Jones,CB,UMass,,2022-01-03T10:19:00.000Z,,3,Immediate
+2022,Grant,Wells,QB,Marshall,Virginia Tech,2022-01-03T10:16:00.000Z,0.87,3,Immediate
+2022,Jarret,Doege,QB,West Virginia,Western Kentucky,2022-01-03T10:12:00.000Z,0.85,3,Immediate
+2022,J.D.,DiRenzo,OT,Sacred Heart,Rutgers,2022-01-03T09:59:00.000Z,0.9,4,Immediate
+2022,Quinton,Torbor,WR,Mississippi State,,2022-01-07T12:55:00.000Z,,3,Immediate
+2022,Devonni,Reed,S,Central Michigan,South Carolina,2022-01-03T08:12:00.000Z,0.89,3,Immediate
+2022,Joseph,Manjack,WR,USC,Houston,2022-01-02T10:42:00.000Z,0.86,3,Immediate
+2022,Kamryn,Waites,OT,Louisiana,Florida,2021-12-21T13:01:00.000Z,0.91,4,Immediate
+2022,Sawyer,Racanelli,WR,Washington,Montana,2021-12-13T09:56:00.000Z,,3,Immediate
+2022,Mekhi,Williams-Garner,S,Louisiana,LSU,2022-01-11T21:05:00.000Z,0.89,3,Immediate
+2022,O'Cyrus,Torrence,IOL,Louisiana,Florida,2022-01-02T21:01:00.000Z,0.92,4,Immediate
+2022,Brian,Cobbs,WR,Maryland,Utah State,2022-01-02T15:27:00.000Z,0.86,3,Immediate
+2022,Darryl,Jones,WR,Maryland,NC State,2022-01-02T15:27:00.000Z,0.87,3,Immediate
+2022,Mohammed,Elazazy,OT,Western Michigan,,2022-01-02T15:12:00.000Z,,2,Immediate
+2022,Jaelyn,Lay,TE,Clemson,,2022-01-02T15:10:00.000Z,0.84,3,Immediate
+2022,Brenden,Rice,WR,Colorado,USC,2022-01-01T13:58:00.000Z,0.9,4,Immediate
+2022,Jaelon,Travis,WR,Kansas State,Butler County (KS),2021-11-30T15:39:00.000Z,0.79,2,Immediate
+2022,Zackary,Martin,RB,Louisiana Monroe,Louisiana Monroe,2021-11-30T15:04:00.000Z,0.77,2,Immediate
+2022,Devin,Taylor,CB,Virginia Tech,Bowling Green,2021-08-19T10:09:00.000Z,,,Immediate
+2022,Demetrius,Cannon,WR,Louisville,,2022-01-04T15:21:00.000Z,0.85,3,Immediate
+2022,Kobe,Hudson,WR,Auburn,UCF,2022-01-04T15:01:00.000Z,0.9,4,Immediate
+2022,Nick,Curtis,LB,Auburn,,2022-01-04T13:56:00.000Z,,3,Immediate
+2022,Monroe,Mills,OT,Oklahoma State,Texas Tech,2022-01-04T13:07:00.000Z,0.86,3,Immediate
+2022,James,McNorton,OT,Washington State,San José State,2021-11-29T19:17:00.000Z,0.83,3,Immediate
+2022,Nick,DeGennaro,WR,Maryland,,2022-01-04T12:59:00.000Z,0.83,3,Immediate
+2022,Andre,Crump,WR,San José State,UC Davis,2022-01-04T11:36:00.000Z,,3,Immediate
+2022,RJ,Sneed,WR,Baylor,Colorado,2022-01-04T10:49:00.000Z,0.87,3,Immediate
+2022,John Rhys,Plumlee,QB,Ole Miss,UCF,2022-01-04T08:07:00.000Z,0.89,3,Immediate
+2022,Stephen,Ruiz,K,Boston College,,2021-12-27T10:17:00.000Z,,,Immediate
+2022,Micah,Mariteragi,OT,Virginia,,2021-12-27T08:43:00.000Z,,3,Immediate
+2022,Tyrone,Hopper,LB,North Carolina,Missouri,2021-12-22T12:15:00.000Z,,3,Immediate
+2022,Jordan,Yates,QB,Georgia Tech,,2021-11-30T10:29:00.000Z,0.81,3,Immediate
+2022,Zamari,Maxwell,CB,UCF,,2021-12-27T07:14:00.000Z,,3,Immediate
+2022,Devunte,Dawson,CB,UCF,,2021-12-27T07:13:00.000Z,0.85,3,Immediate
+2022,Sam,Pinckney,WR,Georgia State,Coastal Carolina,2021-12-27T03:27:00.000Z,,3,Immediate
+2022,Justin,Clark,CB,Toledo,Wisconsin,2021-12-24T09:41:00.000Z,0.85,3,Immediate
+2022,Marcis,Floyd,CB,Murray State,West Virginia,2021-12-24T07:19:00.000Z,0.86,3,Immediate
+2022,Andrew,Peasley,QB,Utah State,Wyoming,2022-01-13T14:32:00.000Z,,2,Immediate
+2022,Bryson,Broadway,OT,Eastern Illinois,Georgia State,2021-11-22T13:22:00.000Z,,,Immediate
+2022,Cornelius,Dyson,ATH,Tulane,,2021-12-23T22:30:00.000Z,,3,Immediate
+2022,Christian,Gonzalez,S,Colorado,Oregon,2021-12-23T22:26:00.000Z,0.9,4,Immediate
+2022,Terrell,Bynum,WR,Washington,USC,2021-12-23T22:26:00.000Z,0.88,3,Immediate
+2022,Lonnie,Phelps,EDGE,Miami (OH),Kansas,2021-12-23T16:28:00.000Z,0.88,3,Immediate
+2022,Aaron,Dumas,RB,New Mexico,Washington,2022-01-06T15:14:00.000Z,0.9,4,Immediate
+2022,Will,Albright,LS,Tennessee,,2022-01-06T14:52:00.000Z,,2,Immediate
+2022,Ben,Bertram,EDGE,New Mexico,,2022-01-06T14:17:00.000Z,,,Immediate
+2022,Cedrick,Dort,CB,Kentucky,Wisconsin,2022-01-06T14:14:00.000Z,0.86,3,Immediate
+2022,Dee,Beckwith,RB,Tennessee,,2022-01-06T14:08:00.000Z,,3,Immediate
+2022,Emani,Bailey,RB,Louisiana,TCU,2022-01-06T14:06:00.000Z,0.9,4,Immediate
+2022,Jordan,Eubanks,LB,Florida State,UNLV,2022-01-06T13:53:00.000Z,0.83,3,Immediate
+2022,Cade,Bennett,OT,Oklahoma State,San Diego State,2022-01-06T13:34:00.000Z,,3,Immediate
+2022,Cooper,Shults,TE,Oregon,Nevada,2022-01-06T12:11:00.000Z,,,Immediate
+2022,Answer,Gaye,CB,Iowa State,,2022-01-06T10:05:00.000Z,,,Immediate
+2022,Darrius,Smith,RB,Arizona,,2021-12-07T14:54:00.000Z,,3,Immediate
+2022,Darion,Green-Warren,CB,Michigan,Nevada,2022-01-03T19:19:00.000Z,,4,Immediate
+2022,Anthony,Solomon,LB,Michigan,Arizona,2022-01-03T19:19:00.000Z,0.87,3,Immediate
+2022,Devonte,Nelson,CB,Memphis,,2022-01-03T17:18:00.000Z,,3,Immediate
+2022,Winston,Wright,WR,West Virginia,Florida State,2022-01-03T16:13:00.000Z,0.88,3,Immediate
+2022,Tyler,Steen,OT,Vanderbilt,,2022-01-11T10:31:00.000Z,0.91,4,Immediate
+2022,Latrell,McCutchin,CB,Oklahoma,USC,2022-01-11T10:15:00.000Z,0.9,4,Immediate
+2022,Spencer,Curtis,WR,Oregon,Nevada,2022-01-11T09:09:00.000Z,,2,Immediate
+2022,Nathaniel,Peat,RB,Stanford,Missouri,2022-01-11T09:08:00.000Z,0.89,3,Immediate
+2022,Chancellor,Bright,WR,Marshall,,2022-01-11T09:07:00.000Z,,3,Immediate
+2022,Carter,Kamana,WR,Washington State,,2022-01-11T09:06:00.000Z,,,Immediate
+2022,Evan,Tattersall,LB,California,,2021-12-14T14:53:00.000Z,,3,Immediate
+2022,Jordan,Mosley,WR,Northwestern,Mississippi State,2022-01-10T08:21:00.000Z,,4,Immediate
+2022,Jackie,Matthews,CB,West Virginia,Mississippi State,2022-01-05T14:53:00.000Z,0.87,3,Immediate
+2022,Chris,Martinez,OT,San Diego State,Arizona State,2021-12-09T12:49:00.000Z,0.83,3,Immediate
+2022,Kevin,Williams,IOL,Northern Colorado,Nebraska,2021-12-05T15:08:00.000Z,0.86,3,Immediate
+2022,Jeremiah,Frazier,IOL,Tennessee State,Troy,2022-01-10T18:27:00.000Z,,,Immediate
+2022,Peni,Naulu,RB,Washington State,,2022-01-10T17:00:00.000Z,,3,Immediate
+2022,Brian,Greene,IOL,Washington State,,2022-01-10T17:00:00.000Z,0.89,3,Immediate
+2022,Troy,Brown,LB,Central Michigan,Ole Miss,2022-01-10T16:24:00.000Z,0.9,4,Immediate
+2022,Junior,Alexander,WR,Arizona State,Washington,2022-01-15T12:04:00.000Z,,4,Immediate
+2022,Kani,Walker,CB,Louisville,Oklahoma,2022-01-10T13:09:00.000Z,0.86,3,Immediate
+2022,Jaxson,Dart,QB,USC,,2022-01-10T12:29:00.000Z,0.99,5,Immediate
+2022,Billy,Pospisil III,WR,Washington State,Colorado School of Mines,2022-01-10T12:02:00.000Z,,3,Immediate
+2022,Cam'ron,Jones,CB,SMU,Grambling,2022-01-10T09:09:00.000Z,0.86,3,Immediate
+2022,Kyren,Lacy,WR,Louisiana,LSU,2022-01-14T08:40:00.000Z,0.89,3,Immediate
+2022,Alex,Adams,WR,LSU,Akron,2022-01-10T08:40:00.000Z,0.86,3,Immediate
+2022,Isaac,Ellis,IOL,Memphis,Louisiana Tech,2021-12-15T08:06:00.000Z,0.83,3,Immediate
+2022,Jashon,Watkins,ATH,Memphis,,2022-01-10T08:38:00.000Z,,3,Immediate
+2022,Andre,Seldon,CB,Michigan,New Mexico State,2022-01-06T09:05:00.000Z,0.87,3,Immediate
+2022,Dre,Terry,EDGE,East Carolina,Alabama A&M,2021-12-26T10:01:00.000Z,,,Immediate
+2022,Davon,Martin,CB,Middle Tennessee,,2021-12-15T16:20:00.000Z,,3,Immediate
+2022,Chris,Murray,DL,TCU,,2021-12-15T16:09:00.000Z,,3,Immediate
+2022,David,Reynolds,EDGE,Florida Intl,,2021-11-30T00:00:00.000Z,0.8,3,TBD
+2022,Ayodele,Adeoye,LB,Texas,,2021-11-30T00:00:00.000Z,0.82,3,TBD
+2022,Jalen,Alexander,S,Duke,,2022-01-09T05:04:00.000Z,,3,Immediate
+2022,McKenzie,Barnes,CB,Arizona,,2022-01-08T15:03:00.000Z,,3,Immediate
+2022,Asa,Barnes,RB,East Carolina,,2022-01-07T12:17:00.000Z,,,Immediate
+2022,JP,Andrade,QB,Ohio State,,2022-01-03T11:49:00.000Z,,3,Immediate
+2022,Tyrone,Brown,LB,Baylor,,2021-09-07T13:46:00.000Z,,3,Immediate
+2022,Ahmari,Harvey,S,Auburn,Georgia Tech,2021-12-18T09:39:00.000Z,0.89,3,Immediate
+2022,Mac,Hollensteiner,OT,Georgetown,Virginia,2021-11-25T13:59:00.000Z,,,Immediate
+2022,TJ,Smith,EDGE,Georgia State,,2022-01-05T22:04:00.000Z,,2,Immediate
+2022,Deshawn,Holt,EDGE,Maryland,Toledo,2022-01-05T13:59:00.000Z,,3,Immediate
+2022,Calvin,McMillian,OT,Mississippi State,Southern Mississippi,2022-01-05T12:59:00.000Z,0.83,3,Immediate
+2022,Sam,Vidlak,QB,Boise State,,2021-12-20T14:54:00.000Z,,3,Immediate
+2022,Antonio,Montero,LB,Rice,,2021-11-28T18:37:00.000Z,0.82,3,Immediate
+2022,Tyrone,Howell,WR,Kansas State,Louisiana Monroe,2021-11-28T16:00:00.000Z,0.82,3,Immediate
+2022,Geri,Theodore,EDGE,Toledo,,2021-11-28T12:49:00.000Z,0.8,3,Immediate
+2022,Hekili,Keliiliki,RB,Hawai'i,,2021-12-31T17:36:00.000Z,0.82,3,Immediate
+2022,DeaMonte,Trayanum,LB,Arizona State,Ohio State,2021-11-29T17:40:00.000Z,0.88,3,Immediate
+2022,Patrick,Lucas,DL,Ole Miss,Indiana,2021-11-29T17:12:00.000Z,0.82,3,Immediate
+2022,LeDarrius,Cox,DL,Ole Miss,Indiana,2021-11-29T17:09:00.000Z,0.82,3,Immediate
+2022,Ryan,Johnson,DL,Stanford,,2021-11-29T16:56:00.000Z,0.82,3,Immediate
+2022,Daylen,Gill,LB,Ole Miss,Southern Mississippi,2021-11-29T16:53:00.000Z,0.81,3,Immediate
+2022,Tarique,Milton,WR,Iowa State,,2021-11-29T16:44:00.000Z,0.83,3,Immediate
+2022,Jack,Buford,OT,New Mexico,Arizona,2021-11-29T16:34:00.000Z,0.83,3,Immediate
+2022,VanDarius,Cowan,LB,West Virginia,Maryland,2021-11-30T10:24:00.000Z,0.82,3,Immediate
+2022,Isaiah,Stephens,LB,Coastal Carolina,,2021-12-20T14:53:00.000Z,0.81,3,Immediate
+2022,JaKorey,Hawkins,CB,Ole Miss,Wyoming,2021-12-20T14:53:00.000Z,0.82,3,Immediate
+2022,Javon,Baker,WR,Alabama,Kentucky,2022-01-14T13:12:00.000Z,0.9,4,Immediate
+2022,Azizi,Hearn,CB,Wyoming,UCLA,2022-01-10T19:06:00.000Z,0.89,3,Immediate
+2022,Lindsey,Scott,QB,Nicholls,Incarnate Word,2022-01-08T00:28:00.000Z,,3,Immediate
+2022,Jarius,Monroe,S,Nicholls,Tulane,2022-01-06T00:29:00.000Z,,3,Immediate
+2022,CJ,Coldon,CB,Wyoming,Oklahoma,2021-12-26T17:22:00.000Z,0.88,3,Immediate
+2022,Khoury,Bethley,RB,Hawai'i,,2022-01-15T17:06:00.000Z,,3,Immediate
+2022,Jayden,Williams,CB,USC,,2022-01-14T14:36:00.000Z,0.82,3,Immediate
+2022,King,Mwikuta,LB,Alabama,Arkansas State,2022-01-11T13:23:00.000Z,0.86,3,Immediate
+2022,Tyrese,Williams,IOL,Oklahoma State,,2022-01-14T16:03:00.000Z,,3,Immediate
+2022,Kylan,Watkins,WR,Memphis,,2022-01-14T14:12:00.000Z,,2,Immediate
+2022,Alex,Navarro-Silva,DL,Arizona,,2022-01-14T14:00:00.000Z,,3,Immediate
+2022,Landon,Guidry,S,Mississippi State,,2022-01-14T14:00:00.000Z,,3,Immediate
+2022,Jalen,Paxton,WR,Tulsa,,2022-01-14T12:36:00.000Z,,3,Immediate
+2022,Jakari,Robinson,IOL,Memphis,,2021-11-22T10:47:00.000Z,0.8,3,Immediate
+2022,Eric,Reed,CB,Auburn,,2022-01-10T14:53:00.000Z,0.86,3,Immediate
+2022,Hunter,Marcom,TE,Central Michigan,,2022-01-14T11:56:00.000Z,,3,Immediate
+2022,Travis,Dye,RB,Oregon,USC,2022-01-14T11:56:00.000Z,0.92,4,Immediate
+2022,Chance,Main,EDGE,Incarnate Word,Colorado,2022-01-14T11:39:00.000Z,,,Immediate
+2022,Nolan,Mccord,K,Mississippi State,,2022-01-14T09:43:00.000Z,,,Immediate
+2022,Kaemen,Marley,WR,Tennessee,,2022-01-14T09:23:00.000Z,,4,Immediate
+2022,Brian,Casteel,WR,Arizona,Nevada,2022-01-13T15:44:00.000Z,,3,Immediate
+2022,Jalen,Jordan,CB,Ole Miss,South Alabama,2022-01-10T16:45:00.000Z,0.84,3,Immediate
+2022,Bru,McCoy,WR,USC,,2022-01-13T18:45:00.000Z,,5,Immediate
+2022,Kyle,Wright,LB,Georgia State,,2022-01-08T17:04:00.000Z,0.85,3,Immediate
+2022,Tyrek,Tisdale,RB,Florida Atlantic,St. Thomas University,2021-12-15T11:29:00.000Z,0.8,3,Immediate
+2022,Chance,Johnson,S,San José State,,2021-11-29T11:21:00.000Z,,2,Immediate
+2022,Femi,Sakiri,IOL,Connecticut,,2021-11-29T11:19:00.000Z,0.8,3,Immediate
+2022,Terah,Edwards,DL,Northwestern,Illinois,2021-11-29T11:14:00.000Z,0.84,3,Immediate
+2022,Danny,Lockhart,LB,USC,,2021-11-29T10:12:00.000Z,0.77,2,Immediate
+2022,Jack,Zergiotis,QB,Connecticut,Merrimack,2021-11-29T09:59:00.000Z,0.8,3,Immediate
+2022,Jake,Pope,OT,Kentucky,,2021-11-29T09:58:00.000Z,0.79,2,Immediate
+2022,Gerald,Mincey,OT,Florida,Tennessee,2021-11-29T09:57:00.000Z,0.84,3,Immediate
+2022,Stone,Eby,SDE,SMU,,2022-01-06T09:51:00.000Z,0.83,3,Immediate
+2022,Cobe,Bryant,OT,SMU,UNLV,2021-11-29T09:31:00.000Z,0.81,3,Immediate
+2022,Jordan,Boatman,OT,Houston,Sam Houston State,2021-12-13T22:52:00.000Z,,,Immediate
+2022,Chris,Edmonds,S,Samford,Buffalo,2021-12-04T18:01:00.000Z,0.87,3,Immediate
+2022,Kaden,Meredith,RB,Air Force,Sam Houston State,2021-11-29T00:00:00.000Z,,3,Immediate
+2022,Emmit,Bohle,OT,Northern State,Arizona State,2021-11-23T16:05:00.000Z,,,Immediate
+2022,Darvon,Hubbard,RB,Texas A&M,Temple,2022-01-19T17:49:00.000Z,,3,Immediate
+2022,Erick,Young,S,Texas A&M,,2022-01-27T16:00:00.000Z,,4,Immediate
+2022,John,Brunner,IOL,North Texas,,2022-01-19T16:30:00.000Z,,3,Immediate
+2022,Cardavion,Myers,CB,Western Kentucky,,2022-01-19T16:18:00.000Z,,3,Immediate
+2022,Jermaine,Burton,WR,Georgia,Alabama,2022-01-19T16:05:00.000Z,0.94,4,Immediate
+2022,Jahmal,Sam,S,UT San Antonio,,2022-01-19T15:07:00.000Z,,3,Immediate
+2022,Ethon,Williams,WR,Boston College,,2022-01-19T14:38:00.000Z,,3,Immediate
+2022,Ethan,Long,TE,Arizona State,,2022-01-19T14:24:00.000Z,,3,Immediate
+2022,Trelon,Smith,RB,Arkansas,,2022-01-19T14:01:00.000Z,0.89,3,Immediate
+2022,Jaylen,Pate,EDGE,Wyoming,,2022-01-19T13:54:00.000Z,,3,Immediate
+2022,Thomas,Nance,TE,South Florida,,2022-01-19T13:30:00.000Z,,3,Immediate
+2022,Joe,Foucha,S,Arkansas,LSU,2022-01-11T11:50:00.000Z,0.89,3,Immediate
+2022,Davonte,Pritchard,LB,Kansas State,South Dakota,2022-01-05T11:36:00.000Z,,3,Immediate
+2022,Bryce,Ramsey,IOL,Ole Miss,Southern Mississippi,2022-01-05T10:53:00.000Z,0.84,3,Immediate
+2022,Sean,Ryan,WR,West Virginia,Rutgers,2022-01-07T10:47:00.000Z,0.85,3,Immediate
+2022,Kyle,Juergens,IOL,Boise State,,2022-01-05T10:44:00.000Z,,3,Immediate
+2022,Jason,Mercier,EDGE,Florida Intl,Jackson State,2021-11-24T14:09:00.000Z,0.82,3,Immediate
+2022,Khaya,Wright,LB,Georgia Tech,,2021-11-24T08:40:00.000Z,0.81,3,Immediate
+2022,C.J.,Person,DL,Indiana,South Alabama,2021-11-23T17:12:00.000Z,0.82,3,Immediate
+2022,D.K.,Bonhomme,EDGE,Indiana,South Alabama,2021-11-23T17:12:00.000Z,0.81,3,Immediate
+2022,Jordan,Jusevitch,S,Indiana,,2022-01-13T16:04:00.000Z,,3,Immediate
+2022,Dalevon,Campbell,WR,Illinois,,2022-01-13T15:29:00.000Z,,3,Immediate
+2022,Shane,Lee,LB,Alabama,USC,2022-01-13T15:27:00.000Z,0.88,3,Immediate
+2022,Jarek,Broussard,RB,Colorado,,2022-01-13T14:23:00.000Z,0.89,3,Immediate
+2022,Marquise,Freeman,EDGE,Washington State,,2022-01-13T12:56:00.000Z,,3,Immediate
+2022,Malik,Heath,WR,Mississippi State,,2022-01-18T11:04:00.000Z,0.89,3,Immediate
+2022,Josh,Watts,P,Colorado,,2022-01-18T10:42:00.000Z,,3,Immediate
+2022,Maverick,McIvor,QB,Texas Tech,,2022-01-18T08:44:00.000Z,,3,Immediate
+2022,Nelson,Mbanasor,DL,Texas Tech,,2022-01-18T08:41:00.000Z,0.84,3,Immediate
+2022,Logan,Sagapolu,IOL,Oregon,Miami,2022-01-18T00:00:00.000Z,,3,Immediate
+2022,Jeremy,Singleton,WR,Houston,,2022-01-18T00:00:00.000Z,,3,TBD
+2022,J.J.,Pegues,TE,Auburn,Ole Miss,2022-01-17T17:01:00.000Z,0.91,4,Immediate
+2022,John,Brekke,IOL,Holy Cross,Miami (OH),2022-01-17T15:05:00.000Z,0.83,3,Immediate
+2022,John David,White,WR,Arkansas,Central Arkansas,2022-01-14T12:41:00.000Z,,,Immediate
+2022,Eddie,Schott,PRO,Ball State,Butler,2022-01-13T13:25:00.000Z,,3,Immediate
+2022,AJ,Snow,QB,Air Force,,2022-01-10T14:59:00.000Z,,2,Immediate
+2022,Sean,Chambers,QB,Wyoming,Montana State,2022-01-09T13:39:00.000Z,,3,Immediate
+2022,Mekhi,Blackmon,CB,Colorado,USC,2022-01-08T14:54:00.000Z,0.87,3,Immediate
+2022,Chance,Lytle,OT,Colorado,,2022-01-19T12:46:00.000Z,,3,Immediate
+2022,Rico,Small,WR,Eastern Michigan,,2022-01-19T12:30:00.000Z,,3,Immediate
+2022,Hirkley,Latu,LB,UCF,,2022-01-19T12:05:00.000Z,,3,Immediate
+2022,Damarius,Good,RB,UCF,,2022-01-19T11:17:00.000Z,,3,Immediate
+2022,Jonathan,Shepherd,WR,Oklahoma State,,2022-01-19T11:06:00.000Z,,3,Immediate
+2022,Trevor,Bycznski,PRO,Buffalo,Ashland,2022-01-06T14:53:00.000Z,,3,Immediate
+2022,Alijah,Clark,CB,Rutgers,Syracuse,2022-01-17T19:55:00.000Z,,4,Immediate
+2022,Dylan,Walker,TE,Colorado State,,2021-12-21T14:54:00.000Z,,3,Immediate
+2022,Jack,Wilty,IOL,Northern Illinois,,2021-12-21T14:54:00.000Z,,2,Immediate
+2022,DeAmonte,King,ATH,Toledo,,2021-12-21T14:23:00.000Z,,3,Immediate
+2022,Samson,Jackson,OT,Ohio,,2021-12-20T14:54:00.000Z,,2,Immediate
+2022,Jaden,Handy,RB,Ole Miss,,2021-12-17T14:26:00.000Z,,3,Immediate
+2022,Terreance,Ellis,LB,Rice,Alcorn State,2021-12-14T15:50:00.000Z,,,Immediate
+2022,Chase,Mason,QB,Nebraska,South Dakota State,2021-11-15T14:53:00.000Z,,1,Immediate
+2022,Jay,Shaw,CB,UCLA,Wisconsin,2022-01-17T14:28:00.000Z,,3,Immediate
+2022,Chase,Cota,WR,UCLA,,2022-01-17T13:51:00.000Z,0.87,3,Immediate
+2022,Arna,Bontemps,S,Washington State,,2022-01-17T12:06:00.000Z,,,Immediate
+2022,Latavious,Brini,S,Georgia,Arkansas,2022-01-17T11:05:00.000Z,0.9,4,Immediate
+2022,Tiaoalii,Savea,DL,UCLA,Arizona,2022-01-07T08:47:00.000Z,0.88,3,Immediate
+2022,Derrell,Bailey Jr.,IOL,Virginia Tech,South Florida,2021-11-23T16:19:00.000Z,0.8,3,Immediate
+2022,Jayson,Jones,DL,Oregon,Auburn,2021-12-15T15:46:00.000Z,0.89,3,Immediate
+2022,Peter,Costelli,QB,Utah,,2021-11-23T15:04:00.000Z,,4,Immediate
+2022,Craig,Burt,WR,Western Kentucky,Western Kentucky,2021-11-23T14:59:00.000Z,0.81,3,Immediate
+2022,Katravis,Geter Jr.,RB,Florida Intl,,2021-11-23T11:20:00.000Z,0.81,3,Immediate
+2022,Brice,Johnson,WR,Ole Miss,Houston,2021-11-22T19:13:00.000Z,0.78,2,Immediate
+2022,Ryan,Stapp,CB,Abilene Christian,Minnesota,2021-11-22T17:43:00.000Z,0.88,3,Immediate
+2022,Jamel,Hamm,CB,UNLV,,2021-12-10T14:53:00.000Z,,3,Immediate
+2022,MJ,Anderson,DL,Minnesota,Iowa State,2021-11-21T10:47:00.000Z,0.82,3,Immediate
+2022,Bobby,Holmes,CB,Louisiana,,2021-11-19T14:14:00.000Z,0.79,2,Immediate
+2022,Desmond,Hutson,WR,Iowa,,2021-11-19T12:20:00.000Z,0.79,2,Immediate
+2022,Lonnie,Rice,S,Buffalo,,2021-11-18T15:56:00.000Z,0.79,2,Immediate
+2022,Dylan,Robinson,WR,Houston,Trinity Valley C.C.,2021-11-18T08:49:00.000Z,,3,Immediate
+2022,Jacques,Wilson,CB,BYU,,2021-11-17T16:52:00.000Z,0.79,2,Immediate
+2022,AJ,Roberts,LB,Pittsburgh,Stony Brook,2021-11-17T14:04:00.000Z,0.79,2,Immediate
+2022,Knowledge,McDaniel,RB,Marshall,,2021-11-17T13:42:00.000Z,,3,Immediate
+2022,Osita,Smith,S,Maryland,,2021-12-16T14:53:00.000Z,0.85,3,Immediate
+2022,Ahmonte,Watkins,RB,TCU,New Mexico State,2021-12-15T14:53:00.000Z,0.9,4,Immediate
+2022,Chris,Harris Jr.,LB,Georgia Southern,,2021-11-17T13:40:00.000Z,0.78,2,Immediate
+2022,Ja'Quez,Cross,RB,Purdue,Arkansas State,2021-11-17T13:38:00.000Z,0.84,3,Immediate
+2022,Mata,Hola,EDGE,Utah State,,2021-11-17T11:04:00.000Z,0.79,2,Immediate
+2022,Zeb,Noland,QB,North Dakota State,South Carolina,2021-08-17T13:54:00.000Z,,3,Immediate
+2022,Cameron,Sims,CB,Georgia State,Mercer,2021-11-17T11:01:00.000Z,0.78,2,Immediate
+2022,Marquae,Kirkendoll,CB,New Mexico,,2021-11-17T00:06:00.000Z,0.79,2,Immediate
+2022,Javien,Clemmer,ATH,New Mexico State,,2021-11-16T21:59:00.000Z,0.79,2,Immediate
+2022,Deron,Harrell,CB,Wisconsin,,2021-11-16T12:55:00.000Z,0.8,3,Immediate
+2022,Marcel,Murray,RB,Arkansas State,Arkansas State,2021-11-16T12:01:00.000Z,0.83,3,Immediate
+2022,Gabe,Jeudy-Lally,CB,Vanderbilt,,2021-11-30T08:49:00.000Z,0.83,3,Immediate
+2022,Nigel,Fitzgerald,WR,Old Dominion,,2021-11-16T06:27:00.000Z,0.79,2,Immediate
+2022,Davontae,McCrae,SDE,North Texas,,2021-11-16T06:19:00.000Z,0.8,3,Immediate
+2022,Tre'Von,Morgan,WR,Kentucky,,2022-01-13T18:45:00.000Z,,3,Immediate
+2022,Warren,Bryan,DUAL,Air Force,,2022-01-13T18:44:00.000Z,,2,Immediate
+2022,Fred,Orr,RB,Tennessee,,2022-01-12T18:43:00.000Z,,2,Immediate
+2022,Braxton,Barker,QB,Alabama,,2022-01-12T18:37:00.000Z,,2,Immediate
+2022,Kemore,Gamble,TE,Florida,UCF,2022-01-12T18:36:00.000Z,0.89,3,Immediate
+2022,Mitchell,Gorgas,IOL,Maryland,,2021-11-16T06:12:00.000Z,0.77,2,Immediate
+2022,Pierre,Kemeni,CB,Ohio,Texas State,2021-11-15T17:43:00.000Z,0.79,2,Immediate
+2022,AJ,Watts,CB,Akron,,2022-01-19T10:57:00.000Z,,2,Immediate
+2022,Ma'a,Gaoteote,OLB,Michigan State,,2022-01-19T10:56:00.000Z,,,Immediate
+2022,Cole,Hussung,K,Michigan,,2022-01-19T10:47:00.000Z,,,Immediate
+2022,Mykal,McLeod,OT,Southern Mississippi,,2022-01-19T10:42:00.000Z,,2,Immediate
+2022,Ben,Langston,S,Missouri,,2021-12-17T14:26:00.000Z,,3,Immediate
+2022,Malik,Williams,CB,Nebraska,,2021-12-17T14:26:00.000Z,,3,Immediate
+2022,Marshawn,Buchanan,WR,Washington State,,2021-12-17T14:26:00.000Z,,3,Immediate
+2022,Tremayne,Prudhomme,CB,Texas,,2021-12-17T14:26:00.000Z,,,Immediate
+2022,Kolby,White,WR,Baylor,,2021-12-16T14:23:00.000Z,,,Immediate
+2022,Thor,Canales,LB,Arizona,,2021-12-16T14:20:00.000Z,,,Immediate
+2022,Kaylan,Wiggins,QB,Florida Intl,,2022-01-21T11:41:00.000Z,,2,Immediate
+2022,Andrew,Parker,LB,Arkansas,,2022-01-20T14:44:00.000Z,,3,Immediate
+2022,Theodore,Knox,WR,Mississippi State,,2022-01-20T14:17:00.000Z,,4,Immediate
+2022,Katravis,Marsh,QB,South Florida,South Florida,2021-12-01T08:36:00.000Z,0.83,3,Immediate
+2022,Wayne,Taulapapa,RB,Virginia,,2021-12-30T14:54:00.000Z,0.85,3,Immediate
+2022,Ben,Hines,LB,Washington,,2021-12-29T17:24:00.000Z,,1,Immediate
+2022,Malik,Hornsby,QB,Arkansas,,2022-01-07T12:15:00.000Z,,4,Immediate
+2022,Kadyn,Roach,RB,Louisiana Monroe,Southern Arkansas,2021-12-13T13:24:00.000Z,0.79,2,Immediate
+2022,Jeremiah,McClendon,S,Marshall,,2021-10-28T11:18:00.000Z,0.79,2,Immediate
+2022,Gavin,Blunt,WR,Akron,,2021-09-30T15:28:00.000Z,,2,Immediate
+2022,Myles,Tapusoa,DL,Arizona,,2021-09-30T13:11:00.000Z,0.8,3,Immediate
+2022,Dink,Jackson,S,Ole Miss,,2021-09-30T12:23:00.000Z,0.81,3,Immediate
+2022,Jonathan,Haynes,S,Ole Miss,,2021-08-02T09:49:00.000Z,0.81,3,Immediate
+2022,Jared,Verse,EDGE,Albany,Florida State,2021-11-30T10:14:00.000Z,0.94,4,Immediate
+2022,Zack,Merrill,QB,Indiana,,2022-01-11T12:55:00.000Z,,,Immediate
+2022,Michael,Turk,P,Arizona State,Oklahoma,2021-08-05T17:00:00.000Z,,,Immediate
+2022,Nusi,Malani,DL,Virginia,Washington State,2021-12-29T18:59:00.000Z,0.85,3,Immediate
+2022,Greg,Brooks Jr.,CB,Arkansas,LSU,2022-01-13T12:08:00.000Z,0.9,4,Immediate
+2022,Donald,Clea,S,Troy,,2021-09-22T12:00:00.000Z,,3,Immediate
+2022,Regen,Terry,EDGE,Arizona,,2022-01-06T10:57:00.000Z,,3,Immediate
+2022,Andrew,Chatfield,EDGE,Florida,Oregon State,2021-08-31T12:39:00.000Z,,4,Immediate
+2022,Charles,Hicks,LB,Wyoming,Missouri,2021-08-23T22:55:00.000Z,0.79,2,Immediate
+2022,Sampson,James,RB,Indiana,Purdue,2021-08-11T08:53:00.000Z,,4,Immediate
+2022,Tres,Barboza,OT,UTEP,Connecticut,2021-12-27T11:51:00.000Z,0.83,3,Immediate
+2022,Trinity,Bell,TE,Tennessee,,2022-01-13T20:58:00.000Z,,3,Immediate
+2022,Trevion,Stevenson,LB,North Carolina,,2022-01-13T20:20:00.000Z,0.82,3,Immediate
+2022,Eleasah,Anderson,OT,Sam Houston State,,2022-01-13T20:19:00.000Z,,3,Immediate
+2022,Ben,Raybon,K,Northern Colorado,Mississippi State,2022-01-19T21:35:00.000Z,,,Immediate
+2022,Javan,Hawes,WR,Arkansas State,,2021-11-22T16:43:00.000Z,0.79,2,Immediate
+2022,Tyson,Bagent,QB,Shepherd,,2022-01-07T10:13:00.000Z,,,Immediate
+2022,Jacolby,Hewitt,WR,Indiana,Florida Intl,2021-11-21T19:30:00.000Z,0.8,3,Immediate
+2022,Raiqwon,O'Neal,OT,Rutgers,,2022-01-20T13:37:00.000Z,,3,Immediate
+2022,Kamal,Gray,QB,Temple,,2022-01-20T10:24:00.000Z,,,Immediate
+2022,Myles,Williamson,CB,Bowling Green,,2021-11-02T13:34:00.000Z,0.78,2,Immediate
+2022,Trevor,Arnett,IOL,Florida Intl,,2021-11-02T13:33:00.000Z,,,Immediate
+2022,Titus,Mokiao-Atimalala,WR,UCF,UCLA,2022-01-04T16:43:00.000Z,0.89,3,Immediate
+2022,Elijah,Blades,CB,Florida,Buffalo,2021-10-11T13:04:00.000Z,0.81,3,Immediate
+2022,La'andre,Thomas,S,Memphis,,2021-08-26T15:04:00.000Z,,3,Immediate
+2022,Josh,Griffis,EDGE,Florida State,Jackson State,2021-08-25T04:09:00.000Z,0.82,3,Immediate
+2022,Kaulin,Parris,K,West Virginia,,2021-08-24T11:20:00.000Z,,,Immediate
+2022,Kundarrius,Taylor,WR,UAB,,2021-12-16T13:42:00.000Z,,3,Immediate
+2022,Isaiah,Holiness,WR,San José State,UMass,2022-01-04T00:00:00.000Z,0.81,3,Immediate
+2022,Jaelen,Crider,DL,Toledo,,2021-12-27T12:46:00.000Z,,3,Immediate
+2022,Jack,Wardzala,EDGE,Bowling Green,,2021-11-29T16:32:00.000Z,0.79,2,Immediate
+2022,Eddie,Smith,S,Illinois,Arkansas State,2021-11-29T16:19:00.000Z,0.82,3,Immediate
+2022,Gabe,Brown,IOL,Bowling Green,Grand Valley State,2021-11-29T16:14:00.000Z,0.8,3,Immediate
+2022,Justin,Moore,DL,Connecticut,,2021-11-30T10:12:00.000Z,,3,Immediate
+2022,Willie,Taylor III,EDGE,Washington State,,2022-01-13T12:43:00.000Z,,2,Immediate
+2022,Jordan,Morris,CB,Coastal Carolina,,2022-01-13T09:31:00.000Z,,2,Immediate
+2022,Blake,Grupe,K,Arkansas State,Notre Dame,2022-01-13T09:05:00.000Z,,,Immediate
+2022,Sean,Dollars,RB,Oregon,,2022-01-13T09:04:00.000Z,0.88,3,Immediate
+2022,Trey,Benson,RB,Oregon,Florida State,2022-01-13T08:59:00.000Z,0.89,3,Immediate
+2022,Joseph Appiah,Darkwa,DL,Penn State,,2022-01-10T10:33:00.000Z,,3,TBD
+2022,Steven,Stilianos,TE,Lafayette,,2021-12-01T10:59:00.000Z,,,Immediate
+2022,K'Rojhn,Calbert,OT,Tennessee,Eastern Kentucky,2022-01-12T18:59:00.000Z,,3,Immediate
+2022,Jeremy,Hunt,QB,Louisiana Monroe,,2022-01-12T17:15:00.000Z,,3,Immediate
+2022,Mekhi,Wingo,DL,Missouri,LSU,2022-01-18T11:03:00.000Z,0.94,4,Immediate
+2022,Kajuan,Robinson,DL,Memphis,,2022-01-18T09:50:00.000Z,0.83,3,Immediate
+2022,Wyatt,Walton,IOL,Ohio,,2022-01-18T09:10:00.000Z,,3,Immediate
+2022,Jahquan,Bloomfield,WR,Louisiana Monroe,,2022-01-18T08:46:00.000Z,,2,Immediate
+2022,Jairus,Satiu,LB,Virginia,,2021-11-18T09:21:00.000Z,0.79,2,Immediate
+2022,Josh,Oglesby,RB,Arkansas,Stephen F. Austin,2021-12-07T11:51:00.000Z,0.79,2,Immediate
+2022,MJ,Tafisi,LB,Washington,Utah State,2021-11-08T11:44:00.000Z,0.83,3,Immediate
+2022,Bryce,McNair,OT,Ohio,,2021-11-08T10:24:00.000Z,,3,Immediate
+2022,Khafre,Brown,WR,North Carolina,South Florida,2021-10-18T10:39:00.000Z,0.85,3,Immediate
+2022,Cameron,Wiley,RB,Minnesota,Akron,2021-10-18T08:43:00.000Z,0.79,2,Immediate
+2022,Benny,McCray IV,CB,Florida Intl,,2021-11-29T00:00:00.000Z,0.81,3,TBD
+2022,Gavin,Hall,QB,Toledo,,2022-01-05T22:01:00.000Z,,3,Immediate
+2022,Nick,Roberts,S,Louisiana Monroe,,2022-01-05T14:57:00.000Z,0.85,3,Immediate
+2022,Robby,Ashford,QB,Oregon,Auburn,2022-01-05T14:41:00.000Z,0.81,3,Immediate
+2022,James,Gordon IV,LB,Minnesota,South Florida,2021-11-28T10:41:00.000Z,0.81,3,Immediate
+2022,Jacob,Clark,QB,Minnesota,Missouri State,2021-11-28T10:41:00.000Z,0.8,3,Immediate
+2022,Cade,Fortin,QB,South Florida,Arkansas,2021-11-28T10:29:00.000Z,0.81,3,Immediate
+2022,Michael,Scott,OLB,Akron,South Dakota,2021-11-27T12:20:00.000Z,0.87,3,Immediate
+2022,Riley,Keller,QB,Bowling Green,Tiffin University,2021-11-26T17:46:00.000Z,0.8,3,Immediate
+2022,Keith,Miller,WR,Colorado,Texas A&M Commerce,2021-11-26T15:12:00.000Z,0.8,3,Immediate
+2022,Orlando,Jones,RB,SMU,,2022-01-18T12:13:00.000Z,,,Immediate
+2022,Malik,Jackson,RB,Louisiana Monroe,,2022-01-18T12:09:00.000Z,,3,Immediate
+2022,Chris,Miller,CB,Colorado,,2022-01-18T12:06:00.000Z,,3,Immediate
+2022,Derek,Green,QB,SMU,,2022-01-18T12:02:00.000Z,,,Immediate
+2022,J'Marion,Gooch,OT,Missouri,,2021-09-07T11:44:00.000Z,0.82,3,Immediate
+2022,Coye,Fairman,WR,Memphis,,2021-09-07T11:11:00.000Z,,3,Immediate
+2022,Litchfield,Ajavon,S,Notre Dame,,2021-12-08T16:04:00.000Z,,4,Immediate
+2022,Jackson,Sirmon,LB,Washington,California,2021-12-29T18:00:00.000Z,0.91,4,Immediate
+2022,Ben,Bryant,QB,Eastern Michigan,Cincinnati,2021-12-27T14:53:00.000Z,0.82,3,Immediate
+2022,Tillman,Weaver,DL,Ohio,,2021-11-30T08:15:00.000Z,,3,Immediate
+2022,Joseph,Daniels Jr.,CB,Indiana,,2021-11-30T08:05:00.000Z,,2,Immediate
+2022,Dwayne,Thompson,S,Indiana State,,2021-11-30T07:22:00.000Z,,1,Immediate
+2022,Dontae,Keys,IOL,Florida Intl,Colorado State,2021-12-15T09:19:00.000Z,,,Immediate
+2022,Dante,Zanders,DL,Florida,Florida,2021-11-29T09:18:00.000Z,0.81,3,Immediate
+2022,Tyler,Hudson,WR,Central Arkansas,Louisville,2022-01-13T16:36:00.000Z,,3,Immediate
+2022,Jared,Sackett,K,South Florida,UT San Antonio,2021-11-29T08:32:00.000Z,0.81,3,Immediate
+2022,Tyler,Rudolph,S,Penn State,UMass,2021-11-24T13:12:00.000Z,0.81,3,Immediate
+2022,Trevon,Booker,CB,Miami (OH),,2021-11-24T09:24:00.000Z,0.79,2,Immediate
+2022,Bryce,Miller,WR,South Florida,,2021-11-16T09:40:00.000Z,0.8,3,Immediate
+2022,Dillon,Markiewicz,QB,Syracuse,Texas State,2022-01-17T09:31:00.000Z,0.8,3,Immediate
+2022,Christopher,Oliver,IOL,Bowling Green,,2021-11-16T08:09:00.000Z,0.79,2,Immediate
+2022,Mark,Davis,CB,Buffalo,,2021-10-26T13:05:00.000Z,0.79,2,Immediate
+2022,Colby,Reeder,LB,Delaware,Iowa State,2021-11-29T15:51:00.000Z,0.87,3,Immediate
+2022,Detravion,Green,S,Arkansas State,Central Arkansas,2021-11-29T15:47:00.000Z,0.81,3,Immediate
+2022,Corbet,Mims,DL,Arkansas State,Memphis,2021-11-29T15:46:00.000Z,0.82,3,Immediate
+2022,Chris,Shearin,CB,Missouri,,2021-11-29T08:01:00.000Z,0.81,3,Immediate
+2022,Tyrone,Tracy,WR,Iowa,Purdue,2021-12-07T11:23:00.000Z,0.85,3,Immediate
+2022,Nicholas,Nakwaasah,S,Central Arkansas,North Texas,2021-11-29T07:59:00.000Z,,3,Immediate
+2022,Simeon,Evans,QB,Army,Sam Houston State,2021-11-29T07:42:00.000Z,0.78,2,Immediate
+2022,Olasunkonmi,Agunloye,DL,Virginia,Virginia,2021-12-14T09:15:00.000Z,,3,Immediate
+2022,Emmanuel,Flowers,S,Michigan State,,2021-11-29T07:13:00.000Z,0.8,3,Immediate
+2022,Joe,Rondi,DL,Syracuse,,2021-11-29T06:56:00.000Z,0.79,2,Immediate
+2022,Nik,Scalzo,QB,Kentucky,Samford,2021-11-29T00:00:00.000Z,0.8,3,Immediate
+2022,Jawaun,Johnson,WR,Louisiana Tech,,2022-01-18T11:24:00.000Z,,3,Immediate
+2022,Jesiah,Davis,WR,Virginia,,2021-11-26T13:02:00.000Z,0.82,3,Immediate
+2022,Hunter,Nourzad,IOL,Cornell,,2021-11-25T12:31:00.000Z,0.86,3,Immediate
+2022,Dimitri,Moore,LB,Missouri State,Texas Tech,2021-11-24T19:30:00.000Z,0.81,3,TBD
+2022,Gabriel,Iniguez,EDGE,Hawai'i,,2021-11-24T15:57:00.000Z,0.79,2,Immediate
+2022,Chigozie,Anusiem,CB,California,Hawai'i,2021-11-24T14:40:00.000Z,0.84,3,Immediate
+2022,Wayne,Jones,LB,Kansas State,Charlotte,2021-11-24T14:29:00.000Z,0.82,3,Immediate
+2022,James,Faminu,OT,Houston,,2022-01-12T16:03:00.000Z,,2,Immediate
+2022,Noah,Cain,RB,Penn State,LSU,2022-01-13T15:17:00.000Z,0.89,3,Immediate
+2022,Andison,Coby,WR,Tennessee,,2022-01-12T15:01:00.000Z,,3,Immediate
+2022,Myles,Brennan,QB,LSU,,2021-11-03T16:54:00.000Z,0.88,3,Immediate
+2022,Michael,Trigg,TE,USC,,2022-01-12T13:51:00.000Z,0.91,4,Immediate
+2022,Tylan,Knight,RB,Ole Miss,Southern Mississippi,2022-01-12T13:29:00.000Z,0.85,3,Immediate
+2022,Hunter,Johnson,QB,Northwestern,Clemson,2022-01-12T13:01:00.000Z,0.8,3,Immediate
+2022,Wilton,Gaby,RB,Coastal Carolina,,2022-01-12T12:49:00.000Z,,3,Immediate
+2022,Andrew,Mims,LB,South Florida,,2022-01-12T12:39:00.000Z,,,Immediate
+2022,Naquan,Brown,EDGE,Pittsburgh,,2022-01-12T12:37:00.000Z,,4,Immediate
+2022,Ochaun,Mathis,EDGE,TCU,,2022-01-12T12:30:00.000Z,0.89,3,Immediate
+2022,William,Racely,IOL,Eastern Michigan,,2022-01-12T12:15:00.000Z,,3,Immediate
+2022,Jarrett,Paul,S,Eastern Michigan,,2022-01-12T12:12:00.000Z,,3,Immediate
+2022,Christopher,Jackson,WR,BYU,,2022-01-05T14:16:00.000Z,,3,Immediate
+2022,Shawn,Robinson,S,Missouri,Kansas State,2022-01-05T10:29:00.000Z,0.85,3,Immediate
+2022,Curtis,Harper,DL,Syracuse,Akron,2021-11-24T14:19:00.000Z,0.81,3,Immediate
+2022,Cory,Gross,S,Buffalo,,2022-01-13T15:32:00.000Z,,3,Immediate
+2022,Nesta Jade,Silvera,DL,Miami,Arizona State,2022-01-07T11:45:00.000Z,0.9,4,Immediate
+2022,Alan,Ali,IOL,SMU,TCU,2022-01-05T14:53:00.000Z,0.91,4,Immediate
+2022,Jakovi,Bryant,CB,Florida Intl,,2021-11-08T13:40:00.000Z,0.79,2,Immediate
+2022,Geordon,Porter,WR,Arizona State,,2021-11-08T13:21:00.000Z,0.81,3,Immediate
+2022,Bradley,Jennings Jr.,LB,Miami,Indiana,2021-11-08T12:45:00.000Z,0.83,3,Immediate
+2022,Joseph,Charleston,S,Clemson,Missouri,2021-10-18T16:08:00.000Z,0.83,3,Immediate
+2022,Rosendo,Louis,LB,South Carolina,,2021-10-18T14:39:00.000Z,0.81,3,Immediate
+2022,Damon,Gentry Jr.,CB,New Mexico,,2021-09-14T09:26:00.000Z,,3,Immediate
+2022,Tyler,Barnes,CB,Southern Mississippi,,2021-09-13T10:05:00.000Z,,2,Immediate
+2022,Jamason,Jodway,RB,Akron,,2021-09-09T13:50:00.000Z,,,Immediate
+2022,Michael,Dowell,S,Michigan State,Pittsburgh,2021-11-28T14:21:00.000Z,0.87,3,Immediate
+2022,Dre,Butler,DL,Auburn,Liberty,2022-01-03T10:11:00.000Z,0.87,3,Immediate
+2022,Kendall,Catalon,WR,Arkansas,,2022-01-03T10:11:00.000Z,,2,Immediate
+2022,Nate,Thompson,S,Duke,,2022-01-09T05:05:00.000Z,,3,Immediate
+2022,Peter,Montini,LB,Nevada,Colorado State,2021-12-15T18:57:00.000Z,0.81,3,Immediate
+2022,Jamious,Griffin,RB,Georgia Tech,Georgia Tech,2021-12-07T13:57:00.000Z,0.8,3,Immediate
+2022,Dan,Villari,QB,Michigan,Syracuse,2022-01-06T09:05:00.000Z,,3,Immediate
+2022,Carson,Baker,QB,Western Kentucky,,2021-10-26T12:33:00.000Z,0.79,2,Immediate
+2022,Terion,Sugick,DL,Vanderbilt,Arkansas State,2021-11-30T08:38:00.000Z,,3,Immediate
+2022,Solomon,Wright,DL,Arkansas,,2021-11-30T08:37:00.000Z,,3,Immediate
+2022,Cameron,Ward,QB,Incarnate Word,Washington State,2021-12-10T19:00:00.000Z,0.93,4,Immediate
+2022,Taylor,Behl,LB,Louisiana Monroe,,2021-11-30T08:17:00.000Z,0.8,3,Immediate
+2022,Tanner,Luther,K,Eastern Michigan,,2022-01-12T11:44:00.000Z,,2,Immediate
+2022,Wyatt,Blake,OT,Northwestern,,2021-11-29T15:41:00.000Z,0.8,3,Immediate
+2022,Ishmael,Burdine,S,Missouri,TCU,2021-11-29T15:37:00.000Z,0.81,3,Immediate
+2022,Javione,Carr,CB,Arizona,,2021-11-29T14:58:00.000Z,0.82,3,Immediate
+2022,Michael,Pleas,S,Southern Mississippi,Jackson State,2021-11-29T14:41:00.000Z,0.81,3,Immediate
+2022,Herman,McCray,TE,Georgia State,,2021-11-29T14:39:00.000Z,,2,Immediate
+2022,Camron,Buckley,WR,Indiana,Jackson State,2021-11-29T14:37:00.000Z,0.82,3,Immediate
+2022,Tate,Heitmeier,IOL,Texas State,,2021-11-29T14:23:00.000Z,0.82,3,Immediate
+2022,Rowan,McGwin,OT,Buffalo,,2021-11-29T13:17:00.000Z,0.79,2,Immediate
+2022,Desmyn,Baker,LB,Rice,Western Kentucky,2021-11-29T12:38:00.000Z,0.81,3,Immediate
+2022,George,Johnson III,CB,Michigan,UMass,2022-01-06T09:04:00.000Z,0.85,3,Immediate
+2022,Angel,King,ATH,Nevada,,2021-12-10T14:54:00.000Z,,2,Immediate
+2022,Teivis,Tuioti,DL,Nevada,,2021-12-08T14:54:00.000Z,,3,Immediate
+2022,Connor,Helsius,LB,UTEP,,2021-12-08T14:54:00.000Z,,2,Immediate
+2022,Brady,Boyd,WR,Minnesota,Texas Tech,2021-12-09T14:21:00.000Z,0.85,3,Immediate
+2022,Daniel,Foster-Allen,DL,Auburn,South Alabama,2022-01-12T16:17:00.000Z,0.83,3,Immediate
+2022,Noah,Bean,TE,UNLV,,2021-12-07T14:54:00.000Z,,3,Immediate
+2022,Jaeger,Bull,TE,Rice,,2021-12-07T14:54:00.000Z,,2,Immediate
+2022,Des,Holmes,IOL,Penn State,Arizona State,2021-12-07T14:54:00.000Z,0.84,3,Immediate
+2022,Trustin,Oliver,S,Colorado,Central Arkansas,2021-11-30T09:53:00.000Z,0.81,3,Immediate
+2022,Jacardia,Wright,RB,Kansas State,,2021-11-30T09:50:00.000Z,,3,Immediate
+2022,Conner,Parsons,IOL,Louisiana Monroe,,2021-11-30T09:36:00.000Z,0.79,2,Immediate
+2022,Brendon,Harris,S,Vanderbilt,,2021-11-30T09:21:00.000Z,0.82,3,Immediate
+2022,Elijah,Canion,WR,Auburn,Purdue,2021-11-30T09:05:00.000Z,0.84,3,Immediate
+2022,Amir,Abdur-Rahman,WR,Vanderbilt,,2021-11-30T09:05:00.000Z,0.83,3,Immediate
+2022,Caleb,Johnson,EDGE,Auburn,,2021-11-30T09:03:00.000Z,0.83,3,Immediate
+2022,Theo,Wease,WR,Oklahoma,Oklahoma,2021-12-01T09:41:00.000Z,0.9,4,Immediate
+2022,Lorenza,Surgers,DL,Vanderbilt,Minnesota,2021-11-30T08:53:00.000Z,0.8,3,Immediate
+2022,Danny,Joiner,TE,Army,,2021-11-30T08:51:00.000Z,0.79,2,Immediate
+2022,Payne,He'Bert,OT,Northwestern,UT San Antonio,2021-11-29T18:39:00.000Z,0.8,3,Immediate
+2022,Jaylen,Rivers,ATH,Northwestern,,2021-11-29T12:32:00.000Z,0.8,3,Immediate
+2022,Morgan,Moore,OT,Texas State,,2021-12-03T14:53:00.000Z,0.79,2,Immediate
+2022,Kyle,Cass,CB,Mississippi State,,2022-01-12T10:53:00.000Z,,3,Immediate
+2022,Gavin,McCabe,DL,Indiana,,2022-01-12T10:45:00.000Z,,3,Immediate
+2022,Toby,Ndukwe,LB,SMU,,2022-01-12T09:38:00.000Z,,3,Immediate
+2022,Anthony,Earle,OG,Florida Atlantic,,2022-01-12T08:51:00.000Z,,3,Immediate
+2022,Drew,Sanders,LB,Alabama,Arkansas,2022-01-11T14:53:00.000Z,0.94,4,Immediate
+2022,Chuck,Filiaga,IOL,Michigan,Minnesota,2022-01-07T09:18:00.000Z,0.89,3,Immediate
+2022,Rome,Weber,CB,Wyoming,Western Kentucky,2021-12-23T14:53:00.000Z,0.83,3,Immediate
+2022,Cade,Cadam,WR,Arizona State,,2021-12-13T14:54:00.000Z,,3,Immediate
+2022,Jaali,Parker,S,Western Michigan,,2021-12-12T14:53:00.000Z,,3,Immediate
+2022,Preston,Hutchinson,QB,Eastern Michigan,Chattanooga,2021-12-12T14:29:00.000Z,,2,Immediate
+2022,Moses,Douglass,S,Kentucky,,2021-12-11T14:53:00.000Z,,4,Immediate
+2022,Henry,Colombi,QB,Texas Tech,Marshall,2022-01-12T16:58:00.000Z,0.82,3,Immediate
+2022,Jalen,Kimber,CB,Georgia,Florida,2022-01-12T16:43:00.000Z,0.9,4,Immediate
+2022,Justin,Robinson,WR,Georgia,Mississippi State,2022-01-12T16:32:00.000Z,0.87,3,Immediate
+2022,Adonicas,Sanders,WR,Georgia Tech,,2022-01-11T13:08:00.000Z,,2,Immediate
+2022,DeZaun,Brooks,DL,Eastern Michigan,,2022-01-12T11:59:00.000Z,,2,Immediate
+2022,Austin,Jones,RB,Stanford,USC,2022-01-12T11:56:00.000Z,0.89,3,Immediate
+2022,Trea,Shropshire,WR,UAB,,2022-01-12T11:45:00.000Z,,3,Immediate
+2022,Brylan,Lanier,CB,Alabama,,2022-01-11T18:32:00.000Z,,3,Immediate
+2022,Tyrese,Chambers,WR,Florida Intl,,2021-11-30T10:57:00.000Z,0.87,3,Immediate
+2022,Mark,Williams,TE,Kent State,,2021-12-08T14:54:00.000Z,,2,Immediate
+2022,Malcolm,Johnson,LB,UNLV,,2021-12-08T14:53:00.000Z,,2,Immediate
+2022,Paul,Tyson,QB,Alabama,Arizona State,2022-01-11T18:26:00.000Z,0.85,3,Immediate
+2022,Gabe,Lemons,CB,Oklahoma State,,2022-01-11T17:25:00.000Z,,3,Immediate
+2022,Tyler,Murray,LB,Charlotte,Memphis,2022-01-11T16:34:00.000Z,,2,Immediate
+2022,Joshia,Davis,RB,Colorado,,2022-01-11T16:32:00.000Z,0.84,3,Immediate
+2022,Ameer,Speed,CB,Georgia,Michigan State,2022-01-11T16:08:00.000Z,0.87,3,Immediate
+2022,Jahleel,Billingsley,TE,Alabama,Texas,2022-01-11T16:04:00.000Z,0.93,4,Immediate
+2022,Emmanuel,Greene,WR,New Mexico,,2021-11-29T10:45:00.000Z,,2,Immediate
+2022,Jordyn,Williams,WR,Indiana,Jackson State,2021-11-29T10:44:00.000Z,0.82,3,Immediate
+2022,Simon,Thompson,LB,Utah State,,2022-01-05T17:54:00.000Z,,3,Immediate
+2022,Jaqwondis,Burns,LB,Minnesota,SMU,2022-01-05T15:05:00.000Z,0.86,3,Immediate
+2022,Tommy,Brown,OT,Alabama,Colorado,2022-01-11T15:59:00.000Z,0.82,3,Immediate
+2022,Dwight,McGlothern,CB,LSU,Arkansas,2022-01-16T13:47:00.000Z,0.91,4,Immediate
+2022,Kolbe,Burrell,RB,Buffalo,Northwestern State,2021-12-07T11:33:00.000Z,0.79,2,Immediate
+2022,Jamie,Pettway,LB,Missouri,Florida Atlantic,2021-10-25T11:58:00.000Z,0.81,3,Immediate
+2022,Cross,Patton,RB,Oregon,Nevada,2022-01-11T13:42:00.000Z,,,Immediate
+2022,John,Waller,DL,South Florida,,2022-01-11T13:15:00.000Z,,3,Immediate
+2022,Tayvion,Robinson,WR,Virginia Tech,Kentucky,2021-12-02T09:18:00.000Z,0.88,3,Immediate
+2022,Ben,Labrosse,S,Syracuse,,2021-12-14T12:22:00.000Z,,3,Immediate
+2022,Chase,Atkinson,CB,Syracuse,,2021-12-14T11:25:00.000Z,,3,Immediate
+2022,Caleb,Williams,QB,Oklahoma,,2022-01-03T15:22:00.000Z,1,5,Immediate
+2022,Henry,Garrison,DL,East Carolina,,2022-01-03T14:57:00.000Z,,3,Immediate
+2022,Aidan,Robbins,RB,Louisville,,2022-01-11T11:47:00.000Z,0.84,3,Immediate
+2022,Laiatu,Latu,EDGE,Washington,UCLA,2021-11-29T15:54:00.000Z,0.87,3,Immediate
+2022,Cornelius,McCoy,WR,Georgia State,,2022-01-05T18:57:00.000Z,,3,Immediate
+2022,Chase,Lasater,EDGE,Florida Atlantic,Eastern Kentucky,2021-11-30T12:37:00.000Z,0.83,3,Immediate
+2022,Ashaad,Clayton,RB,Colorado,Tulane,2021-11-15T12:35:00.000Z,0.85,3,Immediate
+2022,Cameron,Hairston,WR,Connecticut,,2021-11-30T12:30:00.000Z,,2,Immediate
+2022,Tashawn,Manning,DL,Auburn,Kentucky,2021-12-13T11:57:00.000Z,0.88,3,Immediate
+2022,Deuce,Hogan,QB,Iowa,Kentucky,2022-01-06T11:37:00.000Z,0.83,3,Immediate
+2022,Mark,Pope,WR,Miami,Jackson State,2021-11-09T14:15:00.000Z,0.84,3,Immediate
+2022,Trimarcus,Cheeks,ATH,Samford,Houston,2021-12-13T17:38:00.000Z,,,Immediate
+2022,Justin,Hayes,SDE,Samford,,2021-12-13T17:35:00.000Z,,2,Immediate
+2022,Zahodri,Jackson,CB,Utah State,North Texas,2021-12-13T16:59:00.000Z,,2,Immediate
+2022,Jacob,Lewis,K,Ball State,,2022-01-03T14:10:00.000Z,,,Immediate
+2022,Darnell,Jefferies,DL,Clemson,Minnesota,2022-01-03T14:08:00.000Z,0.83,3,Immediate
+2022,Enock,Makonzo,S,Coastal Carolina,,2022-01-03T14:06:00.000Z,0.89,3,Immediate
+2022,Austin,Henderson,TE,Minnesota,Liberty,2021-11-30T11:37:00.000Z,0.81,3,Immediate
+2022,Shanon,Reid,LB,Illinois State,SMU,2021-12-22T15:23:00.000Z,,3,Immediate
+2022,Mark,Perry,S,Colorado,TCU,2021-12-28T12:29:00.000Z,0.87,3,Immediate
+2022,Waisale,Muavesi,DL,UNLV,UNLV,2021-12-28T11:43:00.000Z,,3,Immediate
+2022,Jack,Powers,EDGE,Nevada,East Carolina,2021-12-29T07:17:00.000Z,,,Immediate
+2022,Ray,Curry Jr.,OT,Arkansas,,2021-12-21T11:51:00.000Z,,3,Immediate
+2022,Izaiah,Reed,DL,Murray State,New Mexico State,2021-12-14T12:27:00.000Z,0.87,3,Immediate
+2022,Canaan,Yarro,OC,Southern Utah,New Mexico State,2021-12-14T12:27:00.000Z,0.85,3,Immediate
+2022,Jakolby,Longino,QB,UTEP,Lamar,2021-12-07T14:54:00.000Z,,3,Immediate
+2022,Brian,Buschini,P,Montana,Nebraska,2021-12-13T12:27:00.000Z,0.78,2,Immediate
+2022,Timmy,Bleekrode,K,Furman,Nebraska,2021-12-03T13:22:00.000Z,0.76,2,Immediate
+2022,Myles,Brooks,CB,Stephen F. Austin,Louisiana Tech,2022-01-06T20:42:00.000Z,,3,Immediate
+2022,Jayden,de Laura,QB,Washington State,Arizona,2022-01-10T20:35:00.000Z,0.88,3,Immediate
+2022,Deondre,Jackson,RB,Texas A&M,Nebraska,2022-01-07T10:47:00.000Z,0.85,3,Immediate
+2022,Jalen,Williams,DL,Arkansas,Southern Mississippi,2022-01-07T10:34:00.000Z,0.84,3,Immediate
+2022,A.J.,Campbell,EDGE,UCLA,Kent State,2021-11-29T12:28:00.000Z,0.83,3,Immediate
+2022,Hayes,Gibson,QB,Iowa State,,2022-01-03T13:41:00.000Z,,,Immediate
+2022,Brock,Sturges,RB,Texas State,,2021-11-22T08:55:00.000Z,0.8,3,Immediate
+2022,Tim,Terry,LB,Buffalo,Akron,2021-11-22T00:00:00.000Z,0.8,3,TBD
+2022,Zach,Wilson,WR,USC,,2021-11-29T15:36:00.000Z,0.78,2,Immediate
+2022,Joseph,Bissinger,OT,Virginia,SMU,2021-12-03T14:53:00.000Z,0.88,3,Immediate
+2022,Cam,Reddy,IOL,Colorado State,,2021-12-15T12:47:00.000Z,,,Immediate
+2022,Tim,Horn,K,Washington,Rice,2021-10-07T15:23:00.000Z,0.82,3,Immediate
+2022,Lawrence,Keys III,WR,Notre Dame,Tulane,2021-10-07T14:36:00.000Z,0.81,3,Immediate
+2022,Brian,Edwards,CB,Central Michigan,,2021-08-27T09:05:00.000Z,,3,Immediate
+2022,EJ,Ane,EDGE,San José State,,2021-12-12T11:45:00.000Z,,3,Immediate
+2022,Fred,Jackson,RB,Coastal Carolina,,2021-12-20T08:52:00.000Z,,3,Immediate
+2022,Jadon,Jackson,WR,Ole Miss,,2022-01-04T10:27:00.000Z,0.85,3,Immediate
+2022,Devin,Bush,CB,Arkansas,,2022-01-04T10:11:00.000Z,,4,Immediate
+2022,Aaron,Odom,EDGE,Mississippi State,Southern Mississippi,2022-01-04T09:29:00.000Z,0.84,3,Immediate
+2022,Teon,Dollard,RB,Akron,,2021-11-10T08:44:00.000Z,,3,Immediate
+2022,Latarie,Kinsler,EDGE,Syracuse,Florida Intl,2021-11-09T11:54:00.000Z,0.8,3,Immediate
+2022,Kamron,Forest,CB,Fresno State,,2021-10-19T19:47:00.000Z,0.79,2,Immediate
+2022,Koy,Moore,WR,LSU,,2021-10-19T15:19:00.000Z,0.83,3,Immediate
+2022,Joshua,Sauickie,IOL,Air Force,,2021-09-20T11:53:00.000Z,,,Immediate
+2022,Spencer,Rattler,QB,Oklahoma,South Carolina,2021-11-29T12:39:00.000Z,0.91,4,Immediate
+2022,Montrell,Johnson,RB,Louisiana,Florida,2022-01-05T14:13:00.000Z,0.9,4,Immediate
+2022,Patrick,Fields,S,Oklahoma,Stanford,2021-12-30T12:46:00.000Z,,3,Immediate
+2022,Carlos,Carriere,WR,Maryland,Central Michigan,2021-12-31T09:53:00.000Z,0.84,3,Immediate
+2022,Kelvin,Johnson,ILB,South Alabama,,2021-10-18T21:32:00.000Z,,3,Immediate
+2022,Antwan,Roberts,RB,Wisconsin,,2021-09-19T12:19:00.000Z,,3,Immediate
+2022,Jadon,Haselwood,WR,Oklahoma,Arkansas,2021-12-01T04:58:00.000Z,0.92,4,Immediate
+2022,Jaylen,Martin,CB,California,,2022-01-03T12:04:00.000Z,,3,Immediate
+2022,Charlie,Browder,TE,UCF,Tennessee,2021-12-29T11:22:00.000Z,0.84,3,Immediate
+2022,Derrick,Alston,RB,East Carolina,,2021-12-29T11:02:00.000Z,,,Immediate
+2022,Daniel,Grzesiak,EDGE,Nevada,,2021-12-29T08:31:00.000Z,,,Immediate
+2022,Tanner,McCalister,CB,Oklahoma State,Ohio State,2021-12-22T17:35:00.000Z,0.9,4,Immediate
+2022,Jaren,Banks,LB,Rice,,2021-12-01T08:38:00.000Z,,2,Immediate
+2022,Naijee,Jones,S,Rutgers,,2021-12-01T08:34:00.000Z,,3,Immediate
+2022,Knox,Kadum,QB,Virginia Tech,McNeese,2021-12-01T08:21:00.000Z,0.83,3,Immediate
+2022,Al'vonte,Woodard,WR,Texas,,2021-11-30T17:19:00.000Z,,4,Immediate
+2022,Miles,Adams,EDGE,Rice,,2021-11-30T17:07:00.000Z,0.75,2,Immediate
+2022,Isaiah,Epps,WR,Kentucky,,2021-12-28T11:21:00.000Z,,3,Immediate
+2022,Darius,Muasau,LB,Hawai'i,UCLA,2021-12-28T11:04:00.000Z,0.89,3,Immediate
+2022,Tyson,Watson,DL,Michigan State,UMass,2021-12-24T07:39:00.000Z,,3,Immediate
+2022,Chris,Everhart,IOL,Marshall,East Tennessee State,2021-12-23T06:24:00.000Z,0.8,3,Immediate
+2022,Greedy,Vance,CB,Louisville,Florida State,2021-12-22T08:45:00.000Z,0.82,3,Immediate
+2022,Cole,DeMarzo,LB,Michigan State,Wyoming,2021-12-20T14:39:00.000Z,,3,Immediate
+2022,Gregory,Clayton,WR,UT San Antonio,,2021-12-27T18:09:00.000Z,,3,Immediate
+2022,Donavon,Johnson,TE,Coastal Carolina,,2021-12-27T15:46:00.000Z,,3,Immediate
+2022,Xazavian,Valladay,RB,Wyoming,Arizona State,2021-12-27T15:42:00.000Z,0.88,3,Immediate
+2022,D.J.,Taylor,LB,Wake Forest,,2021-12-27T15:35:00.000Z,,3,Immediate
+2022,Nolan,Johnson,CB,East Carolina,Miami (OH),2021-12-27T15:25:00.000Z,,3,Immediate
+2022,Slade,Roy,LS,East Carolina,LSU,2021-12-27T15:22:00.000Z,0.75,2,Immediate
+2022,Dontay,Hunter II,DL,Purdue,Ohio,2021-12-27T14:39:00.000Z,,3,Immediate
+2022,Malik,Hausman,CB,Arizona,,2021-12-15T17:02:00.000Z,0.8,3,Immediate
+2022,Zephaniah,Maea,LB,Colorado,,2021-11-30T08:07:00.000Z,0.84,3,Immediate
+2022,Spencer,Gilbert,LB,USC,,2021-11-29T13:24:00.000Z,0.79,2,Immediate
+2022,Zack,Annexstad,QB,Minnesota,Illinois State,2021-11-29T13:20:00.000Z,0.81,3,Immediate
+2022,Michael,Graham,S,Hawai'i,,2021-12-30T12:39:00.000Z,,,Immediate
+2022,Peny,Boone,RB,Maryland,Toledo,2021-11-28T09:39:00.000Z,0.81,3,Immediate
+2022,Kaedin,Robinson,WR,UCF,Appalachian State,2021-11-28T08:50:00.000Z,0.81,3,Immediate
+2022,Jeremy,Moussa,QB,Vanderbilt,Florida A&M,2021-11-09T10:15:00.000Z,0.8,3,Immediate
+2022,Zacchaeus,McKinney,DL,Hawai'i,,2021-12-29T17:33:00.000Z,,3,Immediate
+2022,Trey,Morrison,CB,North Carolina,Oklahoma,2021-12-31T17:34:00.000Z,,3,Immediate
+2022,Baylor,Romney,QB,BYU,,2021-12-31T17:22:00.000Z,,3,Immediate
+2022,Tre'Jon,Lewis,EDGE,Texas Tech,,2021-12-31T15:14:00.000Z,,2,Immediate
+2022,Rhett,Reilly,QB,BYU,,2021-12-31T15:06:00.000Z,,,Immediate
+2022,David,Laney,S,East Carolina,,2021-12-31T11:45:00.000Z,,3,Immediate
+2022,Sterling,Galban,WR,Texas Tech,,2021-12-31T15:05:00.000Z,,3,Immediate
+2022,Kyle,Vantrease,QB,Buffalo,Georgia Southern,2021-12-31T10:31:00.000Z,,3,Immediate
+2022,Todd,Sibley,RB,Pittsburgh,Albany,2021-12-31T10:31:00.000Z,0.87,3,Immediate
+2022,Tatum,Bethune,LB,UCF,Florida State,2021-12-31T10:30:00.000Z,0.89,3,Immediate
+2022,Dylan,McDuffie,RB,Buffalo,,2021-12-31T10:30:00.000Z,0.89,3,Immediate
+2022,Jaxon,Player,DL,Tulsa,Baylor,2021-12-31T10:29:00.000Z,0.9,4,Immediate
+2022,Garnett,Hollis,CB,Northwestern,Northwestern,2021-11-30T17:02:00.000Z,0.82,3,Immediate
+2022,Ajou,Ajou,WR,Clemson,South Florida,2021-12-11T11:36:00.000Z,0.88,3,Immediate
+2022,Brayden,DeVault-Smith,LB,Vanderbilt,,2021-12-10T15:57:00.000Z,,2,Immediate
+2022,Tony,Amerson,RB,Georgia Tech,,2021-11-30T13:45:00.000Z,,3,Immediate
+2022,Ky,Thomas,RB,Minnesota,Kansas,2022-01-03T09:17:00.000Z,0.88,3,Immediate
+2022,Stephen,Gosnell,WR,North Carolina,Virginia Tech,2022-01-03T08:12:00.000Z,0.85,3,Immediate
+2022,Justus,Tavai,DL,Hawai'i,San Diego State,2022-01-15T08:06:00.000Z,,3,Immediate
+2022,Allan,Mwata,S,San Diego State,,2021-12-28T16:40:00.000Z,,2,Immediate
+2022,Taylor,Powell,QB,Troy,Eastern Michigan,2021-12-26T15:28:00.000Z,0.84,3,Immediate
+2022,Anthony,Romphf,CB,Purdue,,2022-01-01T19:51:00.000Z,,3,Immediate
+2022,Sofian,Massoud,QB,Houston,Hampton,2021-12-29T21:09:00.000Z,,3,TBD
+2022,Dave,Monnot III,OT,Purdue,,2021-12-31T19:18:00.000Z,,3,Immediate
+2022,Shocky,Jacques-Louis,WR,Pittsburgh,Akron,2021-12-31T09:51:00.000Z,,3,Immediate
+2022,Terrell,Dawkins,DL,NC State,South Carolina,2021-12-30T08:51:00.000Z,0.88,3,Immediate
+2022,Jaquaez,Powell,IOL,East Carolina,,2021-12-26T10:01:00.000Z,,3,Immediate
+2022,Traveon,Freshwater,EDGE,East Carolina,Elizabeth City State,2021-12-26T10:01:00.000Z,,3,Immediate
+2022,Josh,Manchigiah,S,South Dakota State,,2021-12-22T08:53:00.000Z,,3,Immediate
+2022,Brandon,Joseph,S,Northwestern,Notre Dame,2021-12-30T16:29:00.000Z,0.93,4,Immediate
+2022,Khalan,Griffin,ATH,Rice,Lamar,2021-12-28T14:19:00.000Z,0.83,3,Immediate
+2022,Jordan,Lee,S,Nevada,Washington State,2022-01-01T08:26:00.000Z,0.88,3,Immediate
+2022,Nate,Harris,S,LSU,,2021-10-29T10:56:00.000Z,,,Immediate
+2022,Seth,Hayes,WR,Arkansas State,,2021-10-07T11:09:00.000Z,,3,Immediate
+2022,Anthony,Hundley,DL,UCF,,2021-08-24T12:55:00.000Z,0.81,3,Immediate
+2022,Garrett,Jones,IOL,Kansas,,2021-08-24T11:21:00.000Z,,3,Immediate
+2022,Alonso,Person,LB,Kansas,,2021-12-16T12:06:00.000Z,,3,Immediate
+2022,Gerard,Joseph,DL,UTEP,,2021-12-07T14:54:00.000Z,,3,Immediate
+2022,Kajiya,Hollawayne,QB,UCLA,Grambling,2021-12-07T14:54:00.000Z,,3,Immediate
+2022,Pierce,Devaughn,EDGE,Connecticut,,2021-12-07T14:54:00.000Z,,2,Immediate
+2022,Matt,Valecce,QB,Colorado State,Albany,2022-01-03T16:35:00.000Z,,3,Immediate
+2022,Perry,Carter,WR,Louisiana Monroe,,2022-01-05T00:00:00.000Z,,2,Immediate
+2022,Caleb,Blake,CB,Florida State,,2021-12-23T11:17:00.000Z,,3,Immediate
+2022,Odieu,Hilaire,WR,Alabama A&M,Bowling Green,2021-11-28T12:03:00.000Z,,,Immediate
+2022,Joe,Ervin,RB,Kansas State,Middle Tennessee,2021-11-28T11:00:00.000Z,0.84,3,Immediate
+2022,Amir,Riep,S,Ohio State,,2021-11-28T09:46:00.000Z,,4,Immediate
+2022,Grady,Robison,QB,Western Kentucky,,2021-11-09T18:12:00.000Z,0.79,2,Immediate
+2022,Chris,King,EDGE,Buffalo,,2021-12-20T10:57:00.000Z,,3,Immediate
+2022,Stetson,Moore,TE,Liberty,,2021-12-20T10:30:00.000Z,,2,Immediate
+2022,Miles,Banks,WR,UTEP,,2021-12-20T10:09:00.000Z,,2,Immediate
+2022,Kameron,Allen,TE,Michigan State,SMU,2021-12-20T10:04:00.000Z,,3,Immediate
+2022,Pheldarius,Payne,EDGE,Nebraska,Nebraska,2021-12-06T17:24:00.000Z,,3,Immediate
+2022,Beau,Taylor,IOL,UCLA,,2021-12-06T17:24:00.000Z,,3,Immediate
+2022,Ben,Bohnenberger,OG,Colgate,UMass,2021-11-30T16:51:00.000Z,,2,Immediate
+2022,CJ,Jones,RB,Western Kentucky,Western Kentucky,2021-11-30T16:46:00.000Z,,,Immediate
+2022,Jaquan,Amos,S,Iowa State,Ball State,2021-11-30T16:43:00.000Z,,2,Immediate
+2022,Michel,Dukes,RB,Clemson,South Florida,2021-10-19T17:37:00.000Z,0.81,3,Immediate
+2022,Brendon,Clark,QB,Notre Dame,Old Dominion,2021-10-19T15:30:00.000Z,0.8,3,Immediate
+2022,Xavier,Hinkle,CB,New Mexico State,,2021-09-20T11:52:00.000Z,,3,Immediate
+2022,Brey,Walker,OT,Oklahoma,,2021-12-03T12:16:00.000Z,0.84,3,Immediate
+2022,Miles,Marshall,WR,Indiana,Miami (OH),2021-11-29T10:44:00.000Z,0.84,3,Immediate
+2022,Shannon,Bishop,CB,Western Kentucky,Minnesota,2021-12-14T08:39:00.000Z,0.88,3,Immediate
+2022,Vito,Calvaruso,K,Arkansas,Wisconsin,2021-12-07T08:22:00.000Z,0.78,2,Immediate
+2022,Brian,Polendey,TE,Colorado State,West Virginia,2021-12-13T19:30:00.000Z,0.84,3,Immediate
+2022,Jamal,Camp,IOL,Georgia Tech,,2021-11-30T13:43:00.000Z,0.81,3,Immediate
+2022,Quinn,Carroll,OT,Notre Dame,Minnesota,2022-01-03T18:43:00.000Z,0.88,3,Immediate
+2022,Mike,Lofton,IOL,UCF,South Florida,2021-11-30T13:42:00.000Z,0.83,3,Immediate
+2022,Nnamdi,Adim-Madumere,WR,Minnesota,Central Arkansas,2022-01-03T09:18:00.000Z,,3,Immediate
+2022,Travis,Tisdale,RB,Kentucky,,2021-11-30T13:12:00.000Z,,3,Immediate
+2022,Cole,Snyder,QB,Rutgers,Buffalo,2021-11-30T10:54:00.000Z,0.81,3,Immediate
+2022,Alex,Harper,LS,North Carolina Central,East Carolina,2022-01-01T18:29:00.000Z,,,Immediate
+2022,Eric,Black,DL,Buffalo,,2021-11-29T14:33:00.000Z,0.84,3,Immediate
+2022,Izayah,Green-May,LB,Wisconsin,Northern Illinois,2021-12-15T00:09:00.000Z,0.8,3,Immediate
+2022,La'Vontae,Shenault,WR,Colorado,Alabama State,2021-11-21T21:40:00.000Z,0.8,3,Immediate
+2022,Brian,Pierce,WR,UC Davis,,2021-11-01T14:19:00.000Z,,2,Immediate
+2022,Connor,Bazelak,QB,Missouri,Indiana,2021-12-23T14:53:00.000Z,0.9,4,Immediate
+2022,Ben,Johnson,OT,Marist,,2021-12-13T09:40:00.000Z,,,Immediate
+2022,Gabriel,Wallace,OG,Buffalo,Buffalo,2021-12-11T14:54:00.000Z,0.89,3,Immediate
+2022,Breylon,Garcia,EDGE,Nevada,Nevada,2021-12-10T14:54:00.000Z,,3,Immediate
+2022,Charlie,Ely,LB,Ball State,,2021-12-09T14:53:00.000Z,,3,Immediate
+2022,Johnny,Wilson,WR,Arizona State,Florida State,2021-12-21T20:46:00.000Z,0.87,3,Immediate
+2022,Darrion,Henry-Young,DL,Ohio State,Kentucky,2021-12-20T10:32:00.000Z,0.89,3,Immediate
+2022,Dezmon,Jackson,RB,Oklahoma State,Sam Houston State,2021-12-21T19:35:00.000Z,0.87,3,Immediate
+2022,Antonio,Moultrie,EDGE,UAB,Miami,2021-12-21T16:31:00.000Z,,2,Immediate
+2022,Jacob,Cowing,WR,UTEP,Arizona,2021-12-21T16:23:00.000Z,0.92,4,Immediate
+2022,McKade,Mettauer,IOL,California,Oklahoma,2021-12-20T14:54:00.000Z,0.9,4,Immediate
+2022,Jordan,Perryman,CB,UC Davis,Washington,2021-12-15T13:20:00.000Z,0.87,3,Immediate
+2022,Jimmy,Fritzsche,IOL,Nebraska,,2021-08-18T12:14:00.000Z,,3,TBD
+2022,Amauri,Pesek-Hickson,RB,Kansas,Northern Iowa,2021-12-16T11:38:00.000Z,0.83,3,Immediate
+2022,Heron,Maurisseau,WR,Connecticut,,2021-12-16T11:07:00.000Z,,2,Immediate
+2022,Elijah,Johnson,OT,Colorado State,,2021-12-16T11:43:00.000Z,,3,Immediate
+2022,Frank,Boyd,RB,Liberty,Norfolk State,2021-12-16T10:07:00.000Z,,,Immediate
+2022,Jaillen,Howze,LB,Buffalo,,2021-11-30T15:00:00.000Z,0.8,3,Immediate
+2022,Trey,LaBounty,WDE,Stanford,,2021-11-30T14:53:00.000Z,0.78,2,Immediate
+2022,Dominic,Collado,IOL,Miami (OH),,2021-11-30T14:46:00.000Z,0.79,2,Immediate
+2022,August,Pitre,WR,Rice,,2021-11-30T14:27:00.000Z,0.81,3,Immediate
+2022,Jeremiah,Houston,CB,UNLV,,2021-11-30T14:26:00.000Z,,3,Immediate
+2022,Quillen,Howze,CB,Buffalo,,2021-11-30T14:24:00.000Z,0.83,3,Immediate
+2022,Almosse,Titi,DL,Maryland,,2021-11-30T14:22:00.000Z,,3,Immediate
+2022,Jonah,La'ulu,DL,Hawai'i,Oklahoma,2021-12-28T16:43:00.000Z,0.9,4,Immediate
+2022,Jesse,Vasquez,LS,Utah State,,2021-12-28T16:41:00.000Z,,2,Immediate
+2022,Tahliq,Battle,RB,Buffalo,,2021-11-30T14:15:00.000Z,,,Immediate
+2022,Zach,Perkins,OT,Maryland,South Florida,2021-11-30T14:15:00.000Z,0.81,3,Immediate
+2022,Aaron,Boumerhi,K,Boston College,,2021-11-30T13:59:00.000Z,,,Immediate
+2022,Kyle,King,DL,Michigan State,Ball State,2021-12-31T14:58:00.000Z,0.84,3,Immediate
+2022,Ivan,Pace Jr.,ILB,Miami (OH),Cincinnati,2021-12-24T16:38:00.000Z,0.86,3,Immediate
+2022,M.J.,Frazier,TE,North Carolina A&T,,2021-11-27T11:30:00.000Z,,,Immediate
+2022,Juwaun,Price,RB,New Mexico State,Syracuse,2021-12-02T14:53:00.000Z,0.89,3,Immediate
+2022,Stephon,Zayas,EDGE,UCF,,2021-11-01T10:33:00.000Z,0.8,3,Immediate
+2022,Daniel,Caloca,DT,UNLV,,2021-12-02T14:53:00.000Z,0.77,2,Immediate
+2022,Jake,Mann,LS,Oklahoma,,2021-12-09T14:54:00.000Z,,,Immediate
+2022,Noah,Taylor,LB,Virginia,North Carolina,2021-12-06T14:54:00.000Z,0.89,3,Immediate
+2022,Charlie,Gray,LB,Marshall,Marshall,2021-12-20T11:04:00.000Z,,3,Immediate
+2022,Bentley,Hanshaw,TE,BYU,Liberty,2021-12-06T14:54:00.000Z,0.79,2,Immediate
+2022,C.J.,Hayes,WR,Michigan State,Syracuse,2021-12-06T14:54:00.000Z,0.81,3,Immediate
+2022,Lucas,Johnson,QB,San Diego State,,2021-12-28T16:38:00.000Z,,3,Immediate
+2022,Stacey,Marshall Jr.,TE,Arizona,,2021-11-29T15:29:00.000Z,,3,Immediate
+2022,Halid,Djibril,S,Washington State,,2021-11-22T10:54:00.000Z,0.83,3,Immediate
+2022,Jackson,Schott,LB,Miami (OH),,2021-11-01T17:25:00.000Z,0.76,2,Immediate
+2022,Darius,Gooden,CB,Rutgers,UMass,2021-08-26T08:54:00.000Z,,3,Immediate
+2022,Derek,Smith,OT,Central Michigan,,2021-08-25T11:22:00.000Z,0.82,3,Immediate
+2022,Kobie,Turner,DL,Richmond,Wake Forest,2021-11-30T23:14:00.000Z,0.84,3,Immediate
+2022,Giovanni,Iovino,LB,Washington State,,2021-12-16T14:02:00.000Z,,,Immediate
+2022,Andrew,VanBuren,RB,Boise State,,2021-12-16T13:59:00.000Z,0.87,3,Immediate
+2022,Jeremiah,Oatsvall,WR,Memphis,,2021-12-29T08:29:00.000Z,,3,Immediate
+2022,Nick,Mardner,WR,Hawai'i,Cincinnati,2021-12-24T09:44:00.000Z,,2,Immediate
+2022,Taishan,Holmes,DL,UMass,Northwestern,2021-12-16T10:08:00.000Z,0.82,3,Immediate
+2022,Alec,Pell,LB,Colorado,,2021-12-13T16:50:00.000Z,,3,Immediate
+2022,Avery,Morrow,RB,Nevada,Colorado State,2021-12-13T16:19:00.000Z,0.8,3,Immediate
+2022,Lucious,Stanley,RB,UAB,,2021-12-07T10:44:00.000Z,,,Immediate
+2022,Mitchell,Tinsley,WR,Western Kentucky,Penn State,2021-12-07T10:41:00.000Z,0.87,3,Immediate
+2022,Isaiah,Neyor,WR,Wyoming,Texas,2021-12-22T16:57:00.000Z,0.9,4,Immediate
+2022,Jacobi,Johnson,LB,North Texas,,2021-12-22T16:34:00.000Z,,3,Immediate
+2022,Vinson,Brown,CB,Southern Mississippi,,2021-12-07T10:36:00.000Z,,3,Immediate
+2022,Jesson,Walker,CB,Florida Intl,,2021-12-16T09:12:00.000Z,,2,Immediate
+2022,Juliano,Falaniko,LB,USC,,2021-12-06T14:53:00.000Z,0.82,3,Immediate
+2022,Michael,Shanahan,OT,UT Martin,Texas Tech,2021-12-06T11:24:00.000Z,,,Immediate
+2022,Hayden,Neighbors,WR,Middle Tennessee,,2021-12-20T11:28:00.000Z,,,Immediate
+2022,Jordan,Watkins,WR,Louisville,Ole Miss,2021-11-30T16:25:00.000Z,0.85,3,Immediate
+2022,Virdel,Edwards,S,Iowa State,Hawai'i,2021-11-30T16:08:00.000Z,0.81,3,Immediate
+2022,Jacob,Sirmon,QB,Central Michigan,Northern Colorado,2021-11-30T16:07:00.000Z,0.81,3,Immediate
+2022,Antonio,Fletcher,S,Arkansas State,Southern Illinois,2021-11-30T15:46:00.000Z,0.81,3,Immediate
+2022,Anthony,Switzer,S,Arkansas State,Utah State,2021-11-30T15:45:00.000Z,0.82,3,Immediate
+2022,Camden,VerStrate,WR,Washington,,2021-11-30T14:41:00.000Z,,,Immediate
+2022,Ar'Quel,Smith,LB,Iowa State,,2021-11-30T09:23:00.000Z,,3,Immediate
+2022,Myles,Jackson,EDGE,UCLA,Indiana,2021-11-29T14:20:00.000Z,,3,Immediate
+2022,Anthony,Britton,LB,The Citadel,,2021-11-29T13:52:00.000Z,,,Immediate
+2022,Josiah,Miamen,TE,Iowa,Florida Intl,2021-11-11T10:27:00.000Z,,3,Immediate
+2022,Anthony,Crider,LB,Toledo,,2021-12-27T12:49:00.000Z,,2,Immediate
+2022,Miles,Kendrick,QB,Kansas,New Mexico,2021-12-15T13:07:00.000Z,0.83,3,Immediate
+2022,Jayion,McCluster,LB,Florida State,,2021-12-07T10:36:00.000Z,,3,Immediate
+2022,Kenneth,Dicks III,CB,Wake Forest,,2021-12-07T10:35:00.000Z,,3,Immediate
+2022,Jamari,Stewart,EDGE,South Florida,,2021-12-07T08:10:00.000Z,0.8,3,TBD
+2022,Demarcus,Gregory,WR,South Florida,,2021-12-07T08:09:00.000Z,,3,Immediate
+2022,Konata,Mumpfield,WR,Akron,Pittsburgh,2021-12-07T07:17:00.000Z,0.87,3,Immediate
+2022,Chase,Locke,WR,USC,,2021-12-07T07:17:00.000Z,,,Immediate
+2022,Saia,Mapakaitolo,OT,Minnesota,,2021-12-06T21:07:00.000Z,,3,Immediate
+2022,Christopher,Brooks,RB,California,BYU,2021-12-06T18:35:00.000Z,0.87,3,Immediate
+2022,William,Green,DL,Liberty,Nevada,2021-12-20T08:50:00.000Z,,3,Immediate
+2022,Jason,Brown,QB,South Carolina,Virginia Tech,2021-12-15T10:21:00.000Z,0.83,3,Immediate
+2022,Cole,Garcia,IOL,Rice,UMass,2021-12-03T16:50:00.000Z,,2,Immediate
+2022,Kristopher,Moll,LB,UAB,,2021-12-03T16:50:00.000Z,,2,Immediate
+2022,Marcelo,Mendiola,OT,Cincinnati,Bowling Green,2021-12-03T16:49:00.000Z,0.81,3,Immediate
+2022,Hunter,Echols,EDGE,USC,Arizona,2021-12-06T18:35:00.000Z,0.83,3,Immediate
+2022,Ian,Deneen,LS,South Florida,,2021-12-02T14:53:00.000Z,0.81,3,Immediate
+2022,Jared,Casey,LB,Kentucky,Indiana,2021-12-02T14:53:00.000Z,,4,Immediate
+2022,Wankeith,Akin,CB,Buffalo,,2021-12-02T14:53:00.000Z,0.79,2,Immediate
+2022,George,Qualls,WR,Akron,,2021-12-01T14:53:00.000Z,0.8,3,Immediate
+2022,Keaton,Altman,OT,McNeese,Sam Houston State,2021-12-01T10:56:00.000Z,,,Immediate
+2022,Tylan,Grable,IOL,Jacksonville State,UCF,2021-12-15T21:44:00.000Z,,,Immediate
+2022,Nick,Williams,OT,Kansas,,2021-12-15T20:45:00.000Z,,3,Immediate
+2022,Shayne,Simon,LB,Notre Dame,Pittsburgh,2021-12-19T08:52:00.000Z,0.86,3,Immediate
+2022,Jurriente,Davis,LB,Middle Tennessee,Jackson State,2021-12-06T14:54:00.000Z,,,Immediate
+2022,Dillon,Thomas,CB,Northern Illinois,,2021-12-18T19:54:00.000Z,,2,Immediate
+2022,Tucker,Barefoot,K,Southern Mississippi,,2021-12-17T14:32:00.000Z,,,Immediate
+2022,Alex,Williams,EDGE,Vanderbilt,,2021-12-17T14:32:00.000Z,,3,TBD
+2022,Zamari,Ellis,EDGE,Duke,,2021-12-17T12:54:00.000Z,,3,Immediate
+2022,Anthony,Ward,LB,Washington,,2021-12-17T12:21:00.000Z,,,Immediate
+2022,Norval,Black,WR,Penn State,,2021-12-17T12:20:00.000Z,,3,Immediate
+2022,Marcus,Cushnie,EDGE,Florida State,UMass,2021-12-17T11:20:00.000Z,,,Immediate
+2022,Rayvon,Crum,OT,North Texas,,2021-12-17T11:11:00.000Z,,3,Immediate
+2022,Kelvin,Clemmons,CB,Houston,,2021-12-17T09:58:00.000Z,,3,Immediate
+2022,Jared,Wiley,TE,Texas,TCU,2021-12-17T09:39:00.000Z,0.84,3,Immediate
+2022,Emmanuel,Appiah-Takyi,CB,UCF,,2021-12-17T09:31:00.000Z,,3,Immediate
+2022,Casey,Thompson,QB,Texas,Nebraska,2021-12-17T00:00:00.000Z,0.87,3,Immediate
+2022,Sam,Taimani,DL,Washington,Oregon,2021-12-16T11:28:00.000Z,0.88,3,Immediate
+2022,Miles,Fallin,QB,Kansas,,2021-12-16T00:34:00.000Z,,,Immediate
+2022,Jayden,Jernigan,DL,Oklahoma State,Missouri,2021-12-15T12:14:00.000Z,0.89,3,Immediate
+2022,Mark,Redman,TE,Washington,San Diego State,2021-12-13T11:36:00.000Z,0.84,3,Immediate
+2022,Jagger,LaRoe,QB,Ohio State,,2021-12-05T14:54:00.000Z,,,Immediate
+2022,Jordan,Redmond,DL,Virginia,,2021-12-04T11:36:00.000Z,0.82,3,Immediate
+2022,Marcus,Tillman Jr.,LB,Texas,,2021-12-03T14:53:00.000Z,0.81,3,Immediate
+2022,Lowell,Narcisse,QB,UT San Antonio,Nicholls,2021-12-15T14:28:00.000Z,,3,Immediate
+2022,Collin,James,IOL,Abilene Christian,New Mexico,2021-12-15T19:14:00.000Z,,,Immediate
+2022,Bryce,Austin,DL,Purdue,,2021-12-15T14:32:00.000Z,,3,Immediate
+2022,Ian,Stewart,WR,Michigan State,,2021-12-20T11:25:00.000Z,,3,Immediate
+2022,Parker,Moorer,OT,West Virginia,East Carolina,2021-11-30T08:02:00.000Z,,3,Immediate
+2022,Ladarius,Tennison,S,Auburn,Ole Miss,2021-11-30T07:56:00.000Z,0.9,4,Immediate
+2022,Khameron,Taylor,TE,Indiana,,2021-11-08T11:31:00.000Z,0.79,2,Immediate
+2022,Will,Latu,LB,Washington,,2021-12-27T13:12:00.000Z,,4,Immediate
+2022,Shamar,Jones,DL,Indiana,,2021-12-06T17:40:00.000Z,,3,Immediate
+2022,Cameron,Lockridge,CB,Hawai'i,Fresno State,2021-12-06T17:36:00.000Z,0.88,3,Immediate
+2022,Dartanyan,Tinsley,IOL,Kentucky Christian,Cincinnati,2021-12-06T17:25:00.000Z,0.86,3,Immediate
+2022,Levi,Williams,QB,Wyoming,Utah State,2021-12-22T16:33:00.000Z,0.9,4,Immediate
+2022,Daveon,Hunter,RB,Hawai'i,Liberty,2021-12-01T08:45:00.000Z,0.85,3,Immediate
+2022,Jeremy,Smith,RB,Marshall,,2021-12-20T08:50:00.000Z,,3,Immediate
+2022,Houston,Heimuli,RB,Stanford,BYU,2021-12-01T08:43:00.000Z,0.85,3,Immediate
+2022,Marvin,Scott III,RB,Nebraska,Florida Atlantic,2021-12-15T08:42:00.000Z,0.87,3,Immediate
+2022,Dylan,McGill,WR,Minnesota,Pittsburg State,2021-11-30T10:52:00.000Z,,3,Immediate
+2022,Parker,McQuarrie,QB,UCLA,,2021-11-30T10:47:00.000Z,0.84,3,Immediate
+2022,Dominique,Ratcliff,DL,Louisiana,Texas State,2021-11-12T10:49:00.000Z,0.81,3,Immediate
+2022,Edgar,Burrola,OT,Arizona,,2021-09-22T14:45:00.000Z,0.82,3,Immediate
+2022,Tee,Denson,CB,Kansas State,Purdue,2021-12-03T16:48:00.000Z,0.87,3,Immediate
+2022,Desmond,Daniels,TE,Louisville,,2021-12-03T16:26:00.000Z,0.8,3,Immediate
+2022,Thomas,Joe-Kamara,LB,Temple,Monmouth,2021-09-22T14:42:00.000Z,,3,Immediate
+2022,Messiah,Swinson,TE,Missouri,Arizona State,2021-11-29T10:01:00.000Z,0.87,3,Immediate
+2022,Gabe,Reid,LB,Stanford,,2021-12-07T12:01:00.000Z,0.85,3,Immediate
+2022,Jevyon,Ducker,RB,Northern Illinois,Memphis,2021-12-22T13:19:00.000Z,0.89,3,Immediate
+2022,Lummie,Young,S,Duke,Tulane,2021-11-28T17:44:00.000Z,0.84,3,Immediate
+2022,James,Miller,LB,Indiana,South Alabama,2021-12-22T09:20:00.000Z,,3,Immediate
+2022,Sinjun,Astani,DL,San José State,,2021-12-14T00:00:00.000Z,,2,Immediate
+2022,Deuce,Spann,WR,Illinois,Florida State,2021-12-22T17:12:00.000Z,0.82,3,Immediate
+2022,Alec,Bornhorst,QB,Miami (OH),,2021-11-29T14:55:00.000Z,,,Immediate
+2022,Kevin,Mensah,RB,Connecticut,,2021-12-15T12:51:00.000Z,0.87,3,Immediate
+2022,Fredrick,Smith,CB,Southern Mississippi,,2021-11-01T15:55:00.000Z,0.78,2,Immediate
+2022,Jamin,Graham,LB,Nebraska,,2021-08-24T21:28:00.000Z,0.79,2,Immediate
+2022,Peyton,Powell,S,Rutgers,Cisco College,2021-08-24T16:18:00.000Z,0.82,3,Immediate
+2022,Ryan,Swoboda,OT,Virginia,UCF,2021-12-16T14:43:00.000Z,,3,Immediate
+2022,Vince,Picozzi,IOL,Colorado State,,2021-12-16T14:12:00.000Z,,,Immediate
+2022,Reese,Taylor,CB,Indiana,Purdue,2021-12-16T14:09:00.000Z,0.87,3,Immediate
+2022,Michael,Gravely Jr.,S,Michigan State,,2021-12-03T09:59:00.000Z,,3,Immediate
+2022,Jack,Green,IOL,South Alabama,Central Arkansas,2021-12-03T08:43:00.000Z,0.75,2,Immediate
+2022,Farrell,Hester,LB,UNLV,,2021-12-03T08:42:00.000Z,0.79,2,Immediate
+2022,Malakai,Salu,LB,UNLV,,2021-12-03T08:40:00.000Z,0.75,2,Immediate
+2022,Jamahl,Horne,WR,Kansas,,2021-12-16T13:58:00.000Z,,,Immediate
+2022,Andre,Sam,ATH,McNeese,Marshall,2021-12-15T20:00:00.000Z,,,Immediate
+2022,Isaiah,Norman,S,Austin Peay,Marshall,2021-12-15T19:59:00.000Z,,2,Immediate
+2022,Carlos,Becker,CB,Florida State,,2021-09-07T15:48:00.000Z,,4,Immediate
+2022,Shakel,Brown,DL,Troy,Troy,2021-09-07T17:25:00.000Z,,2,Immediate
+2022,Victor,Oluwatimi,IOL,Virginia,Michigan,2021-12-06T14:17:00.000Z,0.91,4,Immediate
+2022,Sevion,Morrison,RB,Nebraska,Kansas,2021-11-15T17:43:00.000Z,0.87,3,Immediate
+2022,Kobay,White,WR,Boston College,,2021-12-01T11:24:00.000Z,,3,Immediate
+2022,Zach,Gibson,QB,Akron,Georgia Tech,2021-11-29T12:31:00.000Z,0.87,3,Immediate
+2022,Terrell,Warner,WR,New Mexico State,,2021-12-01T11:31:00.000Z,,2,Immediate
+2022,Rashard,Jackson,RB,Maryland,,2021-12-01T10:40:00.000Z,,,Immediate
+2022,Malcolm,Davidson,RB,Florida Atlantic,,2021-12-01T10:40:00.000Z,,3,Immediate
+2022,Deon,Jones,S,Boston College,James Madison,2021-12-01T09:44:00.000Z,0.82,3,Immediate
+2022,Layne,Hatcher,QB,Arkansas State,Texas State,2021-12-01T09:31:00.000Z,0.84,3,Immediate
+2022,Joel,Felder,ATH,Florida Intl,,2021-12-01T08:50:00.000Z,0.79,2,Immediate
+2022,Kilohana,Haasenritter,WR,Hawai'i,,2021-12-01T08:46:00.000Z,,3,Immediate
+2022,JD,Head,QB,Louisiana Tech,North Texas,2021-12-03T15:14:00.000Z,,3,Immediate
+2022,Isiah,Cox,WR,Ohio,Alabama A&M,2021-12-14T16:19:00.000Z,0.8,3,Immediate
+2022,Khalan,Laborn,RB,Florida State,Marshall,2021-12-15T00:00:00.000Z,,5,TBD
+2022,Tylan,Hines,RB,Air Force,Hawai'i,2021-12-14T17:51:00.000Z,,3,Immediate
+2022,Daeshawn,Davis,ATH,Iowa State,,2021-12-14T13:31:00.000Z,,3,Immediate
+2022,Jacob,Gardner,OT,Nevada,Colorado State,2021-12-10T15:02:00.000Z,0.84,3,Immediate
+2022,Tory,Horton,ATH,Nevada,Colorado State,2021-12-10T12:14:00.000Z,0.87,3,Immediate
+2022,Stone,Earle,PRO,Abilene Christian,North Texas,2021-12-08T14:53:00.000Z,0.82,3,Immediate
+2022,Remington,Lutz,TE,Abilene Christian,Southern Illinois,2021-11-28T11:36:00.000Z,0.79,2,Immediate
+2022,Shaundre,Mims,DL,Charleston Southern,East Carolina,2021-11-23T08:02:00.000Z,0.84,3,Immediate
+2022,Todd,Centeio,QB,Colorado State,James Madison,2021-12-14T21:27:00.000Z,,3,Immediate
+2022,Kenan,Christon,RB,USC,,2021-12-14T21:05:00.000Z,,3,Immediate
+2022,David,Beckum,CB,Ole Miss,,2021-12-14T16:17:00.000Z,,,Immediate
+2022,Taisun,Phommachanh,QB,Clemson,,2021-12-03T14:59:00.000Z,0.82,3,Immediate
+2022,Isaiah,Richardson,S,Rice,,2021-12-03T14:58:00.000Z,,2,Immediate
+2022,Jacob,Rodriguez,QB,Virginia,Texas Tech,2021-12-03T14:54:00.000Z,0.85,3,Immediate
+2022,Blake,Aragon,WR,Texas State,,2021-12-03T10:00:00.000Z,,3,Immediate
+2022,Mario,Love,CB,NC State,North Carolina A&T,2021-12-03T08:39:00.000Z,,3,Immediate
+2022,Enzo,Jennings,S,Penn State,,2021-12-02T16:33:00.000Z,,4,Immediate
+2022,Jalen,Goss,OT,Florida State,Florida A&M,2021-12-01T14:53:00.000Z,0.8,3,Immediate
+2022,Adrian,Cole,CB,Syracuse,Florida Intl,2021-12-01T14:52:00.000Z,0.85,3,Immediate
+2022,Ty,Wise,LB,Indiana,Miami (OH),2021-12-13T10:41:00.000Z,,3,Immediate
+2022,Luke,Benson,TE,Syracuse,Georgia Tech,2021-12-01T14:51:00.000Z,0.82,3,Immediate
+2022,Jaden,Mitchell,WR,Arizona,,2021-12-01T14:49:00.000Z,,3,Immediate
+2022,Craig,Young,S,Ohio State,Kansas,2021-12-04T11:32:00.000Z,0.87,3,Immediate
+2022,Shamar,Martin,CB,UCLA,,2021-12-04T10:49:00.000Z,,3,Immediate
+2022,Kila,Kamakawiwo'ole,LB,Hawai'i,,2021-11-30T14:01:00.000Z,0.77,2,Immediate
+2022,Ryan,Coe,K,Delaware,Cincinnati,2021-11-30T13:59:00.000Z,,,Immediate
+2022,Jared,Behrens,LB,Navy,,2021-11-16T14:51:00.000Z,0.79,2,Immediate
+2022,Jojo,Forest,CB,Oregon State,,2021-09-29T14:05:00.000Z,,3,Immediate
+2022,Lamar,Mullins,S,Georgia State,,2021-08-16T13:54:00.000Z,,3,Immediate
+2022,Joey,Gatewood,QB,Kentucky,UCF,2021-08-16T09:29:00.000Z,,4,Immediate
+2022,DaMarcus,Thomas,TE,Ole Miss,South Alabama,2021-12-01T16:17:00.000Z,0.82,3,Immediate
+2022,Jack,Beresford,DL,Washington State,,2021-12-01T16:01:00.000Z,,,Immediate
+2022,Tico,Brown,DL,Central Michigan,Missouri State,2021-12-01T15:54:00.000Z,0.82,3,Immediate
+2022,Jaylon,Baker,CB,Virginia,,2021-12-01T15:34:00.000Z,,3,Immediate
+2022,Cauren,Lynch,RB,Toledo,,2021-12-09T12:01:00.000Z,,3,Immediate
+2022,Dalton,Tomlison,IOL,UMass,,2021-12-01T15:21:00.000Z,,3,Immediate
+2022,Jack,Sears,QB,Boise State,,2021-12-01T15:20:00.000Z,0.82,3,Immediate
+2022,Ke'von,Ahmad,WR,UCF,,2021-11-30T13:33:00.000Z,,3,Immediate
+2022,Gunnar,Holmberg,QB,Duke,Florida Intl,2021-12-13T13:26:00.000Z,0.8,3,Immediate
+2022,Abdoul,Kone,LB,UMass,,2021-09-27T14:58:00.000Z,,3,Immediate
+2022,Adam,Stack,K,Hawai'i,,2021-12-08T17:08:00.000Z,,3,Immediate
+2022,M.J.,Griffin,S,Temple,Louisville,2021-12-01T14:47:00.000Z,0.86,3,Immediate
+2022,Aaron,Faumui,DL,Virginia,,2021-12-13T09:58:00.000Z,,3,Immediate
+2022,Thomaz,Whitford,TE,New Mexico State,,2021-12-01T14:35:00.000Z,,3,Immediate
+2022,Michael,Onyemaobi,S,TCU,,2021-12-11T13:00:00.000Z,,3,Immediate
+2022,Earl,Barquet,DL,TCU,USC,2021-12-09T08:58:00.000Z,0.86,3,Immediate
+2022,Gavin,Reinwald,TE,California,,2021-12-08T17:09:00.000Z,,2,Immediate
+2022,Josh,Newton,CB,Louisiana Monroe,,2021-12-02T15:58:00.000Z,0.87,3,Immediate
+2022,Corey,Gaynor,IOL,Miami,North Carolina,2021-12-02T15:57:00.000Z,0.84,3,Immediate
+2022,Nason,Simmons,OT,Arkansas State,,2021-12-02T15:14:00.000Z,,3,Immediate
+2022,Jalon,Ferrell,S,Connecticut,,2021-12-01T13:42:00.000Z,,2,Immediate
+2022,Martin,Laham,WR,UMass,,2021-12-01T13:41:00.000Z,,,Immediate
+2022,Donovan,Dalton,S,Hawai'i,,2021-11-30T14:03:00.000Z,0.8,3,Immediate
+2022,Ger-Cari,Caldwell,WR,South Carolina,,2021-11-30T13:59:00.000Z,,3,Immediate
+2022,Jakairi,Moses,RB,Western Kentucky,,2021-11-16T12:19:00.000Z,0.79,2,Immediate
+2022,Marcus,McElroy,RB,Colorado State,McNeese,2021-12-15T09:23:00.000Z,0.79,2,Immediate
+2022,Walker,Hankinson,OT,Louisiana Tech,,2021-08-11T10:45:00.000Z,,2,Immediate
+2022,Tyrone,Truesdell,DL,Auburn,Florida,2021-08-11T08:57:00.000Z,,3,Immediate
+2022,Sterlin,Ortiz,S,Hawai'i,,2021-08-10T12:53:00.000Z,,2,Immediate
+2022,Conrad,Hawley,QB,Kansas,,2021-12-15T10:29:00.000Z,,3,Immediate
+2022,Jonah,Johnson,QB,New Mexico State,,2021-12-01T13:49:00.000Z,,2,Immediate
+2022,Jermaine,Hamilton-Jordan,S,Arkansas,,2021-12-15T09:32:00.000Z,,3,Immediate
+2022,JT,Towers,LB,Arkansas,,2021-12-15T09:31:00.000Z,,3,Immediate
+2022,Jackson,Hannah,LB,Nebraska,Tennessee,2021-12-15T09:14:00.000Z,,3,Immediate
+2022,Andy,Boykin,DL,Arkansas,,2021-12-15T08:53:00.000Z,,3,Immediate
+2022,Liam,Douglass,IOL,USC,,2021-12-14T20:43:00.000Z,,3,Immediate
+2022,Avery,Demmons,OT,Arkansas State,,2021-12-02T15:01:00.000Z,,,Immediate
+2022,Christian,Hunter,RB,Colorado State,,2021-12-14T17:02:00.000Z,,2,Immediate
+2022,Ali'Vonta,Wallace,LB,Western Michigan,,2021-12-14T16:31:00.000Z,,2,Immediate
+2022,Chevan,Cordeiro,QB,Hawai'i,San José State,2021-12-01T14:59:00.000Z,0.85,3,Immediate
+2022,Kedon,Slovis,QB,USC,Pittsburgh,2021-12-13T11:17:00.000Z,0.91,4,Immediate
+2022,Boone,Abbott,QB,Hawai'i,Dixie State,2021-12-14T12:52:00.000Z,,3,Immediate
+2022,Eric,Taylor,DL,LSU,,2021-08-09T17:23:00.000Z,,4,Immediate
+2022,Janari,Dean,S,Mississippi State,Southern Mississippi,2021-12-13T09:57:00.000Z,0.86,3,Immediate
+2022,Kariem,Al Soufi,IOL,Virginia,,2021-12-13T09:12:00.000Z,,3,Immediate
+2022,Corey,Suttle,DL,Iowa State,,2021-12-13T08:59:00.000Z,,3,Immediate
+2022,Dreyden,Norwood,CB,Texas A&M,Missouri,2021-12-13T08:29:00.000Z,0.87,3,Immediate
+2022,Devon,Robinson,DL,Memphis,Akron,2021-12-13T08:05:00.000Z,0.82,3,Immediate
+2022,Logan,Kendall,TE,Idaho,Utah,2021-12-12T12:03:00.000Z,0.85,3,Immediate
+2022,Syrus,Dumas,CB,New Mexico State,,2021-12-01T14:53:00.000Z,0.81,3,Immediate
+2022,Carter,Boatwright,TE,Florida State,Florida Atlantic,2021-12-12T17:42:00.000Z,0.81,3,Immediate
+2022,Michael,Mathison,WR,Akron,Western Kentucky,2021-12-12T14:05:00.000Z,0.84,3,Immediate
+2022,Caleb,Snead,WR,Campbell,Liberty,2021-12-12T12:02:00.000Z,0.84,3,Immediate
+2022,Derek,Ferraro,OT,Rice,,2021-12-01T17:31:00.000Z,,2,Immediate
+2022,Jafar,Armstrong,WR,Illinois,,2021-12-01T17:11:00.000Z,,3,Immediate
+2022,Aaron,Holloway,WR,UNLV,,2021-12-01T17:04:00.000Z,,3,Immediate
+2022,Sidney,Walker,IOL,Connecticut,Buffalo,2021-12-01T12:40:00.000Z,0.81,3,Immediate
+2022,Cade,Parrish,OT,BYU,Utah State,2021-12-01T12:31:00.000Z,,3,Immediate
+2022,Cooper,Nelson,WR,Wisconsin,,2021-12-01T12:05:00.000Z,,,Immediate
+2022,Andrew,Cole,DL,Southern Mississippi,,2021-12-01T11:57:00.000Z,,2,Immediate
+2022,Naasir,Watkins,OT,Kentucky,,2021-12-01T11:56:00.000Z,,3,Immediate
+2022,Tyler,Kiehne,DL,UCLA,New Mexico,2021-12-15T11:54:00.000Z,,3,Immediate
+2022,JH,Tevis,EDGE,California,Indiana,2021-12-06T15:18:00.000Z,0.87,3,Immediate
+2022,Jarius,Reimonenq,CB,Arkansas State,James Madison,2021-12-02T15:12:00.000Z,,3,Immediate
+2022,Jake,Siegal,DL,Washington State,,2021-08-12T08:38:00.000Z,,,Immediate
+2022,Parker,Lewis,K,USC,,2021-12-13T13:49:00.000Z,,3,Immediate
+2022,Linwood,Crump,CB,Colorado State,,2021-12-13T12:17:00.000Z,,2,Immediate
+2022,Marquez,Bembry,LB,Kentucky,,2021-12-13T13:35:00.000Z,,3,Immediate
+2022,Ja'Darien,Boykin,EDGE,Louisville,,2021-12-13T13:09:00.000Z,,4,Immediate
+2022,Zach,Calzada,QB,Texas A&M,Auburn,2021-12-13T11:31:00.000Z,0.88,3,Immediate
+2022,Rhedi,Short,S,Arizona,,2021-12-08T13:39:00.000Z,,3,Immediate
+2022,Terrell,Brown,RB,Houston,Trinity Valley C.C.,2021-08-09T14:47:00.000Z,0.79,2,Immediate
+2022,Cooper,McDonald,LB,Washington,,2021-12-08T15:40:00.000Z,,3,Immediate
+2022,Jamar,Richardson,WR,Ole Miss,South Alabama,2021-12-08T13:43:00.000Z,0.83,3,Immediate
+2022,Zay,Peterson,LB,Louisville,Middle Tennessee,2021-12-08T13:36:00.000Z,0.82,3,Immediate
+2022,Leslie,Smith,LB,Pittsburgh,,2021-12-08T13:23:00.000Z,,3,Immediate
+2022,Cade,Briggs,IOL,New Mexico,Texas Tech,2021-11-29T17:18:00.000Z,0.85,3,Immediate
+2022,Patrick,Jenkins,DL,TCU,Tulane,2021-12-15T14:53:00.000Z,0.87,3,Immediate
+2022,Rafiti,Ghirmai,IOL,Texas,,2021-12-06T14:06:00.000Z,0.82,3,Immediate
+2022,Nolan,Gorczyca,OT,Buffalo,Kansas,2021-12-06T13:57:00.000Z,0.82,3,Immediate
+2022,Jayden,Simon,DL,Colorado,Tulsa,2021-12-06T13:56:00.000Z,0.82,3,Immediate
+2022,Jake,Lichtenstein,DL,USC,Miami,2021-12-06T13:15:00.000Z,0.87,3,Immediate
+2022,Aaron,Allen,QB,Louisiana Tech,Alcorn State,2021-12-06T11:52:00.000Z,0.81,3,Immediate
+2022,Jordan,Banks,EDGE,Arizona State,Northwestern State,2021-12-06T11:35:00.000Z,0.87,3,Immediate
+2022,Cooper,Lutz,RB,Syracuse,,2021-12-06T11:23:00.000Z,0.81,3,Immediate
+2022,Jack,Camper,DL,Michigan State,Virginia,2021-12-13T08:03:00.000Z,,3,Immediate
+2022,Davion,Ervin-Poindexter,RB,Indiana,,2021-12-13T08:00:00.000Z,,,Immediate
+2022,Ta'Quan,Roberson,QB,Penn State,Connecticut,2021-12-13T08:00:00.000Z,0.85,3,Immediate
+2022,Keontez,Lewis,WR,UCLA,Wisconsin,2021-12-12T19:37:00.000Z,,3,Immediate
+2022,Jackson,Bratton,LB,Alabama,UAB,2021-11-29T08:58:00.000Z,0.85,3,Immediate
+2022,Joshua,Hayes,CB,Virginia,Kansas State,2021-10-11T10:58:00.000Z,0.85,3,Immediate
+2022,Bryce,Petersen,IOL,Akron,San José State,2021-08-25T17:30:00.000Z,0.85,3,Immediate
+2022,Amir,Siddiq,LB,Central Michigan,,2021-11-29T16:10:00.000Z,0.85,3,Immediate
+2022,Ira,Henry III,IOL,Florida State,Memphis,2021-12-02T13:14:00.000Z,,3,Immediate
+2022,Deion,Smith,WR,LSU,,2021-12-08T17:07:00.000Z,,4,Immediate
+2022,Gregory,Desrosiers,ATH,Louisville,UMass,2021-12-08T13:14:00.000Z,,,Immediate
+2022,Tommi,Hill,CB,Arizona State,Nebraska,2021-12-08T12:47:00.000Z,0.9,4,Immediate
+2022,Jahmar,Brown,LB,South Carolina,,2021-12-06T16:40:00.000Z,,3,Immediate
+2022,Brandon,Moore,CB,Florida State,,2021-08-25T15:50:00.000Z,,3,Immediate
+2022,Jalen,Berger,RB,Wisconsin,Michigan State,2021-10-13T20:48:00.000Z,0.89,3,Immediate
+2022,Miles,Frazier,OT,Florida Intl,LSU,2021-12-16T09:31:00.000Z,0.92,4,Immediate
+2022,DJ,Warnell,S,UCLA,Arizona,2021-11-30T10:53:00.000Z,0.85,3,Immediate
+2022,Chase,Williams,S,USC,,2021-12-07T19:49:00.000Z,0.83,3,Immediate
+2022,Ahmani,Marshall,RB,Wake Forest,Appalachian State,2021-12-06T15:14:00.000Z,0.87,3,Immediate
+2022,Larry,Dowdy,OT,Appalachian State,,2021-12-06T15:12:00.000Z,,3,Immediate
+2022,Ricky,White,WR,Michigan State,,2021-12-06T14:20:00.000Z,,3,Immediate
+2022,RaJae,Johnson,WR,UAB,Troy,2021-12-06T14:11:00.000Z,0.84,3,Immediate
+2022,Mark,Jackson Jr.,EDGE,TCU,Western New Mexico,2021-08-04T14:02:00.000Z,0.8,3,TBD
+2022,Landon,Jackson,EDGE,LSU,Arkansas,2021-12-08T12:47:00.000Z,0.9,4,Immediate
+2022,Max,Banes,OT,Houston,Akron,2021-12-08T10:08:00.000Z,,3,Immediate
+2022,James,Wright,S,Kansas,,2021-12-08T09:55:00.000Z,,3,Immediate
+2022,Justin,Menard,WR,UCF,,2021-09-22T10:22:00.000Z,,3,Immediate
+2022,Jordan,Huff,CB,Georgia Tech,,2021-08-05T10:05:00.000Z,0.8,3,Immediate
+2022,Brandy,Okeke,EDGE,Washington State,,2021-08-04T15:27:00.000Z,,,Immediate
+2022,Hassan,Hall,RB,Louisville,Georgia Tech,2021-11-11T12:36:00.000Z,0.86,3,Immediate
+2022,Karon,Prunty,CB,South Carolina,North Carolina A&T,2021-08-12T14:53:00.000Z,,3,Immediate
+2022,Lyn-J,Dixon,RB,Clemson,West Virginia,2021-09-21T10:02:00.000Z,0.86,3,Immediate
+2022,Terrence,Lewis,LB,Maryland,UCF,2021-11-29T15:30:00.000Z,0.89,3,Immediate
+2022,Jake,Bobo,WR,Duke,UCLA,2021-11-29T14:51:00.000Z,0.89,3,Immediate
+2022,Paul,Tchio,OT,Clemson,Georgia Tech,2021-11-09T15:10:00.000Z,0.88,3,Immediate
+2022,Antonio,Doyle,EDGE,Texas A&M,Jackson State,2021-11-05T10:40:00.000Z,0.88,3,Immediate
+2022,Marcus,Bradley,DL,Vanderbilt,UMass,2021-11-01T10:56:00.000Z,0.88,3,Immediate
+2022,Terrence,Cooks,LB,Texas,TCU,2021-11-04T10:13:00.000Z,0.86,3,Immediate
+2022,Jack,Miller,QB,Ohio State,Florida,2021-11-28T16:43:00.000Z,0.86,3,Immediate
+2022,Adrian,Martinez,QB,Nebraska,Kansas State,2021-12-02T13:11:00.000Z,0.86,3,Immediate
+2022,Sam,Crawford,WR,Tulsa,Rice,2021-11-29T16:28:00.000Z,0.86,3,Immediate
+2022,Josh,Henderson,RB,North Carolina,Indiana,2021-10-25T10:49:00.000Z,0.85,3,Immediate
+2022,Joshua,Moore,WR,Texas,SMU,2021-11-08T14:49:00.000Z,0.85,3,Immediate
+2022,Chubba,Purdy,QB,Florida State,Nebraska,2021-11-03T11:59:00.000Z,0.85,3,Immediate
+2022,Sam,Brown,WR,West Virginia,Houston,2021-11-11T14:34:00.000Z,0.85,3,Immediate
+2022,Pierce,Withers,S,Florida Intl,Florida Intl,2021-12-12T09:12:00.000Z,,3,Immediate
+2022,Latrell,Fordham,WR,Eastern Michigan,,2021-12-02T08:35:00.000Z,0.82,3,Immediate
+2022,Eugene,Asante,LB,North Carolina,Auburn,2021-12-02T08:04:00.000Z,0.88,3,Immediate
+2022,Evan,Deckers,LS,UMass,Duke,2021-12-02T04:16:00.000Z,0.84,3,Immediate
+2022,Andres,Fox,EDGE,Stanford,,2021-12-01T21:35:00.000Z,,4,Immediate
+2022,Shaun,Peterson Jr.,RB,Florida Intl,,2021-11-30T10:40:00.000Z,0.84,3,Immediate
+2022,Trevyn,Heil,IOL,Nevada,Colorado State,2021-12-15T18:02:00.000Z,,3,Immediate
+2022,Monte,Williams,IOL,UT San Antonio,"Tyler J.C. ",2021-12-07T18:01:00.000Z,,,Immediate
+2022,KD,McDaniel,LB,Kentucky,UCF,2021-12-07T17:25:00.000Z,,3,Immediate
+2022,Isaiah,Esdale,WR,West Virginia,,2021-12-07T17:24:00.000Z,0.84,3,Immediate
+2022,Ilaisa,Gonebure,DL,San Diego State,,2021-12-07T17:23:00.000Z,,3,Immediate
+2022,Justin,Marshall,WR,Louisville,Buffalo,2021-12-07T17:22:00.000Z,0.86,3,Immediate
+2022,Jaylen,Hall,WR,Western Michigan,Western Kentucky,2021-12-07T17:20:00.000Z,0.83,3,Immediate
+2022,Joey,Capra,IOL,San Diego State,Nevada,2021-12-07T14:02:00.000Z,,3,Immediate
+2022,Tru,Thompson,DL,Florida State,Jackson State,2021-12-07T11:48:00.000Z,,3,Immediate
+2022,Ira,Armstead,QB,Virginia,Eastern Illinois,2021-12-09T14:53:00.000Z,0.81,3,Immediate
+2022,Hunter,Anthony,OT,Oklahoma State,Nebraska,2021-12-06T11:23:00.000Z,0.87,3,Immediate
+2022,Michael,Bowe,EDGE,New Mexico State,,2021-12-06T11:20:00.000Z,,3,Immediate
+2022,Tyler,Johnston,QB,UAB,Towson,2021-12-06T11:19:00.000Z,0.84,3,Immediate
+2022,Steven,Parker,EDGE,Kansas,,2021-12-06T09:27:00.000Z,,4,Immediate
+2022,Joseph,Scates,WR,Iowa State,Memphis,2021-12-06T10:53:00.000Z,0.86,3,Immediate
+2022,Marquez,Bell,WR,Cincinnati,Old Dominion,2021-12-06T10:11:00.000Z,,3,Immediate
+2022,Marques,Caldwell,S,Texas,,2021-12-06T09:14:00.000Z,0.81,3,Immediate
+2022,Da’Quan,Bailey-Brown,WR,Southern Mississippi,,2021-12-06T09:06:00.000Z,,3,Immediate
+2022,C.J.,Onyechi,EDGE,Rutgers,Colorado State,2021-12-06T08:18:00.000Z,,3,Immediate
+2022,Jaleel,McRae,LB,Florida State,Florida Atlantic,2021-12-06T08:11:00.000Z,0.82,3,Immediate
+2022,Rourke,Freeburg,LB,Arizona,Toledo,2021-12-15T16:50:00.000Z,,2,Immediate
+2022,Chris,Carpenter,WR,Colorado,UT San Antonio,2021-12-05T12:36:00.000Z,,3,Immediate
+2022,Joseph,White,S,Virginia,,2021-12-05T09:56:00.000Z,0.84,3,Immediate
+2022,Keyon,Blankenbaker,CB,Wyoming,,2021-12-04T22:25:00.000Z,,2,Immediate
+2022,Jatorian,Hansford,EDGE,Missouri,South Florida,2021-12-02T12:55:00.000Z,,3,Immediate
+2022,Ray,Thornton,S,Clemson,South Florida,2021-12-02T12:23:00.000Z,0.84,3,Immediate
+2022,Gary,Smith,DL,Duke,,2021-12-02T09:13:00.000Z,0.85,3,Immediate
+2022,Prudy,Calderon,S,Rice,,2021-12-02T08:59:00.000Z,0.8,3,Immediate
+2022,Christian,Smith,WR,Eastern Michigan,,2021-12-02T08:48:00.000Z,,,Immediate
+2022,Jalil,Clemons,EDGE,Memphis,Southern Mississippi,2021-12-02T08:45:00.000Z,0.83,3,Immediate
+2022,Jacoby,Windmon,LB,UNLV,Michigan State,2021-11-28T22:09:00.000Z,0.89,3,Immediate
+2022,Jadan,Blue,WR,Temple,Virginia Tech,2021-11-10T17:10:00.000Z,0.89,3,Immediate
+2022,Mohamed,Sanogo,LB,Ole Miss,Louisville,2021-11-29T16:40:00.000Z,0.88,3,Immediate
+2022,Khris,Bogle,EDGE,Florida,Michigan State,2021-12-01T15:26:00.000Z,0.88,3,Immediate
+2022,Beau,Corrales,WR,North Carolina,SMU,2021-12-02T08:01:00.000Z,0.88,3,Immediate
+2022,Jeremy,Lucien,CB,Connecticut,,2021-11-24T08:01:00.000Z,0.88,3,Immediate
+2022,Chris,Clancy Ojoh,LB,New Mexico State,,2021-11-29T12:35:00.000Z,0.88,3,Immediate
+2022,Isaiah,Garcia-Castaneda,WR,New Mexico State,Nebraska,2021-11-29T12:41:00.000Z,0.87,3,Immediate
+2022,Daniel,Parker,TE,Missouri,Oklahoma,2021-11-29T08:03:00.000Z,0.86,3,Immediate
+2022,Jacob,Zeno,QB,Baylor,UAB,2021-09-28T08:29:00.000Z,0.87,3,Immediate
+2022,Pierce,Quick,OT,Alabama,Georgia Tech,2021-11-29T08:54:00.000Z,0.87,3,Immediate
+2022,Harrison,Bailey,QB,Tennessee,UNLV,2021-10-27T15:39:00.000Z,0.86,3,Immediate
+2022,Landon,Morris,WR,Syracuse,Utah,2021-12-13T12:04:00.000Z,0.86,3,Immediate
+2022,Kalon,Gervin,CB,Michigan State,Kansas,2021-09-26T12:52:00.000Z,0.86,3,Immediate
+2022,Gurvan,Hall,S,Miami,Utah State,2021-11-09T14:26:00.000Z,0.86,3,Immediate
+2022,Bless,Harris,OT,Lamar,Florida State,2021-09-16T14:10:00.000Z,0.86,3,Immediate
+2022,Koby,Perry,S,Austin Peay,,2021-12-02T13:04:00.000Z,0.86,3,TBD
+2022,Morven,Joseph,LB,Tennessee,Florida Atlantic,2021-11-08T08:58:00.000Z,0.85,3,Immediate
+2022,Quentin,Williams,DL,Miami,Marshall,2021-11-02T16:20:00.000Z,0.85,3,Immediate
+2022,Navonteque,Strong,LB,LSU,,2021-10-27T11:17:00.000Z,0.85,3,Immediate
+2022,Kane,Patterson,LB,Clemson,Vanderbilt,2021-11-29T09:37:00.000Z,0.85,3,Immediate
+2022,Bentavious,Thompson,RB,UCF,,2021-10-06T13:27:00.000Z,0.85,3,Immediate
+2022,Isaiah,Johnson,EDGE,Fresno State,,2021-10-05T11:25:00.000Z,0.85,3,Immediate
+2022,Sione,Finau,IOL,Florida Intl,Purdue,2021-11-22T10:54:00.000Z,0.85,3,Immediate
+2022,Kayden,Lyles,IOL,Wisconsin,Florida State,2021-10-26T11:58:00.000Z,0.87,3,Immediate
+2022,Mycah,Pittman,WR,Oregon,Florida State,2021-11-22T11:58:00.000Z,0.87,3,Immediate
+2022,Geoff,Cantin-Arku,LB,Syracuse,Memphis,2021-11-17T13:45:00.000Z,0.87,3,Immediate
+2022,Marcus,Banks,CB,Alabama,Mississippi State,2021-11-08T10:09:00.000Z,0.9,4,Immediate
+2022,Tiyon,Evans,RB,Tennessee,Louisville,2021-11-26T07:16:00.000Z,0.9,4,Immediate
+2022,Austin,Stogner,TE,Oklahoma,South Carolina,2021-11-30T16:55:00.000Z,0.9,4,Immediate
+2022,Shaun,Shivers,ATH,Auburn,Indiana,2021-11-30T09:04:00.000Z,0.9,4,Immediate
+2022,Branden,Jennings,LB,Maryland,Kansas State,2021-11-30T14:21:00.000Z,0.9,4,Immediate
+2022,Taj,Harris,WR,Syracuse,Rutgers,2021-10-04T20:05:00.000Z,0.9,4,Immediate

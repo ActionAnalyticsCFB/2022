@@ -1,32 +1,32 @@
 "","Player","Caesars","DraftKings","FanDuel","BetMGM"
 "1","CJ Stroud","NA",250,200,200
 "2","Bryce Young","NA",350,400,350
-"3","Caleb Williams","NA",900,800,800
+"3","Caleb Williams","NA",750,600,600
 "4","Bijan Robinson","NA",2000,5000,1600
-"5","Will Anderson Jr.","NA",2800,4000,3000
-"6","Dillon Gabriel","NA",3000,4000,3000
-"7","Jaxon Smith-Njigba","NA",3000,6000,3000
+"5","Will Anderson Jr.","NA",2200,4000,2000
+"6","Dillon Gabriel","NA",2500,3000,3000
+"7","Jaxon Smith-Njigba","NA",2800,5000,3000
 "8","Tyler Van Dyke","NA",3500,3000,2500
 "9","DJ Uiagalelei","NA",3500,3000,2000
-"10","Kedon Slovis","NA",4000,10000,2500
-"11","TreVeyon Henderson","NA",4000,8000,2000
-"12","Spencer Rattler","NA",4000,8000,3000
-"13","Jaxson Dart","NA",4000,4000,2500
+"10","Kedon Slovis","NA",5000,10000,2500
+"11","TreVeyon Henderson","NA",3500,6000,2000
+"12","Spencer Rattler","NA",4500,8000,3000
+"13","Jaxson Dart","NA",5000,4000,2500
 "14","Anthony Richardson","NA",4000,6000,2000
-"15","Quinn Ewers","NA",4500,4000,2000
-"16","Hendon Hooker","NA",4500,6000,5000
-"17","Malik Cunningham","NA",5000,10000,6600
-"18","Bo Nix","NA",5000,10000,5000
+"15","Quinn Ewers","NA",3500,4000,2000
+"16","Hendon Hooker","NA",4000,6000,5000
+"17","Malik Cunningham","NA",5000,8000,6600
+"18","Bo Nix","NA",6000,10000,5000
 "19","Sam Hartman","NA",5000,8000,3000
 "20","Cade Klubnik","NA",6000,15000,NA
-"21","Will Rogers","NA",6000,8000,8000
+"21","Will Rogers","NA",7000,8000,8000
 "22","KJ Jefferson","NA",6000,8000,6600
-"23","Jack Miller III","NA",6000,NA,10000
+"23","Jack Miller III","NA",7000,NA,10000
 "24","Will Levis","NA",6000,10000,6600
 "25","Braelon Allen","NA",6000,6000,3000
-"26","Jahmyr Gibbs","NA",6000,5000,3000
+"26","Jahmyr Gibbs","NA",5500,5000,3000
 "27","Jayden Daniels","NA",7000,8000,6600
-"28","Tank Bigsby","NA",7000,10000,6600
+"28","Tank Bigsby","NA",8000,10000,6600
 "29","JT Daniels","NA",7000,10000,2500
 "30","Jordan Addison","NA",7000,8000,NA
 "31","Dorian Thompson-Robinson","NA",8000,10000,NA
@@ -44,7 +44,7 @@
 "43","Tyler Shough","NA",10000,NA,15000
 "44","Blake Corum","NA",10000,10000,8000
 "45","Conner Weigman","NA",10000,20000,NA
-"46","JJ McCarthy","NA",10000,10000,5000
+"46","JJ McCarthy","NA",9000,10000,5000
 "47","Jake Haener","NA",10000,10000,12500
 "48","Drew Pyne","NA",10000,NA,15000
 "49","Luke Altmyer","NA",10000,20000,NA
@@ -52,13 +52,13 @@
 "51","Tyler Buchner","NA",10000,10000,10000
 "52","Haynes King","NA",10000,10000,NA
 "53","Grayson McCall","NA",10000,10000,8000
-"54","Cameron Rising","NA",10000,8000,6600
-"55","Will Shipley","NA",10000,15000,6600
+"54","Cameron Rising","NA",8000,8000,6600
+"55","Will Shipley","NA",10000,10000,6600
 "56","Mohamed Ibrahim","NA",10000,15000,8000
 "57","Brennan Armstrong","NA",10000,10000,NA
 "58","Stetson Bennett IV","NA",10000,20000,8000
 "59","Marvin Harrison Jr.","NA",12000,20000,15000
-"60","Devin Leary","NA",12000,10000,8000
+"60","Devin Leary","NA",6000,8000,5000
 "61","Deuce Vaughn","NA",15000,10000,8000
 "62","Zach Charbonnet","NA",15000,NA,10000
 "63","Cade McNamara","NA",15000,15000,20000
@@ -120,7 +120,7 @@
 "119","Jordan Burch","NA",NA,NA,20000
 "120","Bryan Breese","NA",NA,NA,20000
 "121","Emory Jones","NA",NA,NA,10000
-"122","Maddox Kopp","NA",NA,NA,10000
+"122","Maddox Kopp","NA",NA,NA,NA
 "123","Aiden O'Connell","NA",NA,NA,NA
 "124","Clayton Tune","NA",NA,NA,15000
 "125","Jaren Hall","NA",NA,NA,20000

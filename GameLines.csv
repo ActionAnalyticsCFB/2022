@@ -1,273 +1,243 @@
 "","gameID","Team","Week","HomeAway","DKSpread","FDSpread","MGMSpread","CZRSpread","DKML","FDML","MGMML","CZRML","DKTotal","FDTotal","MGMTotal","CZRTotal"
-"7",401403853,"Vanderbilt",1,0,"-6.5 (-110)",NA,NA,"-6.5 (-110)",NA,NA,NA,NA,"55 (O: -110 U: -110)",NA,NA,"55 (O: -110 U: -110)"
-"143",401403853,"Hawai'i",1,1,"6.5 (-110)",NA,NA,"6.5 (-110)",NA,NA,NA,NA,"55 (O: -110 U: -110)",NA,NA,"55 (O: -110 U: -110)"
-"45",401403854,"Utah State",1,0,"38.5 (-110)",NA,NA,"38.5 (-110)",NA,NA,NA,NA,"62 (O: -110 U: -110)",NA,NA,"62.5 (O: -110 U: -110)"
-"181",401403854,"Alabama",1,1,"-38.5 (-110)",NA,NA,"-38.5 (-110)",NA,NA,NA,NA,"62 (O: -110 U: -110)",NA,NA,"62.5 (O: -110 U: -110)"
-"29",401403855,"Cincinnati",1,0,"7 (-110)",NA,NA,"7 (-110)",NA,NA,NA,NA,"54 (O: -110 U: -110)",NA,NA,"54 (O: -110 U: -110)"
-"165",401403855,"Arkansas",1,1,"-7 (-110)",NA,NA,"-7 (-110)",NA,NA,NA,NA,"54 (O: -110 U: -110)",NA,NA,"54 (O: -110 U: -110)"
-"39",401403857,"Utah",1,0,"-2 (-110)","-2 (-110)",NA,"-2 (-110)",NA,NA,NA,NA,"52.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"52.5 (O: -110 U: -110)"
-"175",401403857,"Florida",1,1,"2 (-110)","2 (-110)",NA,"2 (-110)",NA,NA,NA,NA,"52.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"52.5 (O: -110 U: -110)"
-"135",401403858,"Georgia",1,0,"-17 (-110)","-17 (-105)",NA,"-17.5 (-110)",NA,NA,NA,NA,"51 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"51 (O: -110 U: -110)"
-"271",401403858,"Oregon",1,1,"17 (-110)","17 (-115)",NA,"17.5 (-110)",NA,NA,NA,NA,"51 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"51 (O: -110 U: -110)"
-"40",401403859,"Miami (OH)",1,0,"20.5 (-110)",NA,NA,"20.5 (-110)",NA,NA,NA,NA,"51.5 (O: -110 U: -110)",NA,NA,"51.5 (O: -110 U: -110)"
-"176",401403859,"Kentucky",1,1,"-20.5 (-110)",NA,NA,"-20.5 (-110)",NA,NA,NA,NA,"51.5 (O: -110 U: -110)",NA,NA,"51.5 (O: -110 U: -110)"
-"31",401403860,"Troy",1,0,"23.5 (-110)",NA,NA,"24 (-110)",NA,NA,NA,NA,"61 (O: -110 U: -110)",NA,NA,"61 (O: -110 U: -110)"
-"167",401403860,"Ole Miss",1,1,"-23.5 (-110)",NA,NA,"-24 (-110)",NA,NA,NA,NA,"61 (O: -110 U: -110)",NA,NA,"61 (O: -110 U: -110)"
-"42",401403861,"Memphis",1,0,"16 (-110)",NA,NA,"16 (-110)",NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,"56.5 (O: -110 U: -110)"
-"178",401403861,"Mississippi State",1,1,"-16 (-110)",NA,NA,"-16 (-110)",NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,"56.5 (O: -110 U: -110)"
-"44",401403863,"Georgia State",1,0,"13 (-110)",NA,NA,"13.5 (-110)",NA,NA,NA,NA,"56 (O: -110 U: -110)",NA,NA,"56 (O: -110 U: -110)"
-"180",401403863,"South Carolina",1,1,"-13 (-110)",NA,NA,"-13.5 (-110)",NA,NA,NA,NA,"56 (O: -110 U: -110)",NA,NA,"56 (O: -110 U: -110)"
-"10",401403864,"Ball State",1,0,"32.5 (-110)",NA,NA,"31.5 (-110)",NA,NA,NA,NA,"68 (O: -110 U: -110)",NA,NA,"68 (O: -110 U: -110)"
-"146",401403864,"Tennessee",1,1,"-32.5 (-110)",NA,NA,"-31.5 (-110)",NA,NA,NA,NA,"68 (O: -110 U: -110)",NA,NA,"68 (O: -110 U: -110)"
-"136",401403867,"LSU",1,0,"-3 (-105)","-3.5 (-105)",NA,"-3 (-110)",NA,NA,NA,NA,"51.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"51.5 (O: -110 U: -110)"
-"272",401403867,"Florida State",1,1,"3 (-115)","3.5 (-115)",NA,"3 (-110)",NA,NA,NA,NA,"51.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"51.5 (O: -110 U: -110)"
-"18",401403966,"TCU",1,0,"-7.5 (-110)","-9 (-110)",NA,"-7.5 (-110)",NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"55 (O: -110 U: -110)"
-"154",401403966,"Colorado",1,1,"7.5 (-110)","9 (-110)",NA,"7.5 (-110)",NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"55 (O: -110 U: -110)"
-"28",401403967,"Arizona",1,0,"5.5 (-110)",NA,NA,"5 (-110)",NA,NA,NA,NA,"49 (O: -110 U: -110)",NA,NA,"49 (O: -110 U: -110)"
-"164",401403967,"San Diego State",1,1,"-5.5 (-110)",NA,NA,"-5 (-110)",NA,NA,NA,NA,"49 (O: -110 U: -110)",NA,NA,"49 (O: -110 U: -110)"
-"49",401403969,"Boise State",1,0,"4 (-110)",NA,NA,"4 (-110)",NA,NA,NA,NA,"59.5 (O: -110 U: -110)",NA,NA,"59.5 (O: -110 U: -110)"
-"185",401403969,"Oregon State",1,1,"-4 (-110)",NA,NA,"-4 (-110)",NA,NA,NA,NA,"59.5 (O: -110 U: -110)",NA,NA,"59.5 (O: -110 U: -110)"
-"24",401403971,"Bowling Green",1,0,"26 (-110)",NA,NA,"25.5 (-110)",NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,"57.5 (O: -110 U: -110)"
-"160",401403971,"UCLA",1,1,"-26 (-110)",NA,NA,"-25.5 (-110)",NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,"57.5 (O: -110 U: -110)"
-"48",401403973,"Kent State",1,0,"22.5 (-110)",NA,NA,"22.5 (-110)",NA,NA,NA,NA,"60.5 (O: -110 U: -110)",NA,NA,"60.5 (O: -110 U: -110)"
-"184",401403973,"Washington",1,1,"-22.5 (-110)",NA,NA,"-22.5 (-110)",NA,NA,NA,NA,"60.5 (O: -110 U: -110)",NA,NA,"60.5 (O: -110 U: -110)"
-"47",401404059,"Louisiana Monroe",1,0,"38.5 (-110)",NA,NA,"39 (-110)",NA,NA,NA,NA,"67 (O: -110 U: -110)",NA,NA,"67 (O: -110 U: -110)"
-"183",401404059,"Texas",1,1,"-38.5 (-110)",NA,NA,"-39 (-110)",NA,NA,NA,NA,"67 (O: -110 U: -110)",NA,NA,"67 (O: -110 U: -110)"
-"41",401404124,"Notre Dame",1,0,"14.5 (-110)","14 (-105)",NA,"14.5 (-110)",NA,NA,NA,NA,"58 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"58.5 (O: -110 U: -110)"
-"177",401404124,"Ohio State",1,1,"-14.5 (-110)","-14 (-115)",NA,"-14.5 (-110)",NA,NA,NA,NA,"58 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"58.5 (O: -110 U: -110)"
-"20",401404134,"Army",1,0,"4 (-110)",NA,NA,"3.5 (-110)",NA,NA,NA,NA,"55 (O: -110 U: -110)",NA,NA,"54 (O: -110 U: -110)"
-"156",401404134,"Coastal Carolina",1,1,"-4 (-110)",NA,NA,"-3.5 (-110)",NA,NA,NA,NA,"55 (O: -110 U: -110)",NA,NA,"54 (O: -110 U: -110)"
-"4",401404146,"Connecticut",1,0,"27.5 (-110)",NA,NA,"28 (-110)",NA,NA,NA,NA,"60.5 (O: -110 U: -110)",NA,NA,"60.5 (O: -110 U: -110)"
-"140",401404146,"Utah State",1,1,"-27.5 (-110)",NA,NA,"-28 (-110)",NA,NA,NA,NA,"60.5 (O: -110 U: -110)",NA,NA,"60.5 (O: -110 U: -110)"
-"37",401404157,"Liberty",1,0,"-3 (-110)",NA,NA,"-3 (-110)",NA,NA,NA,NA,"53.5 (O: -110 U: -110)",NA,NA,"53.5 (O: -110 U: -110)"
-"173",401404157,"Southern Mississippi",1,1,"3 (-110)",NA,NA,"3 (-110)",NA,NA,NA,NA,"53.5 (O: -110 U: -110)",NA,NA,"53.5 (O: -110 U: -110)"
-"5",401405058,"Wyoming",1,0,"10 (-110)",NA,NA,"10 (-110)",NA,NA,NA,NA,"46.5 (O: -110 U: -110)",NA,NA,"46 (O: -110 U: -110)"
-"141",401405058,"Illinois",1,1,"-10 (-110)",NA,NA,"-10 (-110)",NA,NA,NA,NA,"46.5 (O: -110 U: -110)",NA,NA,"46 (O: -110 U: -110)"
-"2",401405059,"Northwestern",1,0,"12.5 (-110)","11.5 (-110)",NA,"12.5 (-110)",NA,NA,NA,NA,"51 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"50.5 (O: -110 U: -110)"
-"138",401405059,"Nebraska",1,1,"-12.5 (-110)","-11.5 (-110)",NA,"-12.5 (-110)",NA,NA,NA,NA,"51 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"50.5 (O: -110 U: -110)"
-"13",401405060,"New Mexico State",1,0,"38.5 (-110)",NA,NA,"38 (-110)",NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,"56.5 (O: -110 U: -110)"
-"149",401405060,"Minnesota",1,1,"-38.5 (-110)",NA,NA,"-38 (-110)",NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,"56.5 (O: -110 U: -110)"
-"17",401405061,"Illinois",1,0,"5.5 (-110)",NA,NA,"5.5 (-110)",NA,NA,NA,NA,"48.5 (O: -110 U: -110)",NA,NA,"48.5 (O: -110 U: -110)"
-"153",401405061,"Indiana",1,1,"-5.5 (-110)",NA,NA,"-5.5 (-110)",NA,NA,NA,NA,"48.5 (O: -110 U: -110)",NA,NA,"48.5 (O: -110 U: -110)"
-"11",401405064,"Penn State",1,0,"-3 (-120)","-3 (-110)",NA,"-3.5 (-110)",NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"54.5 (O: -110 U: -110)"
-"147",401405064,"Purdue",1,1,"3 (100)","3 (-110)",NA,"3.5 (-110)",NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"54.5 (O: -110 U: -110)"
-"22",401405066,"Buffalo",1,0,"21.5 (-110)",NA,NA,"22 (-110)",NA,NA,NA,NA,"64 (O: -110 U: -110)",NA,NA,"64 (O: -110 U: -110)"
-"158",401405066,"Maryland",1,1,"-21.5 (-110)",NA,NA,"-22 (-110)",NA,NA,NA,NA,"64 (O: -110 U: -110)",NA,NA,"64 (O: -110 U: -110)"
-"21",401405067,"Colorado State",1,0,"28 (-110)",NA,NA,"27.5 (-110)",NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,"58.5 (O: -110 U: -110)"
-"157",401405067,"Michigan",1,1,"-28 (-110)",NA,NA,"-27.5 (-110)",NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,"58.5 (O: -110 U: -110)"
-"134",401405069,"Rutgers",1,0,NA,NA,NA,"7.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"50.5 (O: -110 U: -110)"
-"270",401405069,"Boston College",1,1,NA,NA,NA,"-7.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"50.5 (O: -110 U: -110)"
-"3",401409235,"Nevada",1,0,"-12.5 (-110)",NA,NA,"-12.5 (-110)",NA,NA,NA,NA,"55.5 (O: -110 U: -110)",NA,NA,"55.5 (O: -110 U: -110)"
-"139",401409235,"New Mexico State",1,1,"12.5 (-110)",NA,NA,"12.5 (-110)",NA,NA,NA,NA,"55.5 (O: -110 U: -110)",NA,NA,"55.5 (O: -110 U: -110)"
-"9",401411092,"West Virginia",1,0,"7 (-120)","6.5 (-110)",NA,"7 (-115)",NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"54 (O: -110 U: -110)"
-"145",401411092,"Pittsburgh",1,1,"-7 (100)","-6.5 (-110)",NA,"-7 (-105)",NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"54 (O: -110 U: -110)"
-"16",401411094,"Temple",1,0,"8 (-110)",NA,NA,"8 (-110)",NA,NA,NA,NA,"53.5 (O: -110 U: -110)",NA,NA,"53.5 (O: -110 U: -110)"
-"152",401411094,"Duke",1,1,"-8 (-110)",NA,NA,"-8 (-110)",NA,NA,NA,NA,"53.5 (O: -110 U: -110)",NA,NA,"53.5 (O: -110 U: -110)"
-"19",401411095,"North Carolina",1,0,"-3 (-105)",NA,NA,"-3 (-110)",NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,"57 (O: -110 U: -110)"
-"155",401411095,"Appalachian State",1,1,"3 (-115)",NA,NA,"3 (-110)",NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,"57 (O: -110 U: -110)"
-"23",401411096,"NC State",1,0,"-10 (-110)",NA,NA,"-11 (-110)",NA,NA,NA,NA,"56 (O: -110 U: -110)",NA,NA,"56 (O: -110 U: -110)"
-"159",401411096,"East Carolina",1,1,"10 (-110)",NA,NA,"11 (-110)",NA,NA,NA,NA,"56 (O: -110 U: -110)",NA,NA,"56 (O: -110 U: -110)"
-"46",401411099,"Louisville",1,0,"-3 (-110)",NA,NA,"-3 (-110)",NA,NA,NA,NA,"59.5 (O: -110 U: -110)",NA,NA,"59.5 (O: -110 U: -110)"
-"182",401411099,"Syracuse",1,1,"3 (-110)",NA,NA,"3 (-110)",NA,NA,NA,NA,"59.5 (O: -110 U: -110)",NA,NA,"59.5 (O: -110 U: -110)"
-"50",401411101,"Clemson",1,0,"-19.5 (-110)","-20.5 (-115)",NA,"-19 (-110)",NA,NA,NA,NA,"50 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"50 (O: -110 U: -110)"
-"186",401411101,"Georgia Tech",1,1,"19.5 (-110)","20.5 (-105)",NA,"19 (-110)",NA,NA,NA,NA,"50 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"50 (O: -110 U: -110)"
-"38",401414778,"UMass",1,0,"29.5 (-110)",NA,NA,"29.5 (-110)",NA,NA,NA,NA,"60.5 (O: -110 U: -110)",NA,NA,"60.5 (O: -110 U: -110)"
-"174",401414778,"Tulane",1,1,"-29.5 (-110)",NA,NA,"-29.5 (-110)",NA,NA,NA,NA,"60.5 (O: -110 U: -110)",NA,NA,"60.5 (O: -110 U: -110)"
-"27",401415211,"Tulsa",1,0,"-1 (-110)",NA,NA,"-1 (-110)",NA,NA,NA,NA,"46.5 (O: -110 U: -110)",NA,NA,"46.5 (O: -110 U: -110)"
-"163",401415211,"Wyoming",1,1,"1 (-110)",NA,NA,"1 (-110)",NA,NA,NA,NA,"46.5 (O: -110 U: -110)",NA,NA,"46.5 (O: -110 U: -110)"
-"25",401415212,"Texas State",1,0,"8.5 (-110)",NA,NA,"7.5 (-110)",NA,NA,NA,NA,"56.5 (O: -110 U: -110)",NA,NA,"56.5 (O: -110 U: -110)"
-"161",401415212,"Nevada",1,1,"-8.5 (-110)",NA,NA,"-7.5 (-110)",NA,NA,NA,NA,"56.5 (O: -110 U: -110)",NA,NA,"56.5 (O: -110 U: -110)"
-"32",401415612,"BYU",1,0,"-12 (-110)",NA,NA,"-12 (-110)",NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,"57.5 (O: -110 U: -110)"
-"168",401415612,"South Florida",1,1,"12 (-110)",NA,NA,"12 (-110)",NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,"57.5 (O: -110 U: -110)"
-"8",401416569,"Central Michigan",1,0,"21 (-110)",NA,NA,"20.5 (-110)",NA,NA,NA,NA,"58 (O: -110 U: -110)",NA,NA,"58 (O: -110 U: -110)"
-"144",401416569,"Oklahoma State",1,1,"-21 (-110)",NA,NA,"-20.5 (-110)",NA,NA,NA,NA,"58 (O: -110 U: -110)",NA,NA,"58 (O: -110 U: -110)"
-"14",401416591,"Western Michigan",1,0,"18 (-110)",NA,NA,"18.5 (-110)",NA,NA,NA,NA,"54.5 (O: -110 U: -110)",NA,NA,"54.5 (O: -110 U: -110)"
-"150",401416591,"Michigan State",1,1,"-18 (-110)",NA,NA,"-18.5 (-110)",NA,NA,NA,NA,"54.5 (O: -110 U: -110)",NA,NA,"54.5 (O: -110 U: -110)"
-"15",401426330,"Virginia Tech",1,0,"-8.5 (-110)",NA,NA,"-8 (-110)",NA,NA,NA,NA,"52.5 (O: -110 U: -110)",NA,NA,"52.5 (O: -110 U: -110)"
-"151",401426330,"Old Dominion",1,1,"8.5 (-110)",NA,NA,"8 (-110)",NA,NA,NA,NA,"52.5 (O: -110 U: -110)",NA,NA,"52.5 (O: -110 U: -110)"
-"6",401426530,"Charlotte",1,0,"7 (-110)",NA,NA,"7 (-110)",NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,"57.5 (O: -110 U: -110)"
-"142",401426530,"Florida Atlantic",1,1,"-7 (-110)",NA,NA,"-7 (-110)",NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,"57.5 (O: -110 U: -110)"
-"1",401426531,"North Texas",1,0,"-1.5 (-110)",NA,NA,"-1 (-110)",NA,NA,NA,NA,"55.5 (O: -110 U: -110)",NA,NA,"55.5 (O: -110 U: -110)"
-"137",401426531,"UTEP",1,1,"1.5 (-110)",NA,NA,"1 (-110)",NA,NA,NA,NA,"55.5 (O: -110 U: -110)",NA,NA,"55.5 (O: -110 U: -110)"
-"36",401426536,"Florida Atlantic",1,0,"-2 (-110)",NA,NA,"-2.5 (-110)",NA,NA,NA,NA,"48.5 (O: -110 U: -110)",NA,NA,"48.5 (O: -110 U: -110)"
-"172",401426536,"Ohio",1,1,"2 (-110)",NA,NA,"2.5 (-110)",NA,NA,NA,NA,"48.5 (O: -110 U: -110)",NA,NA,"48.5 (O: -110 U: -110)"
-"12",401426537,"Louisiana Tech",1,0,"20 (-110)",NA,NA,"20.5 (-110)",NA,NA,NA,NA,"59 (O: -110 U: -110)",NA,NA,"59 (O: -110 U: -110)"
-"148",401426537,"Missouri",1,1,"-20 (-110)",NA,NA,"-20.5 (-110)",NA,NA,NA,NA,"59 (O: -110 U: -110)",NA,NA,"59 (O: -110 U: -110)"
-"34",401426538,"Middle Tennessee",1,0,"7 (-110)",NA,NA,"7 (-110)",NA,NA,NA,NA,"58.5 (O: -110 U: -110)",NA,NA,"58.5 (O: -110 U: -110)"
-"170",401426538,"James Madison",1,1,"-7 (-110)",NA,NA,"-7 (-110)",NA,NA,NA,NA,"58.5 (O: -110 U: -110)",NA,NA,"58.5 (O: -110 U: -110)"
-"43",401426539,"SMU",1,0,"-9 (-110)",NA,NA,"-9 (-110)",NA,NA,NA,NA,"69 (O: -110 U: -110)",NA,NA,"69 (O: -110 U: -110)"
-"179",401426539,"North Texas",1,1,"9 (-110)",NA,NA,"9 (-110)",NA,NA,NA,NA,"69 (O: -110 U: -110)",NA,NA,"69 (O: -110 U: -110)"
-"35",401426540,"Rice",1,0,"35 (-110)",NA,NA,"35 (-110)",NA,NA,NA,NA,"64.5 (O: -110 U: -110)",NA,NA,"64.5 (O: -110 U: -110)"
-"171",401426540,"USC",1,1,"-35 (-110)",NA,NA,"-35 (-110)",NA,NA,NA,NA,"64.5 (O: -110 U: -110)",NA,NA,"64.5 (O: -110 U: -110)"
-"26",401426541,"UTEP",1,0,"33 (-110)",NA,NA,"32.5 (-110)",NA,NA,NA,NA,"56.5 (O: -110 U: -110)",NA,NA,"56.5 (O: -110 U: -110)"
-"162",401426541,"Oklahoma",1,1,"-33 (-110)",NA,NA,"-32.5 (-110)",NA,NA,NA,NA,"56.5 (O: -110 U: -110)",NA,NA,"56.5 (O: -110 U: -110)"
-"30",401426542,"Houston",1,0,"-5 (-110)",NA,NA,"-4.5 (-110)",NA,NA,NA,NA,"59.5 (O: -110 U: -110)",NA,NA,"59.5 (O: -110 U: -110)"
-"166",401426542,"UT San Antonio",1,1,"5 (-110)",NA,NA,"4.5 (-110)",NA,NA,NA,NA,"59.5 (O: -110 U: -110)",NA,NA,"59.5 (O: -110 U: -110)"
-"33",401426543,"Western Kentucky",1,0,"-12.5 (-110)",NA,NA,"-12.5 (-110)",NA,NA,NA,NA,"62 (O: -110 U: -110)",NA,NA,"62 (O: -110 U: -110)"
-"169",401426543,"Hawai'i",1,1,"12.5 (-110)",NA,NA,"12.5 (-110)",NA,NA,NA,NA,"62 (O: -110 U: -110)",NA,NA,"62 (O: -110 U: -110)"
-"52",401403868,"Alabama",2,0,"-14.5 (-110)","-15 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"188",401403868,"Texas",2,1,"14.5 (-110)","15 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"99",401403871,"Kentucky",2,0,NA,"4 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"235",401403871,"Florida",2,1,NA,"-4 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"98",401403877,"Tennessee",2,0,NA,"-4 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"234",401403877,"Pittsburgh",2,1,NA,"4 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"96",401403980,"USC",2,0,NA,"-11.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"232",401403980,"Stanford",2,1,NA,"11.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"97",401403984,"Washington State",2,0,NA,"14 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"233",401403984,"Wisconsin",2,1,NA,"-14 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"100",401404062,"Baylor",2,0,NA,"1.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"236",401404062,"BYU",2,1,NA,"-1.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"51",401404064,"Iowa State",2,0,"6 (-110)","6 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"187",401404064,"Iowa",2,1,"-6 (-110)","-6 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"53",401403882,"Penn State",3,0,"1 (-110)","-1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"189",401403882,"Auburn",3,1,"-1 (-110)","1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"101",401403886,"Ole Miss",3,0,NA,"-10 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"237",401403886,"Georgia Tech",3,1,NA,"10 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"55",401403890,"Miami",3,0,"7.5 (-110)","8 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"191",401403890,"Texas A&M",3,1,"-7.5 (-110)","-8 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"102",401403987,"California",3,0,NA,"17.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"238",401403987,"Notre Dame",3,1,NA,"-17.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"104",401403989,"BYU",3,0,NA,"6.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"240",401403989,"Oregon",3,1,NA,"-6.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"103",401403994,"Michigan State",3,0,NA,"-3 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"239",401403994,"Washington",3,1,NA,"3 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"54",401404070,"Oklahoma",3,0,"-5 (-110)","-4.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"190",401404070,"Nebraska",3,1,"5 (-110)","4.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"56",401403893,"Arkansas",4,0,"5 (-110)","6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"192",401403893,"Texas A&M",4,1,"-5 (-110)","-6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"58",401403901,"Florida",4,0,"4.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"194",401403901,"Tennessee",4,1,"-4.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"57",401405095,"Wisconsin",4,0,"16 (-110)","15.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"193",401405095,"Ohio State",4,1,"-16 (-110)","-15.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"105",401411116,"West Virginia",4,0,NA,"-2.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"241",401411116,"Virginia Tech",4,1,NA,"2.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"106",401411123,"Clemson",4,0,NA,"-10 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"242",401411123,"Wake Forest",4,1,NA,"10 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"61",401403902,"Alabama",5,0,"-16 (-110)","-17 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"197",401403902,"Arkansas",5,1,"16 (-110)","17 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"107",401404005,"Stanford",5,0,NA,"13 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"243",401404005,"Oregon",5,1,NA,"-13 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"62",401404083,"Oklahoma State",5,0,"1.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"198",401404083,"Baylor",5,1,"-1.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"108",401404087,"West Virginia",5,0,NA,"12.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"244",401404087,"Texas",5,1,NA,"-12.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"59",401405100,"Michigan",5,0,"-3.5 (-110)","-4 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"195",401405100,"Iowa",5,1,"3.5 (-110)","4 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"60",401411125,"NC State",5,0,"10 (-110)","10 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"196",401411125,"Clemson",5,1,"-10 (-110)","-10 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"64",401403909,"Texas A&M",6,0,"16.5 (-110)","16 (-110)",NA,"14.5 (-110)",NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,"NA (O: NA U: NA)"
-"200",401403909,"Alabama",6,1,"-16.5 (-110)","-16 (-110)",NA,"-14.5 (-110)",NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,"NA (O: NA U: NA)"
-"65",401403911,"Auburn",6,0,"21.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"201",401403911,"Georgia",6,1,"-21.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"110",401404011,"Utah",6,0,NA,"-3 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"246",401404011,"UCLA",6,1,NA,"3 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"63",401404090,"Texas",6,0,"3 (-110)","-1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"199",401404090,"Oklahoma",6,1,"-3 (-110)","1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"109",401404127,"Notre Dame",6,0,NA,"-6.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"245",401404127,"BYU",6,1,NA,"6.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"66",401405110,"Ohio State",6,0,"-11.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"202",401405110,"Michigan State",6,1,"11.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"71",401403917,"LSU",7,0,"3 (-110)","3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"207",401403917,"Florida",7,1,"-3 (-110)","-3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"68",401403921,"Alabama",7,0,"-13 (-110)","-13.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"204",401403921,"Tennessee",7,1,"13 (-110)","13.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"111",401404016,"Stanford",7,0,NA,"17 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"247",401404016,"Notre Dame",7,1,NA,"-17 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"70",401404017,"USC",7,0,"3.5 (-110)","3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"206",401404017,"Utah",7,1,"-3.5 (-110)","-3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"69",401405115,"Penn State",7,0,"7 (-110)","6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"205",401405115,"Michigan",7,1,"-7 (-110)","-6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"67",401405116,"Wisconsin",7,0,"2 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"203",401405116,"Michigan State",7,1,"-2 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"113",401403923,"Ole Miss",8,0,NA,"2.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"249",401403923,"LSU",8,1,NA,"-2.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"73",401404098,"Texas",8,0,"1.5 (-110)","-1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"209",401404098,"Oklahoma State",8,1,"-1.5 (-110)","1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"72",401405119,"Iowa",8,0,"21 (-110)","21 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"208",401405119,"Ohio State",8,1,"-21 (-110)","-21 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"112",401405120,"Minnesota",8,0,NA,"9 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"248",401405120,"Penn State",8,1,NA,"-9 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"77",401403928,"Florida",9,0,"14.5 (-110)","15 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"213",401403928,"Georgia",9,1,"-14.5 (-110)","-15 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"116",401403930,"Kentucky",9,0,NA,"3.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"252",401403930,"Tennessee",9,1,NA,"-3.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"75",401403931,"Ole Miss",9,0,"7 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"211",401403931,"Texas A&M",9,1,"-7 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"114",401404100,"Oklahoma",9,0,NA,"-4 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"250",401404100,"Iowa State",9,1,NA,"4 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"74",401405125,"Michigan State",9,0,"8.5 (-110)","8 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"210",401405125,"Michigan",9,1,"-8.5 (-110)","-8 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"76",401405126,"Ohio State",9,0,"-12 (-110)","-13 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"212",401405126,"Penn State",9,1,"12 (-110)","13 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"115",401411149,"Pittsburgh",9,0,NA,"1 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"251",401411149,"North Carolina",9,1,NA,"-1 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"78",401403933,"Tennessee",10,0,"15.5 (-110)","15.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"214",401403933,"Georgia",10,1,"-15.5 (-110)","-15.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"82",401403934,"Alabama",10,0,"-14.5 (-110)","-16 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"218",401403934,"LSU",10,1,"14.5 (-110)","16 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"81",401403937,"Florida",10,0,"7 (-110)","7 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"217",401403937,"Texas A&M",10,1,"-7 (-110)","-7 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"80",401404104,"Baylor",10,0,"9 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"216",401404104,"Oklahoma",10,1,"-9 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"79",401404130,"Clemson",10,0,"-2 (-110)","-3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"215",401404130,"Notre Dame",10,1,"2 (-110)","3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"117",401411153,"Florida State",10,0,NA,"9.5 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"253",401411153,"Miami",10,1,NA,"-9.5 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"120",401403939,"LSU",11,0,NA,"2.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"256",401403939,"Arkansas",11,1,NA,"-2.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"84",401403943,"Alabama",11,0,"-13.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"220",401403943,"Ole Miss",11,1,"13.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
-"118",401404033,"Colorado",11,0,NA,"21 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"254",401404033,"USC",11,1,NA,"-21 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"85",401404037,"Washington",11,0,"10 (-110)","9 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"221",401404037,"Oregon",11,1,"-10 (-110)","-9 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"119",401404038,"Stanford",11,0,NA,"14 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"255",401404038,"Utah",11,1,NA,"-14 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"121",401405135,"Wisconsin",11,0,NA,"-2 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"257",401405135,"Iowa",11,1,NA,"2 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"83",401405137,"Nebraska",11,0,"12 (-110)","11.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"219",401405137,"Michigan",11,1,"-12 (-110)","-11.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"123",401403949,"Georgia",12,0,NA,"-16 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"259",401403949,"Kentucky",12,1,NA,"16 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"89",401404043,"Utah",12,0,"1 (-110)","3 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"225",401404043,"Oregon",12,1,"-1 (-110)","-3 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"86",401404044,"USC",12,0,"-4 (-110)","-6 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"222",401404044,"UCLA",12,1,"4 (-110)","6 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"87",401404118,"Oklahoma State",12,0,"7 (-110)","5.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"223",401404118,"Oklahoma",12,1,"-7 (-110)","-5.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"122",401405142,"Wisconsin",12,0,NA,"-3 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"258",401405142,"Nebraska",12,1,NA,"3 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"88",401411165,"Miami",12,0,"9 (-110)","7.5 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"224",401411165,"Clemson",12,1,"-9 (-110)","-7.5 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"124",401403956,"Mississippi State",13,0,NA,"5.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"260",401403956,"Ole Miss",13,1,NA,"-5.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"93",401403957,"Auburn",13,0,"23.5 (-110)","24 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"229",401403957,"Alabama",13,1,"-23.5 (-110)","-24 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"90",401403958,"Florida",13,0,"-1.5 (-110)","2 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"226",401403958,"Florida State",13,1,"1.5 (-110)","-2 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"131",401403959,"Georgia Tech",13,0,NA,"28 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"267",401403959,"Georgia",13,1,NA,"-28 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"133",401403962,"South Carolina",13,0,NA,"14 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"269",401403962,"Clemson",13,1,NA,"-14 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"130",401403963,"LSU",13,0,NA,"7.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"266",401403963,"Texas A&M",13,1,NA,"-7.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"128",401404046,"UCLA",13,0,NA,"-6 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"264",401404046,"California",13,1,NA,"6 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"126",401404047,"Oregon",13,0,NA,"-7 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"262",401404047,"Oregon State",13,1,NA,"7 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"129",401404051,"Washington",13,0,NA,"1 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"265",401404051,"Washington State",13,1,NA,"-1 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"92",401404119,"Baylor",13,0,"6.5 (-110)","5.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"228",401404119,"Texas",13,1,"-6.5 (-110)","-5.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"95",401404133,"Notre Dame",13,0,"2.5 (-110)","2.5 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"231",401404133,"USC",13,1,"-2.5 (-110)","-2.5 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"127",401405148,"Nebraska",13,0,NA,"3.5 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"263",401405148,"Iowa",13,1,NA,"-3.5 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"132",401405150,"Minnesota",13,0,NA,"10 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"268",401405150,"Wisconsin",13,1,NA,"-10 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"94",401405153,"Michigan",13,0,"13.5 (-110)","13.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"230",401405153,"Ohio State",13,1,"-13.5 (-110)","-13.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"91",401405154,"Michigan State",13,0,"6 (-110)","6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"227",401405154,"Penn State",13,1,"-6 (-110)","-6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
-"125",401411172,"NC State",13,0,NA,"-4 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
-"261",401411172,"North Carolina",13,1,NA,"4 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"37",401403854,"Utah State",1,0,"38.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"62 (O: -110 U: -110)",NA,NA,NA
+"158",401403854,"Alabama",1,1,"-38.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"62 (O: -110 U: -110)",NA,NA,NA
+"25",401403855,"Cincinnati",1,0,"7 (-110)",NA,NA,NA,NA,NA,NA,NA,"54 (O: -110 U: -110)",NA,NA,NA
+"146",401403855,"Arkansas",1,1,"-7 (-110)",NA,NA,NA,NA,NA,NA,NA,"54 (O: -110 U: -110)",NA,NA,NA
+"32",401403857,"Utah",1,0,"-2 (-110)","-2 (-110)",NA,NA,NA,NA,NA,NA,"52.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"153",401403857,"Florida",1,1,"2 (-110)","2 (-110)",NA,NA,NA,NA,NA,NA,"52.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"120",401403858,"Georgia",1,0,"-17 (-110)","-17 (-105)",NA,NA,NA,NA,NA,NA,"51 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"241",401403858,"Oregon",1,1,"17 (-110)","17 (-115)",NA,NA,NA,NA,NA,NA,"51 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"26",401403860,"Troy",1,0,"23.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"61 (O: -110 U: -110)",NA,NA,NA
+"147",401403860,"Ole Miss",1,1,"-23.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"61 (O: -110 U: -110)",NA,NA,NA
+"34",401403861,"Memphis",1,0,"16 (-110)",NA,NA,NA,NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,NA
+"155",401403861,"Mississippi State",1,1,"-16 (-110)",NA,NA,NA,NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,NA
+"36",401403863,"Georgia State",1,0,"13 (-110)",NA,NA,NA,NA,NA,NA,NA,"56 (O: -110 U: -110)",NA,NA,NA
+"157",401403863,"South Carolina",1,1,"-13 (-110)",NA,NA,NA,NA,NA,NA,NA,"56 (O: -110 U: -110)",NA,NA,NA
+"8",401403864,"Ball State",1,0,"32.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"68 (O: -110 U: -110)",NA,NA,NA
+"129",401403864,"Tennessee",1,1,"-32.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"68 (O: -110 U: -110)",NA,NA,NA
+"121",401403867,"LSU",1,0,"-3 (-105)","-3.5 (-105)",NA,NA,NA,NA,NA,NA,"51.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"242",401403867,"Florida State",1,1,"3 (-115)","3.5 (-115)",NA,NA,NA,NA,NA,NA,"51.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"16",401403966,"TCU",1,0,"-7.5 (-110)","-9 (-110)",NA,NA,NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"137",401403966,"Colorado",1,1,"7.5 (-110)","9 (-110)",NA,NA,NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"24",401403967,"Arizona",1,0,"5.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"49 (O: -110 U: -110)",NA,NA,NA
+"145",401403967,"San Diego State",1,1,"-5.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"49 (O: -110 U: -110)",NA,NA,NA
+"40",401403969,"Boise State",1,0,"4 (-110)",NA,NA,NA,NA,NA,NA,NA,"59.5 (O: -110 U: -110)",NA,NA,NA
+"161",401403969,"Oregon State",1,1,"-4 (-110)",NA,NA,NA,NA,NA,NA,NA,"59.5 (O: -110 U: -110)",NA,NA,NA
+"20",401403971,"Bowling Green",1,0,"26 (-110)",NA,NA,NA,NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,NA
+"141",401403971,"UCLA",1,1,"-26 (-110)",NA,NA,NA,NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,NA
+"39",401403973,"Kent State",1,0,"22.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"60.5 (O: -110 U: -110)",NA,NA,NA
+"160",401403973,"Washington",1,1,"-22.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"60.5 (O: -110 U: -110)",NA,NA,NA
+"33",401404124,"Notre Dame",1,0,"14.5 (-110)","14 (-105)",NA,NA,NA,NA,NA,NA,"58 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"154",401404124,"Ohio State",1,1,"-14.5 (-110)","-14 (-115)",NA,NA,NA,NA,NA,NA,"58 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"31",401404157,"Liberty",1,0,"-3 (-110)",NA,NA,NA,NA,NA,NA,NA,"53.5 (O: -110 U: -110)",NA,NA,NA
+"152",401404157,"Southern Mississippi",1,1,"3 (-110)",NA,NA,NA,NA,NA,NA,NA,"53.5 (O: -110 U: -110)",NA,NA,NA
+"4",401405058,"Wyoming",1,0,"10 (-110)",NA,NA,NA,NA,NA,NA,NA,"46.5 (O: -110 U: -110)",NA,NA,NA
+"125",401405058,"Illinois",1,1,"-10 (-110)",NA,NA,NA,NA,NA,NA,NA,"46.5 (O: -110 U: -110)",NA,NA,NA
+"2",401405059,"Northwestern",1,0,"12.5 (-110)","11.5 (-110)",NA,NA,NA,NA,NA,NA,"51 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"123",401405059,"Nebraska",1,1,"-12.5 (-110)","-11.5 (-110)",NA,NA,NA,NA,NA,NA,"51 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"11",401405060,"New Mexico State",1,0,"38.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,NA
+"132",401405060,"Minnesota",1,1,"-38.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,NA
+"15",401405061,"Illinois",1,0,"5.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"48.5 (O: -110 U: -110)",NA,NA,NA
+"136",401405061,"Indiana",1,1,"-5.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"48.5 (O: -110 U: -110)",NA,NA,NA
+"9",401405064,"Penn State",1,0,"-3 (-120)","-3 (-110)",NA,NA,NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"130",401405064,"Purdue",1,1,"3 (100)","3 (-110)",NA,NA,NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"19",401405066,"Buffalo",1,0,"21.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"64 (O: -110 U: -110)",NA,NA,NA
+"140",401405066,"Maryland",1,1,"-21.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"64 (O: -110 U: -110)",NA,NA,NA
+"18",401405067,"Colorado State",1,0,"28 (-110)",NA,NA,NA,NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,NA
+"139",401405067,"Michigan",1,1,"-28 (-110)",NA,NA,NA,NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,NA
+"3",401409235,"Nevada",1,0,"-12.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"55.5 (O: -110 U: -110)",NA,NA,NA
+"124",401409235,"New Mexico State",1,1,"12.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"55.5 (O: -110 U: -110)",NA,NA,NA
+"7",401411092,"West Virginia",1,0,"7 (-120)","6.5 (-110)",NA,NA,NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"128",401411092,"Pittsburgh",1,1,"-7 (100)","-6.5 (-110)",NA,NA,NA,NA,NA,NA,"54.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"14",401411094,"Temple",1,0,"8 (-110)",NA,NA,NA,NA,NA,NA,NA,"53.5 (O: -110 U: -110)",NA,NA,NA
+"135",401411094,"Duke",1,1,"-8 (-110)",NA,NA,NA,NA,NA,NA,NA,"53.5 (O: -110 U: -110)",NA,NA,NA
+"17",401411095,"North Carolina",1,0,"-3 (-105)",NA,NA,NA,NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,NA
+"138",401411095,"Appalachian State",1,1,"3 (-115)",NA,NA,NA,NA,NA,NA,NA,"57 (O: -110 U: -110)",NA,NA,NA
+"38",401411099,"Louisville",1,0,"-3 (-110)",NA,NA,NA,NA,NA,NA,NA,"59.5 (O: -110 U: -110)",NA,NA,NA
+"159",401411099,"Syracuse",1,1,"3 (-110)",NA,NA,NA,NA,NA,NA,NA,"59.5 (O: -110 U: -110)",NA,NA,NA
+"41",401411101,"Clemson",1,0,"-19.5 (-110)","-20.5 (-115)",NA,NA,NA,NA,NA,NA,"50 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"162",401411101,"Georgia Tech",1,1,"19.5 (-110)","20.5 (-105)",NA,NA,NA,NA,NA,NA,"50 (O: -110 U: -110)","NA (O: NA U: NA)",NA,NA
+"23",401415211,"Tulsa",1,0,"-1 (-110)",NA,NA,NA,NA,NA,NA,NA,"46.5 (O: -110 U: -110)",NA,NA,NA
+"144",401415211,"Wyoming",1,1,"1 (-110)",NA,NA,NA,NA,NA,NA,NA,"46.5 (O: -110 U: -110)",NA,NA,NA
+"21",401415212,"Texas State",1,0,"8.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"56.5 (O: -110 U: -110)",NA,NA,NA
+"142",401415212,"Nevada",1,1,"-8.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"56.5 (O: -110 U: -110)",NA,NA,NA
+"27",401415612,"BYU",1,0,"-12 (-110)",NA,NA,NA,NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,NA
+"148",401415612,"South Florida",1,1,"12 (-110)",NA,NA,NA,NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,NA
+"6",401416569,"Central Michigan",1,0,"21 (-110)",NA,NA,NA,NA,NA,NA,NA,"58 (O: -110 U: -110)",NA,NA,NA
+"127",401416569,"Oklahoma State",1,1,"-21 (-110)",NA,NA,NA,NA,NA,NA,NA,"58 (O: -110 U: -110)",NA,NA,NA
+"12",401416591,"Western Michigan",1,0,"18 (-110)",NA,NA,NA,NA,NA,NA,NA,"54.5 (O: -110 U: -110)",NA,NA,NA
+"133",401416591,"Michigan State",1,1,"-18 (-110)",NA,NA,NA,NA,NA,NA,NA,"54.5 (O: -110 U: -110)",NA,NA,NA
+"13",401426330,"Virginia Tech",1,0,"-8.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"52.5 (O: -110 U: -110)",NA,NA,NA
+"134",401426330,"Old Dominion",1,1,"8.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"52.5 (O: -110 U: -110)",NA,NA,NA
+"5",401426530,"Charlotte",1,0,"7 (-110)",NA,NA,NA,NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,NA
+"126",401426530,"Florida Atlantic",1,1,"-7 (-110)",NA,NA,NA,NA,NA,NA,NA,"57.5 (O: -110 U: -110)",NA,NA,NA
+"1",401426531,"North Texas",1,0,"-1.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"55.5 (O: -110 U: -110)",NA,NA,NA
+"122",401426531,"UTEP",1,1,"1.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"55.5 (O: -110 U: -110)",NA,NA,NA
+"30",401426536,"Florida Atlantic",1,0,"-2 (-110)",NA,NA,NA,NA,NA,NA,NA,"48.5 (O: -110 U: -110)",NA,NA,NA
+"151",401426536,"Ohio",1,1,"2 (-110)",NA,NA,NA,NA,NA,NA,NA,"48.5 (O: -110 U: -110)",NA,NA,NA
+"10",401426537,"Louisiana Tech",1,0,"20 (-110)",NA,NA,NA,NA,NA,NA,NA,"59 (O: -110 U: -110)",NA,NA,NA
+"131",401426537,"Missouri",1,1,"-20 (-110)",NA,NA,NA,NA,NA,NA,NA,"59 (O: -110 U: -110)",NA,NA,NA
+"28",401426538,"Middle Tennessee",1,0,"7 (-110)",NA,NA,NA,NA,NA,NA,NA,"58.5 (O: -110 U: -110)",NA,NA,NA
+"149",401426538,"James Madison",1,1,"-7 (-110)",NA,NA,NA,NA,NA,NA,NA,"58.5 (O: -110 U: -110)",NA,NA,NA
+"35",401426539,"SMU",1,0,"-9 (-110)",NA,NA,NA,NA,NA,NA,NA,"69 (O: -110 U: -110)",NA,NA,NA
+"156",401426539,"North Texas",1,1,"9 (-110)",NA,NA,NA,NA,NA,NA,NA,"69 (O: -110 U: -110)",NA,NA,NA
+"29",401426540,"Rice",1,0,"35 (-110)",NA,NA,NA,NA,NA,NA,NA,"64.5 (O: -110 U: -110)",NA,NA,NA
+"150",401426540,"USC",1,1,"-35 (-110)",NA,NA,NA,NA,NA,NA,NA,"64.5 (O: -110 U: -110)",NA,NA,NA
+"22",401426541,"UTEP",1,0,"33 (-110)",NA,NA,NA,NA,NA,NA,NA,"56.5 (O: -110 U: -110)",NA,NA,NA
+"143",401426541,"Oklahoma",1,1,"-33 (-110)",NA,NA,NA,NA,NA,NA,NA,"56.5 (O: -110 U: -110)",NA,NA,NA
+"43",401403868,"Alabama",2,0,"-14.5 (-110)","-15 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"164",401403868,"Texas",2,1,"14.5 (-110)","15 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"87",401403871,"Kentucky",2,0,NA,"4 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"208",401403871,"Florida",2,1,NA,"-4 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"86",401403877,"Tennessee",2,0,NA,"-4 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"207",401403877,"Pittsburgh",2,1,NA,"4 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"84",401403980,"USC",2,0,NA,"-11.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"205",401403980,"Stanford",2,1,NA,"11.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"85",401403984,"Washington State",2,0,NA,"14 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"206",401403984,"Wisconsin",2,1,NA,"-14 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"88",401404062,"Baylor",2,0,NA,"1.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"209",401404062,"BYU",2,1,NA,"-1.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"42",401404064,"Iowa State",2,0,"6 (-110)","6 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"163",401404064,"Iowa",2,1,"-6 (-110)","-6 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"44",401403882,"Penn State",3,0,"1 (-110)","-1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"165",401403882,"Auburn",3,1,"-1 (-110)","1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"89",401403987,"California",3,0,NA,"17.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"210",401403987,"Notre Dame",3,1,NA,"-17.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"91",401403989,"BYU",3,0,NA,"6.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"212",401403989,"Oregon",3,1,NA,"-6.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"90",401403994,"Michigan State",3,0,NA,"-3 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"211",401403994,"Washington",3,1,NA,"3 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"45",401404070,"Oklahoma",3,0,"-5 (-110)","-4.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"166",401404070,"Nebraska",3,1,"5 (-110)","4.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"46",401403893,"Arkansas",4,0,"5 (-110)","6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"167",401403893,"Texas A&M",4,1,"-5 (-110)","-6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"48",401403901,"Florida",4,0,"4.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"169",401403901,"Tennessee",4,1,"-4.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"47",401405095,"Wisconsin",4,0,"16 (-110)","15.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"168",401405095,"Ohio State",4,1,"-16 (-110)","-15.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"92",401411116,"West Virginia",4,0,NA,"-2.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"213",401411116,"Virginia Tech",4,1,NA,"2.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"93",401411123,"Clemson",4,0,NA,"-10 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"214",401411123,"Wake Forest",4,1,NA,"10 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"50",401403902,"Alabama",5,0,"-16 (-110)","-17 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"171",401403902,"Arkansas",5,1,"16 (-110)","17 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"94",401404005,"Stanford",5,0,NA,"13 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"215",401404005,"Oregon",5,1,NA,"-13 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"51",401404083,"Oklahoma State",5,0,"1.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"172",401404083,"Baylor",5,1,"-1.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"95",401404087,"West Virginia",5,0,NA,"12.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"216",401404087,"Texas",5,1,NA,"-12.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"49",401405100,"Michigan",5,0,"-3.5 (-110)","-4 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"170",401405100,"Iowa",5,1,"3.5 (-110)","4 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"96",401411125,"NC State",5,0,NA,"10 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"217",401411125,"Clemson",5,1,NA,"-10 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"53",401403909,"Texas A&M",6,0,"16.5 (-110)","16 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"174",401403909,"Alabama",6,1,"-16.5 (-110)","-16 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"54",401403911,"Auburn",6,0,"21.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"175",401403911,"Georgia",6,1,"-21.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"98",401404011,"Utah",6,0,NA,"-3 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"219",401404011,"UCLA",6,1,NA,"3 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"52",401404090,"Texas",6,0,"3 (-110)","-1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"173",401404090,"Oklahoma",6,1,"-3 (-110)","1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"97",401404127,"Notre Dame",6,0,NA,"-6.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"218",401404127,"BYU",6,1,NA,"6.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"55",401405110,"Ohio State",6,0,"-11.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"176",401405110,"Michigan State",6,1,"11.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"60",401403917,"LSU",7,0,"3 (-110)","3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"181",401403917,"Florida",7,1,"-3 (-110)","-3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"57",401403921,"Alabama",7,0,"-13 (-110)","-13.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"178",401403921,"Tennessee",7,1,"13 (-110)","13.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"99",401404016,"Stanford",7,0,NA,"17 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"220",401404016,"Notre Dame",7,1,NA,"-17 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"59",401404017,"USC",7,0,"3.5 (-110)","3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"180",401404017,"Utah",7,1,"-3.5 (-110)","-3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"58",401405115,"Penn State",7,0,"7 (-110)","6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"179",401405115,"Michigan",7,1,"-7 (-110)","-6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"56",401405116,"Wisconsin",7,0,"2 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"177",401405116,"Michigan State",7,1,"-2 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"62",401404098,"Texas",8,0,"1.5 (-110)","-1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"183",401404098,"Oklahoma State",8,1,"-1.5 (-110)","1 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"61",401405119,"Iowa",8,0,"21 (-110)","21 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"182",401405119,"Ohio State",8,1,"-21 (-110)","-21 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"100",401405120,"Minnesota",8,0,NA,"9 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"221",401405120,"Penn State",8,1,NA,"-9 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"66",401403928,"Florida",9,0,"14.5 (-110)","15 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"187",401403928,"Georgia",9,1,"-14.5 (-110)","-15 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"103",401403930,"Kentucky",9,0,NA,"3.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"224",401403930,"Tennessee",9,1,NA,"-3.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"64",401403931,"Ole Miss",9,0,"7 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"185",401403931,"Texas A&M",9,1,"-7 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"101",401404100,"Oklahoma",9,0,NA,"-4 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"222",401404100,"Iowa State",9,1,NA,"4 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"63",401405125,"Michigan State",9,0,"8.5 (-110)","8 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"184",401405125,"Michigan",9,1,"-8.5 (-110)","-8 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"65",401405126,"Ohio State",9,0,"-12 (-110)","-13 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"186",401405126,"Penn State",9,1,"12 (-110)","13 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"102",401411149,"Pittsburgh",9,0,NA,"1 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"223",401411149,"North Carolina",9,1,NA,"-1 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"67",401403933,"Tennessee",10,0,"15.5 (-110)","15.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"188",401403933,"Georgia",10,1,"-15.5 (-110)","-15.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"71",401403934,"Alabama",10,0,"-14.5 (-110)","-16 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"192",401403934,"LSU",10,1,"14.5 (-110)","16 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"70",401403937,"Florida",10,0,"7 (-110)","7 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"191",401403937,"Texas A&M",10,1,"-7 (-110)","-7 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"69",401404104,"Baylor",10,0,"9 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"190",401404104,"Oklahoma",10,1,"-9 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"68",401404130,"Clemson",10,0,"-2 (-110)","-3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"189",401404130,"Notre Dame",10,1,"2 (-110)","3 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"106",401403939,"LSU",11,0,NA,"2.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"227",401403939,"Arkansas",11,1,NA,"-2.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"73",401403943,"Alabama",11,0,"-13.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"194",401403943,"Ole Miss",11,1,"13.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA,NA
+"104",401404033,"Colorado",11,0,NA,"21 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"225",401404033,"USC",11,1,NA,"-21 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"74",401404037,"Washington",11,0,"10 (-110)","9 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"195",401404037,"Oregon",11,1,"-10 (-110)","-9 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"105",401404038,"Stanford",11,0,NA,"14 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"226",401404038,"Utah",11,1,NA,"-14 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"107",401405135,"Wisconsin",11,0,NA,"-2 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"228",401405135,"Iowa",11,1,NA,"2 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"72",401405137,"Nebraska",11,0,"12 (-110)","11.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"193",401405137,"Michigan",11,1,"-12 (-110)","-11.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"109",401403949,"Georgia",12,0,NA,"-16 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"230",401403949,"Kentucky",12,1,NA,"16 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"77",401404043,"Utah",12,0,"1 (-110)","3 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"198",401404043,"Oregon",12,1,"-1 (-110)","-3 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"75",401404044,"USC",12,0,"-4 (-110)","-6 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"196",401404044,"UCLA",12,1,"4 (-110)","6 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"76",401404118,"Oklahoma State",12,0,"7 (-110)","5.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"197",401404118,"Oklahoma",12,1,"-7 (-110)","-5.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"108",401405142,"Wisconsin",12,0,NA,"-3 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"229",401405142,"Nebraska",12,1,NA,"3 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"81",401403957,"Auburn",13,0,"23.5 (-110)","24 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"202",401403957,"Alabama",13,1,"-23.5 (-110)","-24 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"78",401403958,"Florida",13,0,"-1.5 (-110)","2 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"199",401403958,"Florida State",13,1,"1.5 (-110)","-2 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"116",401403959,"Georgia Tech",13,0,NA,"28 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"237",401403959,"Georgia",13,1,NA,"-28 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"118",401403962,"South Carolina",13,0,NA,"14 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"239",401403962,"Clemson",13,1,NA,"-14 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"115",401403963,"LSU",13,0,NA,"7.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"236",401403963,"Texas A&M",13,1,NA,"-7.5 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"113",401404046,"UCLA",13,0,NA,"-6 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"234",401404046,"California",13,1,NA,"6 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"111",401404047,"Oregon",13,0,NA,"-7 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"232",401404047,"Oregon State",13,1,NA,"7 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"114",401404051,"Washington",13,0,NA,"1 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"235",401404051,"Washington State",13,1,NA,"-1 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"80",401404119,"Baylor",13,0,"6.5 (-110)","5.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"201",401404119,"Texas",13,1,"-6.5 (-110)","-5.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"83",401404133,"Notre Dame",13,0,"2.5 (-110)","2.5 (-105)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"204",401404133,"USC",13,1,"-2.5 (-110)","-2.5 (-115)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"112",401405148,"Nebraska",13,0,NA,"3.5 (-115)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"233",401405148,"Iowa",13,1,NA,"-3.5 (-105)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"117",401405150,"Minnesota",13,0,NA,"10 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"238",401405150,"Wisconsin",13,1,NA,"-10 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"82",401405153,"Michigan",13,0,"13.5 (-110)","13.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"203",401405153,"Ohio State",13,1,"-13.5 (-110)","-13.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"79",401405154,"Michigan State",13,0,"6 (-110)","6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"200",401405154,"Penn State",13,1,"-6 (-110)","-6.5 (-110)",NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)","NA (O: NA U: NA)",NA,NA
+"110",401411172,"NC State",13,0,NA,"-4 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"231",401411172,"North Carolina",13,1,NA,"4 (-110)",NA,NA,NA,NA,NA,NA,NA,"NA (O: NA U: NA)",NA,NA
+"119",NA,"Utah State",NA,0,"-27.5 (-110)","10 (-115)",NA,"-12.5 (-110)",NA,NA,NA,NA,"60.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"50.5 (O: -110 U: -110)"
+"240",NA,NA,NA,1,"27.5 (-110)","-10 (-105)",NA,"12.5 (-110)",NA,NA,NA,NA,"60.5 (O: -110 U: -110)","NA (O: NA U: NA)",NA,"50.5 (O: -110 U: -110)"
